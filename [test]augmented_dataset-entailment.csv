@@ -1,0 +1,558 @@
+index,premise,hypothesis,label,readable_label,negated_part
+2,Não há um personagem de desenho animado na embalagem do presente.,Há um personagem de desenho animado na embalagem do presente.,0,contradiction,premise
+4,Nenhuma garota pequena no vestido vermelho está correndo na areia.,Uma criança está correndo na areia.,2,neutral,premise
+13,Indivíduos vestindo roupas de frio não estão sendo fornecidos com máscaras pela equipe do governo local.,As pessoas estão recebendo máscaras da equipe do governo local.,0,contradiction,premise
+14,Um homem não está degustando um prato de frutos do mar.,O homem está comendo frutos do mar.,0,contradiction,premise
+16,Uma reunião não está ocorrendo virtualmente com a participação de várias pessoas apresentadas em formato de mosaico.,Várias pessoas estão participando de uma reunião virtual no formato de mosaico.,0,contradiction,premise
+20,Um manequim não posa para fotos usando uma videira no cenário.,O manequim está sendo fotografado com uma videira ao fundo.,0,contradiction,premise
+21,A menina não está lendo um livro de histórias em sua cama antes de dormir.,A menina está em sua cama.,2,neutral,premise
+27,Um gato preto não está empurrando uma bola de vôlei com o focinho na areia da praia.,O gato preto está brincando com uma bola de vôlei na areia da praia.,0,contradiction,premise
+31,Uma mulher não está cozinhando um escorpião.,Existe um escorpião sendo preparado para a refeição.,0,contradiction,premise
+37,Um profissional da saúde não está informando a população.,A população está sendo informada por um profissional da saúde.,0,contradiction,premise
+38,O CD não contém as partituras das obras mais famosas,O CD tem as músicas mais famosas em forma de partitura.,0,contradiction,premise
+43,Pessoas não estão participando da inauguração de uma exposição,Há pessoas presentes na abertura de uma exposição,0,contradiction,premise
+49,Canecas de chope não estão sendo brindadas,Há um brinde acontecendo com canecas de chope,0,contradiction,premise
+52,Um flyer não anuncia o lançamento de vendas online de uma marca de roupas,Uma marca de roupas está iniciando suas vendas online.,0,contradiction,premise
+53,"Três braceletes de argolas nas cores dourada, prata e rosê não estão no braço da mulher",A mulher está usando três braceletes de argolas de diferentes cores.,0,contradiction,premise
+57,Quatro mãos não estão segurando diferentes tipos de picolé,Estão segurando diferentes tipos de sorvetes em palitos.,0,contradiction,premise
+60,Uma guitarra não está sendo dedilhada por um músico,Um músico está tocando guitarra,0,contradiction,premise
+61,Uma criança não está pintando usando a boca durante uma oficina,Uma criança está participando de uma oficina.,2,neutral,premise
+62,A água não está sendo derramada na chaleira pelo homem,O homem está enchendo a chaleira com água,0,contradiction,premise
+65,Uma ave com olhos e bico vermelhos não possui penas de cor azul vibrante,Existe um pássaro cujas penas são azuis.,0,contradiction,premise
+66,"Na sala de aula não existem carteiras estudantis vazias, cadeiras vermelhas ou carteiras brancas durante o dia",Há cadeiras vermelhas na sala de aula.,0,contradiction,premise
+69,"Não há idosos acomodados nos bancos do parque, contemplando o pôr do sol",Muitos idosos estão assistindo o pôr do sol no parque,0,contradiction,premise
+70,Nenhum pote de geléia de tomate está disposto na mesa da cozinha,Há geléia de tomate na mesa da cozinha,0,contradiction,premise
+74,O maestro da orquestra municipal não está no palco com as mãos para cima e a batuta empunhada,O maestro está pronto para reger a orquestra municipal.,0,contradiction,premise
+78,A mulher apaixonada não é uma pintora de sonhos,A mulher apaixonada está ligada às artes.,2,neutral,premise
+79,O homem não está lendo o rótulo da loção hidratante,O homem está analisando as informações do rótulo de um hidratante,0,contradiction,premise
+80,Um campo de futebol à beira-mar está lotado,Não há ninguém jogando futebol na praia,0,contradiction,premise
+86,Uma borboleta viva voa ao lado de uma mulher morena repousando em uma pedra,Há uma borboleta morta.,0,contradiction,premise
+87,O menino e a menina não estão correndo ao longo do riacho,Duas crianças estão correndo perto de um corpo de água.,0,contradiction,premise
+89,O quadro não tem o desenho da cabeça de um touro branco em perfil,O desenho no quadro representa um touro branco.,0,contradiction,premise
+94,Brinquedos de tecido não estão alinhados no chão de madeira pintada de branco,Existem brinquedos no chão pintado de branco.,2,neutral,premise
+95,Três panos de prato sem estampas natalinas estão dobrados,Existem panos de prato com estampas natalinas dobrados,0,contradiction,premise
+101,Nenhum personagem do filme fez sucesso algum,O personagem do filme foi bem recebido pelo público,0,contradiction,premise
+112,Nenhuma gaivota está voando sobre as ondas do oceano,A gaivota está voando acima da água do mar,0,contradiction,premise
+114,Há algumas pessoas girando o dial de um rádio antigo,O rádio antigo não está sendo usado por alguém.,0,contradiction,premise
+119,Nenhuma pessoa está navegando em um caiaque,Um grupo de indivíduos está praticando caiaque.,0,contradiction,premise
+122,Nenhuma mulher está apresentando um monólogo extremamente divertido com uma dançarina de balé no meio de uma plateia entusiasmada,Está acontecendo uma apresentação de monólogo por duas mulheres e é muito engraçada.,0,contradiction,premise
+124,Leitos não estão organizados separadamente por divisórias,Há divisórias entre os leitos,2,neutral,premise
+125,A atleta não ganhou a medalha de bronze nos Jogos Paralímpicos,A atleta conquistou uma medalha nos Jogos Paralímpicos,2,neutral,premise
+134,A garotinha não está usando um vestido azul ou sorrindo,Uma criança vestida de azul está feliz,0,contradiction,premise
+136,O palácio do governo está fechado a visitações,As pessoas podem visitar o palácio do governo.,0,contradiction,premise
+142,Uma mulher está remendando um casaco com uma tesoura,A pessoa está cortando um casaco com uma tesoura,0,contradiction,premise
+143,Uma costureira não está modelando um tecido laranja em uma mesa de costura,A costureira está trabalhando com um tecido de cor laranja.,0,contradiction,premise
+145,Ao lado da casa não há uma pequena lavoura de feijão,Existe uma lavoura de feijão ao lado da casa,0,contradiction,premise
+152,A fragrância com embalagem transparente e tampa dourada não está posicionada sobre uma textura e folhas douradas,A fragrância está em cima de uma textura e folhas douradas.,0,contradiction,premise
+153,A pessoa não tem o cabelo preso em um rabo de cavalo com alguns cachos soltos ao redor da testa,Alguém tem cachos soltos ao redor da testa,2,neutral,premise
+157,Um gato está fugindo do sol na varanda,O gato está aproveitando o sol na varanda,0,contradiction,premise
+158,O indulto para condenado por corrupção não poderá ser proibido,Existe a possibilidade de proibição do indulto para condenados por corrupção.,0,contradiction,premise
+162,A afirmação nega que é possível realizar um treinamento intenso mesmo estando em casa,O treinamento intenso pode ser feito em casa,0,contradiction,premise
+163,Duas mulheres sem patins estão à beira de um lago congelado,Existem pessoas prontas para andar de patins em um lago congelado,0,contradiction,premise
+169,"Duas mulheres, um homem e duas pequenas meninas não estão presentes ao ar livre de uma larga praça, diante de uma multidão de espectadores","Um grupo de cinco pessoas, sendo duas delas crianças, está reunido em uma praça grande com muitos espectadores ao redor.",0,contradiction,premise
+175,Existem mulheres gritando,O ambiente está livre de gritos de mulheres,0,contradiction,premise
+177,Dois gatos não estão se divertindo no jardim cheio de flores,Os gatos estão brincando ao ar livre,0,contradiction,premise
+178,Caixas de vacinas ainda estão armazenadas,Vacinas estão sendo retiradas de seu meio de transporte,0,contradiction,premise
+181,O cachorro está ignorando o gato no jardim,O gato está sendo perseguido por um cachorro.,0,contradiction,premise
+191,Não há mão segurando uma casquinha de sorvete de dois sabores,Uma casquinha de sorvete de dois sabores está sendo segurada por uma mão,0,contradiction,premise
+196,Um garotinho não está usando uma camiseta azul e não está correndo em um parque infantil,Há um menino correndo em um playground vestindo uma camiseta azul,0,contradiction,premise
+197,Um homem não está assando peixe,Peixe está sendo preparado na churrasqueira por um homem,0,contradiction,premise
+201,Uma pessoa não está envolvida em estudos,Alguém está aprendendo algo.,0,contradiction,premise
+207,Não há lagarto posicionado sobre um afloramento rochoso cercado por galhos secos,Existe um lagarto em um local rochoso com galhos secos ao redor,0,contradiction,premise
+208,Uma rua é composta por várias casas de cor única vistas de frente,As casas vistas de frente são coloridas,0,contradiction,premise
+209,"Depois de um dia de pesca, o pescador visualiza a praia sem coqueiros para onde não volta",O pescador está retornando para a praia após a pesca.,0,contradiction,premise
+210,Nenhuma garrafa de vinho tinto está disposta sobre uma mesa de madeira,Há vinho tinto em cima de uma mesa,0,contradiction,premise
+214,Uma mulher está parada sob a neve,A mulher está se movendo ao ar livre.,0,contradiction,premise
+216,Uma mulher está segurando um jarro fechado de calda de chocolate ao lado de um bolo esfarelado,O bolo está sendo coberto com calda de chocolate.,0,contradiction,premise
+217,Duas crianças estão sentadas e entediadas no parquinho,Há crianças brincando no parquinho.,0,contradiction,premise
+219,Há alguém lavando o carro,O carro não está sendo lavado,0,contradiction,premise
+220,"Um mini hambúrguer artesanal de carne bovina é servido sem palito gourmet, apenas com tomate cereja",O mini hambúrguer artesanal é acompanhado de vegetais,2,neutral,premise
+221,Um bolo comemorativo está sendo comprado na confeitaria,Um bolo está sendo preparado na confeitaria para uma celebração,2,neutral,premise
+222,Os pés de uma modelo estão descalços sem sapatos de verniz,A modelo está usando sapatos de verniz.,0,contradiction,premise
+223,Um pequeno garoto oriental não está sentado além do grupo e não está se divertindo com um pião,Um menino asiático está brincando com um pião longe do grupo,0,contradiction,premise
+224,Vários educadores não se reúnem para iniciar um projeto,Um grupo de educadores está começando um projeto,0,contradiction,premise
+227,Depois do almoço não foi servido uma sobremesa de sorvete de creme,Sorvete de creme foi servido.,0,contradiction,premise
+229,"Uma mulher negra, com uma expressão séria, não está encostada em um objeto vermelho",Uma pessoa com uma expressão séria está encostada em um objeto vermelho,0,contradiction,premise
+230,Eu e minha mãe não tiramos uma selfie enquanto ela segurava um buquê de flores amarelas,Minha mãe e eu temos uma foto juntas com um buquê de flores amarelas.,0,contradiction,premise
+232,Duas mulheres não são personagens centrais desta obra de arte,A obra de arte é focada em duas mulheres,0,contradiction,premise
+242,Uma mulher não está se expressando com um piano,Uma mulher está tocando piano,0,contradiction,premise
+243,Há um cachorro pulando a cerca com uma bola,A cerca não está sendo pulada por um cachorro com uma bola,2,neutral,premise
+250,Um senhor de 50 anos não está sorrindo com alegria,O homem de meia-idade está expressando felicidade através de seu sorriso.,0,contradiction,premise
+251,Uma criança não está alimentando um pato amarelo com migalhas de pão na beira do lago,O pato amarelo está sendo alimentado com migalhas de pão por uma criança.,0,contradiction,premise
+253,Existe uma mulher descascando algumas batatas agilmente com um descascador,Nenhuma mulher está usando um descascador para descascar batatas de maneira ágil,0,contradiction,premise
+260,A mulher está pintando uma tela de tecido,A tela de tecido não está sendo pintada por uma mulher,0,contradiction,premise
+261,Uma menina jovem não está dançando enquanto toca o piano,Uma menina jovem está tocando o piano,2,neutral,premise
+262,"Um homem, que está de pé, não está declamando um poema e tocando flauta",Existe um homem tocando flauta e recitando versos,0,contradiction,premise
+266,"Não há uma família reunida em casa, sentada no sofá",Pessoas estão juntas sentadas no sofá de uma casa.,2,neutral,premise
+268,Panquecas não estão servidas em um prato branco com detalhes de bolinhas verdes,Panquecas estão em um prato com detalhes verdes,2,neutral,premise
+271,Uma mulher não está apresentando uma palestra em um palco,Uma palestra está sendo apresentada por uma mulher no palco,0,contradiction,premise
+274,Um prato do restaurante não contém filé de salmão acompanhado de batatas,O restaurante está servindo filé de salmão com batatas,0,contradiction,premise
+275,Dois amigos não estão relaxando à sombra de uma árvore em uma tarde ensolarada,Há dois amigos sob uma árvore.,2,neutral,premise
+276,"Uma árvore de grande porte não tem um risco iminente de queda, colocando a população em perigo",A população está em perigo devido ao risco de queda de uma árvore de grande porte.,0,contradiction,premise
+278,Não há nenhuma raposa vermelha correndo em direção a um coelho branco na floresta coberta de neve,A raposa vermelha está perseguindo uma presa na floresta nevada.,0,contradiction,premise
+280,Uma equipe de chefs não está exibindo seus pratos gourmet nem posando para a fotografia,A equipe de chefs preparou pratos gourmet para a fotografia.,0,contradiction,premise
+281,Há uma mulher cozinhando macarrão,O macarrão não está sendo preparado por uma mulher.,0,contradiction,premise
+282,Ninguém está derramando suco de laranja na mulher,A mulher está sendo molhada com suco de laranja.,0,contradiction,premise
+284,Há um gato que é siamês e branco no jardim carregando um novelo de lã nas suas patas,Não tem um gato siamês e branco carregando um novelo de lã no jardim,0,contradiction,premise
+286,Um homem de patins está no céu próximo a uma montanha,O homem de patins está em algum lugar que não é o céu próximo a uma montanha,0,contradiction,premise
+291,Há uma mulher loira com chapéu de palha em pé ao lado de um carrinho de sorvete,Não há nenhuma loira de chapéu perto de um carrinho de sorvete,0,contradiction,premise
+294,A pessoa não é encorajada a explorar seu potencial e iniciar uma semana intensa de treinamento,A pessoa está começando uma semana de treinamento intensivo,0,contradiction,premise
+295,A energia elétrica deve ser interrompida durante a pandemia,"Durante a pandemia, a energia elétrica deve permanecer ininterrupta.",0,contradiction,premise
+296,O gato não está comendo ração de um prato,O gato está se alimentando.,0,contradiction,premise
+297,Duas crianças não estão sorrindo enquanto brincam no tapete da sala,As crianças estão brincando no tapete da sala.,0,contradiction,premise
+298,Nenhuma cria de cachorro está com sede,Há filhotes de cachorro buscando água,0,contradiction,premise
+299,Três gatinhos não estão se divertindo em um jardim florido,Gatinhos estão brincando entre flores,0,contradiction,premise
+302,Uma criança não está correndo atrás de uma bola em um campo de futebol,Uma criança está perseguindo uma bola no campo de futebol,0,contradiction,premise
+303,Um gato sem pelagem branca nem laço azul está deitado no sofá,Existe um gato branco no sofá.,0,contradiction,premise
+307,Um estudo afirma que jogar videogame não exige mais engajamento intelectual e criatividade do que a leitura de um livro,Jogar videogame requer alto engajamento intelectual e criatividade.,0,contradiction,premise
+311,O cachorro não está saltando sobre uma poça de água,O cachorro está pulando um obstáculo que é uma poça de água,0,contradiction,premise
+313,Alguém está agitando uma garrafa de molho de soja com uma colher,Uma garrafa de molho de soja não está sendo agitada com uma colher,0,contradiction,premise
+314,O menino de três anos não responde que tem chocolate no coração quando questionado sobre o que há nele,O menino de três anos acredita ter chocolate no coração,0,contradiction,premise
+317,Os pisos emborrachados vermelhos e cinzas não cobrem uma área de lazer repleta de brinquedos infantis coloridos,A área de lazer tem um chão de borracha vermelho e cinza,0,contradiction,premise
+318,Um indivíduo não está vestindo um suéter vermelho nem caminhando descalço no campo de futebol,Existe uma pessoa caminhando descalça no campo de futebol e ela está usando um suéter vermelho.,0,contradiction,premise
+319,Os jovens estão vestindo moletons cinzas e não estão parados,Os jovens estão vestidos com algo que não são moletons cinzas,0,contradiction,premise
+320,Uma mão não é vista descartando uma garrafa de plástico em uma lixeira,A garrafa de plástico está sendo jogada em uma lixeira por uma mão,0,contradiction,premise
+323,Dois homens jovens não estão competindo em uma partida de boxe,Dois jovens estão em uma competição de boxe,0,contradiction,premise
+325,"Utensílios de cozinha, incluindo tábuas, porta copos e taças, não estão sobre a mesa","Tábuas, porta copos e taças estão sobre a mesa.",0,contradiction,premise
+329,O texto não apresenta qualquer conteúdo alternativo relacionado à física,O texto contém informações sobre um tema diferente da física convencional,0,contradiction,premise
+333,"Uma corrente e um pingente, ambos banhados a ouro, não possuem pedras de zircônia incrustadas",A corrente e o pingente possuem pedras de zircônia e são feitos de ouro,0,contradiction,premise
+340,O homem não está tocando uma gaita que seja diatônica nem assobiando,O homem está fazendo música com uma gaita diatônica,0,contradiction,premise
+342,Ciclistas e ônibus não estão navegando através do trânsito frenético na metrópole,Ciclistas e ônibus estão enfrentando o trânsito agitado na grande cidade.,0,contradiction,premise
+344,O mês mundial de combate ao câncer de próstata não está sendo divulgado,A conscientização sobre o câncer de próstata está sendo promovida,0,contradiction,premise
+373,Um homem não está em um consultório médico tendo sua pressão arterial medida pelo médico,Um homem está em um ambiente médico recebendo um exame de pressão arterial de um profissional de saúde,0,contradiction,premise
+374,Existe uma mulher cortando um bolo com uma espátula,Nenhuma mulher está usando uma espátula para cortar um bolo.,0,contradiction,premise
+375,O secretário de saúde do Estado não está dando entrevista,O funcionário do governo do Estado está falando para a mídia.,2,neutral,premise
+376,As dicas de arte não estão sendo apresentadas em sequência,As dicas de arte estão sendo mostradas uma após a outra,0,contradiction,premise
+377,O shampoo e condicionador não estão dispostos na janela do box do banheiro,Existem produtos de higiene na janela do box do banheiro,2,neutral,premise
+379,Pássaros não voam em bando durante o entardecer sob um céu azul com poucas nuvens acinzentadas de tonalidades laranja,Pássaros estão voando juntos no céu ao entardecer,0,contradiction,premise
+383,Uma fogueira não arde intensamente com brasas vermelhas e chamas amarelas e laranjas,Existe uma fonte de calor forte.,2,neutral,premise
+388,O nascer do sol não ilumina um campo florido,O campo florido está iluminado pelo sol,0,contradiction,premise
+400,O conjunto de jovens europeus não está reunido ali,Um grupo de jovens da Europa está congregado no local.,0,contradiction,premise
+401,Um bolo retangular não está coberto com ganache e decorado com raspas de chocolate preto na lateral e topo,O bolo retangular possui cobertura de ganache e decoração de raspas de chocolate preto,0,contradiction,premise
+406,"Centenas de bebês estão com seus pais, conforme relatado em jornais antigos",Muitos bebês foram relatados como órfãos em jornais antigos,0,contradiction,premise
+413,A mulher não está alimentando um pássaro à beira de um lago,Há uma mulher perto de um lago cuidando de um pássaro.,0,contradiction,premise
+419,"Um pai e sua filha, vestidos sem máscaras e capas de heróis, estão olhando para o horizonte",Um homem e sua filha estão usando fantasias de super-heróis e olhando para o horizonte,0,contradiction,premise
+427,Um homem não está segurando nenhum peixe que ele possivelmente pescou em um rio,Um indivíduo está com um peixe em suas mãos que ele pode ter pescado em um rio.,0,contradiction,premise
+428,"Três adolescentes não estão segurando seus celulares, com uma delas exibindo a tela da rede social",Adolescentes estão usando seus celulares,0,contradiction,premise
+429,"Nenhuma pimenta de cores verdes, laranjas e vermelhas está reunida",As pimentas estão agrupadas por cores,0,contradiction,premise
+430,Há crianças brincando no parquinho,O parquinho está vazio de crianças,0,contradiction,premise
+433,Um viajante solitário com um chapéu vermelho não está atravessando um deserto de areias douradas,Uma pessoa com chapéu vermelho está em um deserto.,0,contradiction,premise
+437,Dois pacotes transparentes contendo casquinhas de brownie não estão dispostos sobre uma bancada de madeira diante de uma parede preta,Casquinhas de brownie estão arrumadas em duas embalagens transparentes em uma bancada de madeira.,0,contradiction,premise
+442,A receita proposta não promove super-hidratação para prolongar a vida dos fios de cabelo,A receita sugerida promete aumentar a longevidade dos fios de cabelo através de hidratação intensiva.,0,contradiction,premise
+451,O homem não está guardando o violão na estante,O homem tem um violão.,2,neutral,premise
+452,Nenhum momento de um jogo de boliche na capital foi compartilhado com colegas e seus familiares,Os colegas e familiares viram oito momentos de um jogo de boliche na capital,0,contradiction,premise
+453,Nenhum indivíduo se encontra em um campo de futebol para um torneio amador,Existe um torneio amador acontecendo em um campo de futebol,0,contradiction,premise
+456,Um gato não está puxando a cortina e se pendurando nela,A cortina está sendo puxada por um gato,0,contradiction,premise
+457,Um pesquisador sem luvas cirúrgicas está evitando segurar um tubo de ensaio e não está colhendo uma amostra de água,Um pesquisador vestindo uma luva cirúrgica está manuseando um tubo de ensaio e coletando uma amostra de água,0,contradiction,premise
+460,Um gato branco e cinza não está sentado na areia,Um felino está descansando na praia.,2,neutral,premise
+465,Uma criança não está vestindo uma camisa social nem segurando um dado em sua mão direita,O garoto de camisa social tem um dado em sua mão direita,0,contradiction,premise
+468,Um gato não está se espreguiçando no sofá,O gato está no sofá se espreguiçando,0,contradiction,premise
+469,O cartaz não informa sobre as operações atuais da polícia durante a pandemia do novo Coronavírus,As operações atuais da polícia durante a pandemia de COVID-19 são informadas através de um cartaz,0,contradiction,premise
+471,As mães não estão segurando filhos no colo e nenhuma delas está grávida,Uma mãe grávida está segurando um filho no colo.,0,contradiction,premise
+478,Nenhuma mulher está ralando o queijo com um utensílio,Existe queijo sendo ralado por uma mulher.,0,contradiction,premise
+485,Uma mulher não está usando um chapéu azul e sentada próxima a uma bicicleta rosa sobre a grama verde com o lago ao fundo,A mulher com um chapéu azul está sentada perto de uma bicicleta rosa no parque,0,contradiction,premise
+503,Um tênis preto não tem pedrarias na biqueira,Há pedras decorativas na ponta de um tênis preto,0,contradiction,premise
+507,"Uma pessoa de blusa verde estampada não está sentada em frente a uma grande árvore, usando óculos escuros e segurando o cabelo",A pessoa está ao ar livre.,0,contradiction,premise
+509,Os indivíduos estão de pé ao lado de uma loja de doces,As pessoas não estão ao lado de uma loja que vende doces,2,neutral,premise
+511,Três palhaças não estão se apresentando no espetáculo,Existem palhaças que estão se apresentando em um espetáculo,0,contradiction,premise
+516,Um prédio de apartamentos não tem 15 andares,Existem 15 andares em um prédio de apartamentos,0,contradiction,premise
+517,"Participantes não estão sentados em cadeiras pretas em uma oficina, com o orientador e uma intérprete de Libras à frente",Os participantes estão em uma oficina tendo assistência de um intérprete de Libras.,0,contradiction,premise
+528,Nenhuma mão está segurando uma arma,Alguém está em posse de uma arma.,0,contradiction,premise
+530,Uma menina sorridente não está vestida com um vestido preto floral e um casaco cor-de-rosa de tecido de pelo,A menina está usando um casaco cor-de-rosa,2,neutral,premise
+533,Nenhum sorvete de laranja está sendo degustado por ninguém,A senhora está saboreando um sorvete de laranja.,0,contradiction,premise
+535,A garota nadando não consegue resgatar nada no lago,O filhote está sendo salvo por uma menina que está nadando.,0,contradiction,premise
+538,O atleta de badminton encontra menos de três amigos,Quatro pessoas estão juntas.,0,contradiction,premise
+540,Os brincos e piercings não possuem nenhuma pedra de zircônia,Os brincos e piercings estão enfeitados com zircônias.,0,contradiction,premise
+541,O salão não contém qualquer pessoa sentada ou de pé,Há pessoas sentadas e em pé no salão,0,contradiction,premise
+547,A escritora não está à procura de ninguém para dispensar o editor do seu livro,A escritora está em busca de uma pessoa para substituir o editor de seu livro,0,contradiction,premise
+550,Nenhuma borboleta azul com asas brilhantes está sobre a flor vermelha,Uma borboleta de cor azul está sobre uma flor vermelha,0,contradiction,premise
+553,A ave cinzenta está se afastando de qualquer gato na floresta de pinheiros,Uma ave de cor cinza está perto de um gato branco na floresta de pinheiros,0,contradiction,premise
+555,Não há pacotes de bombons de chocolate com banana e chocolate com amendoim sem açúcar sobre a mesa,Bombons de chocolate com banana e amendoim sem açúcar estão disponíveis na mesa.,0,contradiction,premise
+559,A loja não vende semijoias banhadas a ouro com garantia,As semijoias vendidas na loja são banhadas a ouro e têm garantia de um ano,0,contradiction,premise
+566,Um garoto não está pintando o quadro,O quadro está sendo pintado.,0,contradiction,premise
+568,Um bolo redondo não é coberto com chantilly espatulado branco e decorado com rosas e rosetas na lateral e em cima,O bolo redondo tem decoração de rosas e rosetas,0,contradiction,premise
+572,No jantar não serviremos batatas salpicadas e um prato de anéis de cebola empanados,Haverá batatas e anéis de cebola para comer no jantar.,0,contradiction,premise
+574,Tem um homem assando um peixe,Um peixe não está sendo assado por um homem,2,neutral,premise
+575,Uma raposa vermelha não está saltando por um bosque de árvores altas,A raposa vermelha está em um bosque com árvores de grande porte.,0,contradiction,premise
+580,As crianças não adoram brinquedos populares,Os brinquedos populares são muitas vezes desejados pelas crianças,0,contradiction,premise
+581,Dois homens não estão segurando uma caixa branca cheia de alimentos,Uma caixa branca cheia de alimentos está sendo segurada por dois homens,0,contradiction,premise
+583,Uma mãe não recebe carinho de seus dois filhos,Dois filhos estão demonstrando carinho à sua mãe,0,contradiction,premise
+584,A equipe brasileira não está reunida em círculo na quadra com os braços erguidos,A equipe brasileira está com os braços erguidos em círculo na quadra,0,contradiction,premise
+585,Um donut não é recheado com brigadeiro e coberto com creme de baunilha,O donut tem brigadeiro dentro dele,0,contradiction,premise
+587,Nenhum homem está acariciando um guaxinim,Um guaxinim está sendo acariciado por um homem,0,contradiction,premise
+588,Nenhuma árvore rosa floresce em uma rua residencial com uma casa de sobrado e dois carros pratas estacionados,Uma árvore rosa está em flor em uma rua residencial,0,contradiction,premise
+589,"A sala não possui uma mesa decorada, uma planta, um puff e vários artigos decorativos",Há um puff na sala.,0,contradiction,premise
+592,Um par de tênis preto infantil não é visto de cima para baixo,Um par de sapatos para crianças de cor preta está sendo visualizado a partir de um ponto de vista superior.,0,contradiction,premise
+598,Uma garotinha não está tampando o rosto com a mão,A garotinha tem a mão no rosto.,0,contradiction,premise
+601,Um prato de comida não pode espalhar sorrisos ao longo do dia,Um prato de comida pode melhorar o humor das pessoas durante o dia,0,contradiction,premise
+609,Nenhuma mulher está abotoando um casaco,Um casaco está sendo abotoado por uma mulher.,0,contradiction,premise
+614,Nenhum homem está descascando uma batata amarela,Uma batata amarela está sendo descascada por um homem,0,contradiction,premise
+616,Os jogadores de futebol estão em campo ou vestindo suas camisas verde e amarelas,Os jogadores de futebol não estão vestindo verde e amarelo,2,neutral,premise
+617,"Um trem está vazio de pessoas, portanto, ninguém está usando máscaras faciais",As pessoas no trem estão usando máscaras faciais.,0,contradiction,premise
+620,Um sêmen e um óvulo não são esboçados pelo professora de biologia,A professora de biologia está desenhando um sêmen e um óvulo,0,contradiction,premise
+622,Nenhuma prova está sendo realizada em uma sala de aula,Estudantes estão fazendo uma prova,0,contradiction,premise
+624,Membros do movimento não estão formalizando uma solicitação contra o aumento das tarifas de ônibus,Pessoas do movimento estão fazendo um pedido formal contra o aumento das tarifas de ônibus,0,contradiction,premise
+628,Uma menina loira de vestido vermelho não está saltando para fora de um balanço azul,Uma criança de cabelos claros está saltando de um balanço.,0,contradiction,premise
+633,Nem o paciente nem o médico usam óculos de grau,Tanto o paciente quanto o médico necessitam de correção visual,0,contradiction,premise
+640,A pessoa não está usando um biquíni preto e rosa nem óculos de sol na praia,Uma pessoa veste um biquíni preto e rosa na praia.,0,contradiction,premise
+643,Nenhuma enfermeira está presente e a previsão de publicação dos editais não é para amanhã,Haverá a divulgação dos editais amanhã.,0,contradiction,premise
+646,Um moletom vermelho de manga comprida não está estampado com o tema do filme,O moletom de cor vermelha tem uma estampa relacionada a um filme.,0,contradiction,premise
+648,"Atletas não se preparam para uma corrida, nem se alongando sob a orientação de uma instrutora",Os atletas estão se alongando sob supervisão.,0,contradiction,premise
+650,Nem um gato cinza escuro nem um coelho branco puro estão correndo no jardim,Existem um gato e um coelho no jardim.,0,contradiction,premise
+652,Não há nenhum aplicador de produtos de sobrancelha disposto na mesa,Há produtos de sobrancelha dispostos numa mesa.,2,neutral,premise
+661,Duas meninas não estão fazendo a lição de casa,Duas meninas estão ocupadas com a tarefa escolar,2,neutral,premise
+666,Uma mulher não está se equipando antes de mergulhar,Uma pessoa está se preparando para uma atividade subaquática,2,neutral,premise
+667,Um homem não está descascando uma laranja que é suculenta,Uma laranja suculenta está sendo descascada por um homem,2,neutral,premise
+668,Há um homem tamborilando seus pés,O som de pés tamborilando não pode ser ouvido.,0,contradiction,premise
+669,Uma mulher não está treinando arco e flecha em um campo de tiro,Há uma mulher praticando tiro com arco em um campo específico para isto.,2,neutral,premise
+674,Os carros não estão sendo dirigidos por dois motoristas,Existem dois motoristas conduzindo os carros,2,neutral,premise
+677,Uma modelo de perfil não veste uma camisa branca transparente nem carrega uma mochila preta,A modelo tem uma camisa branca e uma mochila preta.,2,neutral,premise
+680,"Há uma mulher vestindo um vestido bordado de azul, em pé na varanda e cantando",Não há nenhuma mulher cantando na varanda,0,contradiction,premise
+682,O homem não está assando pães,Pães estão sendo assados por um homem,2,neutral,premise
+684,Um homem está descascando batatas,Não há nenhum homem retirando a casca de batatas,0,contradiction,premise
+687,O músico não está de pé afinando seu violino diante da orquestra,Alguém está preparando seu violino para uma apresentação com a orquestra,2,neutral,premise
+688,"A modelo não está sentada em uma cadeira em uma casa, vestindo um chinelo rasteira bege com enfeite",Uma mulher vestida com um chinelo bege está sentada em uma residência.,0,contradiction,premise
+690,Um conjunto de indivíduos está prestando atenção na tela de projeção,Os indivíduos estão desviando o olhar da tela de projeção,0,contradiction,premise
+694,O menino de patins não está deslizando na pista,Um garoto está praticando patinação em um circuito,0,contradiction,premise
+700,Uma mulher loira não está afinando um violino e organizando partituras,A mulher loira está mexendo no violino e mexendo nas partituras.,0,contradiction,premise
+703,Uma mão não é vista segurando uma pipa em direção a um arco-íris ao fundo,Há uma pipa sendo segurada em frente a um arco-íris.,0,contradiction,premise
+705,O céu não está completamente nublado,Não há sol visível.,2,neutral,premise
+709,Um homem com barba não está atravessando uma floresta densa,Existe um homem barbudo na floresta.,0,contradiction,premise
+710,Um casal não está se alongando em um ambiente natural repleto de árvores e grama,"Duas pessoas estão fazendo alongamento em um ambiente ao ar livre, cercado por árvores e grama",0,contradiction,premise
+717,O autor nega ter sido maltratado e desvalorizado antes da fama,O escritor relata ter sofrido maus tratos e falta de valorização antes de se tornar famoso,0,contradiction,premise
+718,Alguns gatos estão arranhando um sofá,Um sofá não está sendo arranhado por um gato,0,contradiction,premise
+719,"Uma apresentação de dança não está acontecendo, com todos os participantes vestidos de preto e em movimento",Todos os participantes de uma apresentação de dança estão vestidos de preto e dançando.,0,contradiction,premise
+720,Não existe nenhum maço de couve fresca nas mãos de alguém,Alguém está segurando uma couve fresca.,0,contradiction,premise
+722,Nenhuma jovem ginasta está de uniforme nem ansiosamente aguardando sua vez de apresentar-se na próxima competição,A ginasta está vestida e pronta para sua próxima competição,0,contradiction,premise
+724,Nem uma mãe nem seu filho estão sorrindo juntos para celebrar o aniversário do filho,O filho da mãe está comemorando seu aniversário.,0,contradiction,premise
+732,Nenhuma garota de vermelho está correndo de um homem de vermelho,Uma figura feminina está fugindo de uma figura masculina,0,contradiction,premise
+733,Nenhum risoto é servido em um prato com design de folha,O risoto está em um prato,0,contradiction,premise
+738,Um gatinho não está disponível para adoção responsável,Existe um animal de estimação esperando por um novo lar.,2,neutral,premise
+744,A mulher não está cozinhando um prato de macarrão ao molho agridoce,A mulher está preparando uma refeição com macarrão,2,neutral,premise
+748,Um estudo afirma que jogar videogame pode diminuir a inteligência,"De acordo com uma pesquisa, jogar videogame pode melhorar a inteligência",0,contradiction,premise
+751,"A bebida é um milkshake, adornado com chantilly, uma cereja e dois tubetes não decorativos",A bebida é doce e decorada,0,contradiction,premise
+752,Um empreendedor sorridente está sem nenhum tablet,O empreendedor está segurando um objeto em suas mãos.,0,contradiction,premise
+753,Uma mulher não está espremendo uma espinha em seu rosto enquanto uma explicação ao lado detalha a formação de acnes,Uma mulher está espremendo uma espinha no rosto e há uma explicação sobre acnes ao lado dela,0,contradiction,premise
+759,Uma garota está dançando debaixo do sol no campo,Uma criança está se molhando enquanto dança ao ar livre,0,contradiction,premise
+762,O homem está apoiado em um muro e não está vestindo jeans azul,O homem está vestindo jeans azul.,0,contradiction,premise
+763,O atleta está observando um arremesso de peso em uma olimpíada,O atleta está competindo em um evento esportivo,0,contradiction,premise
+764,Um gato malhado não está se divertindo com um novelo de lã desfiado em um tapete vermelho,O gato malhado está brincando com um novelo de lã em cima de um tapete de cor vermelha,0,contradiction,premise
+765,Uma garota está empunhando uma rede de borboletas e não tentando capturar uma mariposa,A garota está tentando capturar uma mariposa.,0,contradiction,premise
+775,O senador está sozinho e sem a companhia de sua esposa,A esposa do senador está com ele,0,contradiction,premise
+776,Não há nenhum menino empinando uma pipa de papel,Existe um garoto brincando com uma pipa de papel,0,contradiction,premise
+780,Uma mulher negra não está sorrindo de olhos fechados,Uma pessoa está com os olhos fechados e sorrindo.,0,contradiction,premise
+783,Nenhuma garça está deslizando pelo manguezal,Uma garça está se movendo pelo manguezal,0,contradiction,premise
+785,Menos de sete pessoas estão sentadas à mesa posando,Existe um grupo de pessoas posando para uma foto à mesa.,2,neutral,premise
+787,Nenhum gato está se aquecendo em um telhado sob o brilho da lua,Existe um gato em um telhado à noite.,0,contradiction,premise
+789,Nenhuma nota pública foi escrita pelo político sobre o acidente sofrido,O político escreveu uma nota sobre o acidente que sofreu,0,contradiction,premise
+790,Uma mulher no palco não está tocando fervorosamente seu violão,Uma pessoa está tocando um instrumento musical no palco.,2,neutral,premise
+796,Um homem não está segurando um livro aberto,Uma pessoa está com um livro aberto em suas mãos.,0,contradiction,premise
+798,Nenhuma mulher está folheando um livro enquanto há várias outras obras empilhadas ao fundo,"Ao fundo, há várias obras literárias empilhadas enquanto uma mulher folheia um livro",0,contradiction,premise
+799,Menos de seis participantes estão em uma reunião ao redor de uma mesa,Há uma reunião acontecendo com a participação de mais de cinco pessoas.,2,neutral,premise
+800,Na sala não há um quadro com uma linda pintura,Existe uma pintura bonita na sala,0,contradiction,premise
+804,Três pessoas não estão dormindo no chão de um terminal de ônibus vazio,Existe um terminal de ônibus vazio.,2,neutral,premise
+809,Caixas de presente amarelas sem laços azuis foram entregues,As caixas de presente entregues têm laços azuis.,0,contradiction,premise
+812,Um homem não está fazendo o sinal de positivo com a mão,Há um homem mostrando um gesto afirmativo,0,contradiction,premise
+814,Uma borboleta desaconselha uma lagarta a não se transformar para voar,A borboleta está orientando a lagarta sobre o processo de metamorfose para voar,0,contradiction,premise
+819,Há um homem preparando café na cozinha,A cozinha está livre de homens.,0,contradiction,premise
+820,Duas equipes não estão avidamente disputando uma partida de vôlei na praia,Duas equipes estão envolvidas em uma intensa partida de vôlei na areia.,2,neutral,premise
+823,Petiscos e bebidas não estão sendo servidos aos convidados,Os convidados estão recebendo petiscos e bebidas.,0,contradiction,premise
+825,"A seleção de atletas não está reunida, com algumas delas em pé e outras sentadas","Há atletas em posições diferentes, alguns em pé e outros sentados.",0,contradiction,premise
+826,Dois indivíduos não estão trabalhando no computador,Duas pessoas estão utilizando um computador,0,contradiction,premise
+828,Uma mulher não está manipulando frutas em uma tigela,As frutas estão sendo colocadas em uma tigela por uma mulher,0,contradiction,premise
+830,"O palco não está preparado para a apresentação, com a cortina ainda fechada",Haverá uma apresentação no palco.,2,neutral,premise
+831,Nenhuma sirene da polícia é ouvida nos arredores,Existe uma atividade policial nas proximidades,2,neutral,premise
+832,As carteiras não estão vazias em uma sala de aula,Não há nada nas carteiras da sala de aula,0,contradiction,premise
+839,O resultado da segunda chamada do vestibular ainda não está disponível no site oficial,Alguém pode verificar se passou no vestibular.,2,neutral,premise
+856,Um ciclista com colete reflexivo está parado em uma bicicleta vermelha ao lado da ciclovia,Um ciclista está parado ao lado da ciclovia sem um colete reflexivo,0,contradiction,premise
+858,Uma mulher não envolta em uma toalha está se maquiando diante de um espelho,Uma mulher está se maquiando diante de um espelho.,2,neutral,premise
+863,"Duas mães não estão sentadas sendo maquiadas, com uma mesa cheia de produtos de maquiagem entre elas",Há produtos de maquiagem na mesa,2,neutral,premise
+864,Um escorredor de louça de dois andares com vários compartimentos não está localizado acima das pias,O escorredor de louça com vários compartimentos está colocado acima das pias,0,contradiction,premise
+866,Três gatinhos listrados não estão divertindo-se com um gatinho preto e um novelo de lã,Há três gatinhos listrados e um gatinho preto brincando com um novelo de lã,0,contradiction,premise
+867,A toalha seca que está sobre uma necessaire,A toalha que está em cima da necessaire está úmida,0,contradiction,premise
+868,Um copo está vazio de milkshake de tareco,O copo tem algo dentro dele.,0,contradiction,premise
+869,Um homem de pele branca está evitando usar creme no seu rosto,Há um homem aplicando creme no rosto.,0,contradiction,premise
+873,Uma antiga estante de farmácia não exibe frascos e potes pertencentes daquela época,Os frascos e potes exibidos na antiga estante de farmácia pertencem àquela época,0,contradiction,premise
+874,"Um gato, que não é branco, está pulando no muro",Um animal felino de cor clara está pulando em um muro.,0,contradiction,premise
+875,Algum corredor cansado está descansando,Nenhum corredor está comemorando com sinais de cansaço,0,contradiction,premise
+879,Não foi filmada nenhuma série explicativa do coronavírus,Uma série explicativa sobre o coronavírus foi criada e filmada.,0,contradiction,premise
+880,"Uma pequena gata cinzenta está sem laço rosa, visível sobre as almofadas com um novelo de lã verde",A pequena gata está escondida entre as almofadas com um novelo de lã,0,contradiction,premise
+885,Uma parede colorida é iluminada e sem decoração de painéis de MDF preto formando algo,Há uma decoração de árvore em três painéis de MDF preto numa parede branca iluminada,0,contradiction,premise
+888,Há uma mulher batendo uma panela sobre o fogão no quintal,O quintal está livre de mulheres usando panelas sobre o fogão,0,contradiction,premise
+892,A mulher não está aplicando o cream cheese em um bagel torrado,A mulher está manuseando um bagel torrado.,2,neutral,premise
+893,Três mulheres e um garoto fora de vista não estão fazendo poses divertidas ao lado de uma cerca de bambu,Três mulheres e um garoto estão fazendo poses divertidas ao lado de uma cerca de bambu,0,contradiction,premise
+894,Não há um koala subindo na árvore,Há um koala que está subindo em uma árvore.,0,contradiction,premise
+895,Um homem não está aparando a barba meticulosamente,A barba do homem está sendo cuidadosamente aparada,0,contradiction,premise
+896,Uma mulher em um skate pink não está fazendo manobras enquanto uma amiga em um patins azul não está se aproximando,Duas mulheres estão praticando esportes com skate e patins.,2,neutral,premise
+904,O gato cinzento peludo não está pulando pelos telhados da vizinhança,O gato cinzento está se movendo pelos telhados da vizinhança,2,neutral,premise
+906,Uma garota não está sussurrando para uma flor,A menina está falando baixinho para uma planta,2,neutral,premise
+907,Dois lobos cinzentos não estão descansando lado a lado,Dois lobos estão juntos.,2,neutral,premise
+908,A palavra LUTO não está escrita com letras brancas em um fundo preto,O fundo preto tem a palavra LUTO escrita em letras brancas,0,contradiction,premise
+911,A logo oficial do podcast não é apresentada em tom rosado,O podcast tem uma logo de cor rosa,0,contradiction,premise
+914,Uma criança não está aprendendo a andar de skate com a ajuda de um professor,O professor está auxiliando uma criança a andar de skate.,0,contradiction,premise
+917,Um par de sapatos não está no cabide,"Um par de sapatos não está no chão, mas sim pendurado",0,contradiction,premise
+921,Uma louça cheia de brigadeiros não está sobre uma mesa de madeira,Brigadeiros estão dispostos sobre uma mesa de madeira,0,contradiction,premise
+932,Uma garota não está pintando um quadro,Um quadro está sendo pintado por uma garota,0,contradiction,premise
+933,"A deputada, a primeira-dama e o prefeito não expressam felicidade e satisfação após uma reunião bem-sucedida","A reunião com a deputada, a primeira-dama e o prefeito foi bem sucedida.",0,contradiction,premise
+934,O ministro da saúde não é mostrado,Uma autoridade da saúde está sendo apresentada,0,contradiction,premise
+939,"Não estou sentada no chão da sala de casa, abraçando minha vira-lata cabeluda","Estou no chão da sala de casa, com minha vira-lata cabeluda nos braços",0,contradiction,premise
+945,Um garoto pequeno de vermelho não está correndo pelo campo,Um garoto está se movimentando pelo campo,2,neutral,premise
+949,Um garotinho não está sentado segurando carinhosamente a cabeça de um cachorrinho próximo à sua,Um menino está interagindo afetuosamente com um cão.,0,contradiction,premise
+950,Um cachorro não está pintando um quadro,Existe um quadro sendo pintado por um cachorro.,0,contradiction,premise
+963,Os homens e as mulheres não estão sendo reunidos próximos às mesas ao livre,Há uma reunião de pessoas ao ar livre.,2,neutral,premise
+964,Um menino de camisa azul não está correndo imprudentemente ao redor da piscina,Existe um menino de camisa azul correndo ao redor da piscina sem cuidado,2,neutral,premise
+967,Os atletas não estão manipulando a bola de vôlei,Os atletas estão interagindo com a bola de vôlei,2,neutral,premise
+969,A delegação brasileira não está usando quimonos tradicionais japoneses,A delegação brasileira está vestida com trajes japoneses,2,neutral,premise
+979,A cada compra o cliente não recebe dois cupons de desconto,O número de cupons de desconto que o cliente obtém após cada compra é dois,0,contradiction,premise
+987,Um barco não está navegando,Há um barco em movimento na água.,0,contradiction,premise
+988,O homem não veste uma camisa de moletom com capuz nas cores vermelho e preto,O homem está vestindo um moletom com capuz,2,neutral,premise
+996,Um templo não está em chamas na avenida principal,O fogo está destruindo um templo na avenida principal,0,contradiction,premise
+997,Um polvo não é visto no fundo do mar,Existe um polvo habitando o fundo do mar.,2,neutral,premise
+1002,Uma mulher não está usando uma máscara com representações de vírus enquanto questiona como o coronavírus impacta as relações de trabalho,Uma mulher mascarada está questionando o impacto do coronavírus nas relações de trabalho,2,neutral,premise
+1007,Uma criança não está deslizando pela areia dourada,A criança está brincando na areia,0,contradiction,premise
+1008,O avião não é visto na pista com o hangar ao fundo,"O avião está posicionado na pista de decolagem, com o hangar visível atrás dele",0,contradiction,premise
+1012,Diversos vasos contendo mudas não estão localizados em uma estufa,As mudas estão sendo cultivadas em uma estufa,0,contradiction,premise
+1014,"Alunas de balé, mães e professora não prestam homenagem ao Outubro Rosa",As alunas de balé estão participando de uma homenagem ao Outubro Rosa.,0,contradiction,premise
+1016,A tela não está completamente branca,Não há cores na tela,0,contradiction,premise
+1019,"O garoto, que é muito jovem, não está meticulosamente amarrando os cadarços de seu tênis",Uma criança está dando nó nos cadarços do tênis com muito cuidado.,0,contradiction,premise
+1022,O homem não está misturando legumes em uma panela,Legumes estão sendo misturados em uma panela por um homem,0,contradiction,premise
+1023,O gato não está quieto diante da câmera,O gato não está fazendo barulho.,2,neutral,premise
+1024,Um bolo não está sendo assado no forno por um homem,Um homem está assando um bolo,0,contradiction,premise
+1029,O homem acredita que as pessoas valem o derramamento de lágrimas,O homem não acha que as pessoas merecem suas lágrimas,0,contradiction,premise
+1033,Profissionais de saúde não estão administrando vacinas contra a gripe,Pessoas estão sendo vacinadas contra a gripe.,0,contradiction,premise
+1035,A mulher não está calmamente lendo um livro debaixo de um pinheiro,Existe uma pessoa lendo um livro em algum lugar.,2,neutral,premise
+1039,Uma médica não está examinando a garganta de uma paciente e não questiona a importância da videolaringoscopia,Uma profissional da saúde está questionando a relevância do uso de um aparelho para visualização da laringe durante um exame de garganta,2,neutral,premise
+1043,Uma mulher não está correndo acompanhada de um personal trainer,Uma pessoa está auxiliando a mulher na corrida,0,contradiction,premise
+1045,Dois irmãos não estão exibindo seus dentes manchados de vermelho e amarelo,Os irmãos têm dentes manchados,0,contradiction,premise
+1047,Um estudo revela que a preguiça pode não ser benéfica para a saúde,"A preguiça pode ser benéfica para a saúde, de acordo com um estudo.",0,contradiction,premise
+1050,"Relógios digitais não estão disponíveis nas cores dourada, rosé e prata","Existem relógios digitais dourados, rosé e prata no mercado.",0,contradiction,premise
+1052,Uma turma de jovens não está disputando uma partida de vôlei na areia da praia,Existe uma partida de vôlei acontecendo na praia com a participação de jovens,0,contradiction,premise
+1056,O pequeno garoto não está pedalando sua bicicleta triciclo pela trilha do parque,Um garoto está andando de triciclo,2,neutral,premise
+1062,"Os casarões, apesar de modernos, não possuem boa acessibilidade",Os casarões são estruturas antigas com fácil acesso.,0,contradiction,premise
+1069,A pizza está sendo cortada pelo homem,A pizza está inteira,0,contradiction,premise
+1070,O plenário da assembleia não está em exibição,Existe uma assembleia acontecendo atualmente.,2,neutral,premise
+1074,Os avós não são considerados bênçãos na família e podem se tornar fontes de conflito ou descontentamento,Os avós trazem felicidade para a família,0,contradiction,premise
+1077,"Um manequim não está vestido com uma blusa mostarda de decote em V e alças finas, e uma saia branca curta com pregas na barra",Há uma blusa mostarda e uma saia branca no manequim,0,contradiction,premise
+1080,A janela da sala de estar está aberta.,Não há uma corrente de ar passando pela sala de estar.,2,neutral,premise
+1081,"Um filhote de tamanduá não está em um viveiro, cercado por pedaços de madeira e cobertores",O filhote de tamanduá se encontra em um recinto com pedaços de madeira e cobertores,0,contradiction,premise
+1083,É importante desistir do amor e aceitar aqueles que não são capazes de amar,"Devemos sempre amar, mas devemos deixar de lado aqueles que não sabem amar.",2,neutral,premise
+1089,O perfume não tem vidro de cor preta com tampa preta,O perfume está em um frasco escuro.,2,neutral,premise
+1096,Pessoas não estão reunidas e sorrindo em uma sala de aula,Há pessoas sorrindo em uma sala de aula.,0,contradiction,premise
+1098,Nenhum broto está nascendo no solo,Um novo broto está surgindo do solo.,0,contradiction,premise
+1102,Nenhum brigadeiro de limão siciliano está enrolado em granulado bolinha verde ou disposto em uma bandeja retangular de madeira,Brigadeiros envoltos em granulado verde estão dispostos em uma bandeja retangular,0,contradiction,premise
+1106,Nenhum estudo sugere que jantar enquanto assiste TV ou usa o celular possa levar ao ganho de peso,Assistir TV ou usar o celular durante as refeições pode aumentar o risco de obesidade.,2,neutral,premise
+1108,Duas mulheres estão tirando um descanso no plantio do jardim,Duas mulheres estão ocupadas com o plantio de um jardim,0,contradiction,premise
+1109,Um empreendedor rural não está transferindo grãos de uma mão para a outra,Grãos estão sendo movidos de uma mão para a outra.,0,contradiction,premise
+1110,Nenhum aluno está nos corredores do colégio apresentando seus trabalhos de Ciências,Há estudantes exibindo seus projetos de ciências no colégio,0,contradiction,premise
+1113,Os pais da garota não estão presentes,A garota não está sozinha,0,contradiction,premise
+1119,Um homem não está soltando um pássaro,Um pássaro está sendo solto por um homem,0,contradiction,premise
+1121,"Não há um pacote de massa de pastel fresca, sem glúten e sem leite, sobre uma mesa","Há uma massa de pastel fresca, sem glúten e sem leite, disponível sobre um móvel.",0,contradiction,premise
+1123,Nenhum aparelho removível está presente,Existe um dispositivo que pode ser removido.,0,contradiction,premise
+1128,Policiais não prendem o motorista no local onde a carreta foi parada,Um motorista está sendo preso por policiais.,0,contradiction,premise
+1129,Há diversas pessoas repousando nos bancos e admirando o pôr do sol,Os bancos estão vazios durante o pôr do sol.,0,contradiction,premise
+1130,"Nenhum profissional da saúde está aplicando vacinas, e ninguém está usando máscaras de proteção",A mulher está sendo vacinada.,0,contradiction,premise
+1131,Não há halteres e a maçã não está enrolada com uma fita métrica,Existem dois pesos e uma maçã envolvida por uma fita métrica dispostos,0,contradiction,premise
+1134,Nenhum body estampado está na vitrine da loja,Existem três bodies à mostra na loja.,0,contradiction,premise
+1137,Há um menino de azul segurando uma pipa,Não há nenhuma criança de azul com uma pipa em suas mãos.,0,contradiction,premise
+1138,Nenhum homem está preparando o café da manhã,Existe um homem fazendo a primeira refeição do dia,0,contradiction,premise
+1143,Nenhuma modelo está posando com a mão esquerda no rosto vestindo um macaquinho floral,A modelo está usando um macaquinho floral,0,contradiction,premise
+1144,Não há pantera se movendo silenciosamente,A pantera está se deslocando sem fazer barulho,0,contradiction,premise
+1156,O gato branco na areia está parado na praia sem perseguir uma pena,O gato branco está brincando com uma pena na praia.,0,contradiction,premise
+1160,Nenhuma profissional da saúde está aplicando a vacina no braço de uma mulher,A mulher está sendo vacinada,0,contradiction,premise
+1163,A pessoa não tem cicatriz nas costas por qualquer cirurgia de escoliose,A pessoa passou por um procedimento cirúrgico.,0,contradiction,premise
+1167,Um pedaço de pão não está sendo comido de maneira tranquila por um pássaro,O pássaro está se alimentando de um pedaço de pão,0,contradiction,premise
+1169,Um bando de amigos não se reúne à beira do lago,Há um grupo de amigos à beira do lago,0,contradiction,premise
+1170,As informações essenciais não estão escritas no manual,O manual contém as informações necessárias.,0,contradiction,premise
+1176,O novo presidente não está realizando o juramento de posse,O novo líder está sendo empossado.,0,contradiction,premise
+1177,Nenhuma gata malhada está perseguindo uma gata siamesa em uma colina pedregosa,A gata siamesa está sendo perseguida por uma gata malhada em terreno acidentado,0,contradiction,premise
+1179,Um garoto de bermuda está surfando nas ondas,Não há garoto de bermuda surfando nas ondas,0,contradiction,premise
+1180,Um indivíduo não está cantando,Existe uma pessoa produzindo música com a sua voz.,0,contradiction,premise
+1182,Policiais não estão em ação numa área dominada pelo tráfico de drogas,As forças de segurança estão atuando em uma área controlada pelo comércio ilegal de substâncias ilícitas.,0,contradiction,premise
+1184,Nenhum lagarto está no gramado aproveitando o sol,Há um lagarto se aquecendo ao sol no gramado,0,contradiction,premise
+1185,Não há um homem sentado em uma cadeira na beira de um rio,Há um homem à beira de um rio.,0,contradiction,premise
+1189,Uma mulher não está praticando ioga ao pôr do sol na areia,A mulher está na areia durante o pôr do sol.,0,contradiction,premise
+1190,Uma tábua especial de frios não contém opções variadas,A tábua de frios tem muitas escolhas,0,contradiction,premise
+1194,Duas mulheres não estão remando em um caiaque vermelho no lago,Há pessoas remando em um caiaque no lago,2,neutral,premise
+1200,Um helicóptero não é ilustrado voando entre as nuvens,Há um helicóptero voando no céu,0,contradiction,premise
+1202,Um mapa não indica a região impactada pela chuva,A chuva afetou uma região que está identificada no mapa,0,contradiction,premise
+1203,O céu não está nublado e ventando,O clima está ventoso e com muitas nuvens no céu,0,contradiction,premise
+1204,O bebê não veste um macacão com estampa de pequenas folhinhas,A roupa do bebê tem desenhos de folhas.,0,contradiction,premise
+1206,Uma escultura de um veado sendo atacado por outros animais não está cercada por muitas árvores,A escultura é cercada por árvores.,0,contradiction,premise
+1207,Uma mãe e seu filho não estão sendo assustados no carrinho de um trem fantasma,Há pessoas assustadas no trem fantasma,2,neutral,premise
+1210,Da janela não se vê uma chaminé branca e vermelha liberando fumaça,Há uma chaminé liberando fumaça visível da janela.,0,contradiction,premise
+1212,A garota não está equilibrando-se em um monociclo sobre uma ponte de corda,Uma garota está fazendo uma manobra em um monociclo em uma ponte de corda,0,contradiction,premise
+1217,Uma bola vermelha não está sendo chutada por uma criança que está brincando no parque,Um objeto vermelho está sendo chutado por um pequeno ser humano que está se divertindo em uma área de recreação,0,contradiction,premise
+1220,"O caminhão de bombeiros, que é vermelho, não está acelerando pela rua",O caminhão de bombeiros vermelho está se movendo rapidamente pela rua,0,contradiction,premise
+1230,Diversos sabores de refeições congeladas não estão disponíveis para venda,Há uma variedade de refeições congeladas à venda,0,contradiction,premise
+1231,Uma mão não está manuseando uma máquina de cartão para realizar um pagamento,Um pagamento está sendo realizado através de uma máquina de cartão,0,contradiction,premise
+1239,Vários pedaços de sushi não estão sendo degustados por um homem,Um homem está comendo sushi,0,contradiction,premise
+1242,Uma menina com características indígenas não está sentada,Há uma menina sentada.,0,contradiction,premise
+1246,Pessoas não estão sentadas em formato de roda em um moderno e colorido espaço de trabalho,Há pessoas sentadas em um círculo em um ambiente de trabalho contemporâneo e colorido,0,contradiction,premise
+1252,Um vidro transparente com álcool em gel não está posicionado sobre duas máscaras para o rosto em um balcão preto,Há um recipiente de álcool em gel localizado sobre duas máscaras faciais em um balcão de cor escura,0,contradiction,premise
+1254,Bolos não são expostos na mostra de bolos da cidade,Há bolos na mostra de bolos da cidade,0,contradiction,premise
+1262,Nenhuma menina está relaxando na areia à beira do mar,Há pessoas descansando na praia,2,neutral,premise
+1263,"Uma mulher está agachada, mas não está sofrendo de dor enquanto se exercita",A mulher está sentindo dor enquanto se exercita,0,contradiction,premise
+1265,O atraso no pagamento de uma das três últimas parcelas da prestação de alimento não resulta em prisão civil,A pessoa pode ser presa por não pagar uma das três últimas parcelas da prestação de alimento.,0,contradiction,premise
+1266,A modelo veste um biquíni que não é azul com detalhe em verde,A modelo está usando um biquíni colorido,2,neutral,premise
+1267,A escola não precisa de mais professores de ciências e matemática,A escola está com falta de professores em algumas disciplinas.,0,contradiction,premise
+1268,Uma aluna não está realizando um corte de cabelo em um homem,Um homem está tendo seu cabelo cortado por uma estudante,0,contradiction,premise
+1269,"Dois amigos estão sentados à beira do lago, mas o silêncio não os preenche",Os amigos estão sentados à beira do lago sem falar nada,2,neutral,premise
+1274,Soldados não estão alinhados para comemorar o dia da independência,Existe um grupo de soldados preparado para uma celebração do dia da independência.,0,contradiction,premise
+1277,Caramelos de leite não estão dispostos na mão,Há caramelos de leite na mão de alguém,0,contradiction,premise
+1278,"Não há duas mulheres montadas em um elefante, e nenhum elefante está em destaque à frente",Existem pelo menos três elefantes no local,0,contradiction,premise
+1281,Há uma mulher bebendo água,Todas as mulheres presentes não estão consumindo água.,0,contradiction,premise
+1282,Um gatinho cinza não está arranhando um sofá,O sofá está sendo arranhado por um gatinho cinza,0,contradiction,premise
+1288,Um bolo de chocolate não está decorado com cobertura de morango,O bolo de chocolate tem cobertura de morango.,0,contradiction,premise
+1291,A mulher não está sentada no jardim e a criança não está escorregando do balanço,A mulher está no jardim e a criança está saindo do balanço,0,contradiction,premise
+1293,Diferentes conjuntos de pares de brincos não estão a venda,Há vários pares de brincos disponíveis para compra,0,contradiction,premise
+1294,Nenhuma orquídea roxa está em um vaso claro,Há uma orquídea de cor roxa em um recipiente claro,0,contradiction,premise
+1299,"Quatro latas de bebida em pó não estão organizadas em duas fileiras, duas em cima e duas embaixo",Existem duas latas de bebida em pó na fileira de cima e duas na fileira de baixo,0,contradiction,premise
+1300,A Seleção Brasileira não está exibindo o troféu do mundial,A Seleção Brasileira ganhou o mundial,2,neutral,premise
+1303,A mercearia não vende grãos de café torrados e folhas de chá preto,A mercearia comercializa produtos como grãos de café torrados e folhas de chá preto,0,contradiction,premise
+1306,Mulheres não estão plantando sementes,Há mulheres que estão plantando,0,contradiction,premise
+1309,O cachorro não está correndo atrás da bola no parque,Um cachorro está perseguindo uma bola em um local aberto,0,contradiction,premise
+1310,Uma animação não mostra um jornal emergindo de um celular branco segurado na mão,Um celular branco está sendo usado para visualizar a animação de um jornal,0,contradiction,premise
+1317,Muitos surfistas não estão deslizando sobre as ondas,Há pessoas praticando surfe.,0,contradiction,premise
+1319,O avião não está pronto para decolar,A aeronave está prestes a iniciar seu voo,0,contradiction,premise
+1320,Um barco não está sendo navegado por um jovem,Um jovem está navegando um barco,0,contradiction,premise
+1327,Uma taça contendo um drink de morango não está posicionada sobre uma mesa preta de madeira,Há um drink de morango em cima de uma mesa.,0,contradiction,premise
+1329,Uma drusa de cristal não enfeita a escrivaninha,Há um adorno de cristal na escrivaninha.,0,contradiction,premise
+1331,Um homem negro não está aplicando colírio nos olhos,Um indivíduo de pele escura está colocando gotas em seus olhos.,0,contradiction,premise
+1332,Um cisne majestoso não está repousando na margem de um lago sereno,Existe um cisne na margem de um lago.,0,contradiction,premise
+1335,"Objetos, incluindo livros e máquinas de escrever, não estão dispostos em prateleiras",Livros e máquinas de escrever estão organizados em prateleiras.,0,contradiction,premise
+1339,Não há visitantes ou pesquisadores presentes no sítio geológico,Há pessoas no sítio geológico.,0,contradiction,premise
+1340,Uma menina não está pulando enquanto joga tênis de praia com um instrutor,Uma menina está jogando tênis de praia com um instrutor e está pulando,0,contradiction,premise
+1345,Uma mulher não está de pé,A mulher não está sentada,2,neutral,premise
+1349,O indivíduo não está afinando o violão,O indivíduo está ajustando as cordas do violão,0,contradiction,premise
+1351,A vacinação não está sendo realizada pelo sistema drive thru,As pessoas estão recebendo a vacina através do sistema drive thru,0,contradiction,premise
+1357,Um gato preto está comendo ração do prato,O gato preto não está se alimentando.,0,contradiction,premise
+1360,O texto não celebra o Dia das Mulheres,O texto é uma homenagem ao Dia das Mulheres,0,contradiction,premise
+1363,"A cama não está arrumada ou não há uma bandeja com uma xícara de café, uma agenda e um notebook sobre ela","Há uma xícara de café, uma agenda e um notebook na cama arrumada.",0,contradiction,premise
+1366,Um broche de tampa metalizada não está fixado no centro de um tecido branco de algodão,Há uma tampa metalizada presa em um tecido branco.,0,contradiction,premise
+1367,Os estudantes da turma não posam juntos com um grande cartaz que contém informações sobre um campeonato,Os estudantes estão posando com um cartaz sobre um campeonato,0,contradiction,premise
+1368,"O céu não exibe tons de amarelo, laranja e vermelho como se estivesse em chamas",O céu tem cores quentes similares ao fogo,0,contradiction,premise
+1372,Um garoto jovem não está comercializando seu patinete,Um garoto está vendendo seu patinete,0,contradiction,premise
+1377,Um empresário não está em seu local de trabalho enquanto a taxa de abertura de empresas aumenta,O empresário está no escritório ao mesmo tempo que há um aumento na criação de novas empresas,0,contradiction,premise
+1378,"A lancheria não serve um sanduíche composto por pão tipo baguete, alface, tomate, pepino, queijo, carne e bacon",A lancheria tem em seu menu um sanduíche com bacon,2,neutral,premise
+1379,"Várias crianças não estão de mãos dadas em três fileiras, simbolizando os jovens beneficiados pelo projeto",O projeto beneficia jovens.,2,neutral,premise
+1383,Uma cadela não está se divertindo com folhas nem demonstrando um comportamento travesso,Uma cadela se diverte brincando com folhas e age de maneira travessa.,0,contradiction,premise
+1389,O pesquisador não ressalta a importância fundamental da mobilidade e expressão em todas as atividades,O pesquisador destaca a necessidade de mobilidade e expressão em todas as atividades.,0,contradiction,premise
+1391,Uma criança não está se divertindo com seu carrinho de brinquedo,Uma criança está brincando com um carrinho de brinquedo,2,neutral,premise
+1392,"Não existem cinco sapatos diferentes em exibição, três dos quais são de salto alto",Há três sapatos de salto alto em exibição,2,neutral,premise
+1393,Atores e atrizes da peça estão sem os seus figurinos para a promoção do espetáculo,Os atores estão vestidos para a promoção do espetáculo,0,contradiction,premise
+1396,A informação principal é que as eleições já aconteceram,As eleições não aconteceram ainda.,0,contradiction,premise
+1397,Uma garrafa de vinho tinto está ausente dos ingredientes para uma macarronada,A garrafa de vinho tinto faz parte dos ingredientes para a macarronada,0,contradiction,premise
+1398,Formigas não são encontradas em nenhum espinho de acácia,Existem formigas em um espinho de acácia,0,contradiction,premise
+1400,"Eu e minha noiva tiramos uma selfie após o nosso casamento, junto com fotos de família",Fotos foram tiradas durante o casamento.,2,neutral,premise
+1401,A loja não anuncia a possibilidade de encomendar brigadeiros,A loja oferece serviços de encomendas.,2,neutral,premise
+1413,Existe um homem tocando piano,O piano não está sendo tocado por um homem,0,contradiction,premise
+1414,"O escritório não possui vista para um jardim com árvores verdes, bromélias e uma fonte de água corrente",O escritório tem visão para um jardim com uma fonte de água corrente,0,contradiction,premise
+1419,"A linha retrátil de produtos, incluindo garrafas, copos e marmitas, não está em exibição no estande da empresa",Há uma variedade de produtos reutilizáveis sendo exibidos no estande da empresa.,0,contradiction,premise
+1420,Um estudo revela que menos de 1 milhão de pessoas morrem anualmente devido a doenças transmitidas por insetos,"Anualmente, muitas mortes são causadas por doenças transmitidas por insetos.",2,neutral,premise
+1428,Uma mulher está lendo um livro sob a sombra de uma árvore em uma tarde de primavera,Não há ninguém lendo um livro sob a sombra de uma árvore em uma tarde de primavera,0,contradiction,premise
+1430,Um homem de camisa está diante de uma montanha rochosa enquanto o céu se enche de nuvens ao longe,Um homem sem camisa está em frente a uma montanha com o céu nublado ao fundo.,0,contradiction,premise
+1432,O garoto da camisa vermelha não está desenhando,Há um desenho sendo feito pelo garoto da camisa vermelha,0,contradiction,premise
+1433,Nenhum profissional de saúde está realizando radioterapia em um paciente deitado,Um paciente deitado está recebendo radioterapia de um profissional de saúde,0,contradiction,premise
+1435,"Uma taça de milkshake não é decorada com flocos, tubetes e chantilly",A taça de milkshake tem muitos enfeites,0,contradiction,premise
+1438,Um potinho contendo rolinhos de sorvete não está sendo coberto com uma calda de chocolate,Rolinhos de sorvete estão sendo regados com uma calda de chocolate,0,contradiction,premise
+1440,Um carro não está de cabeça para baixo em meio ao caos,O carro virou durante um evento caótico,0,contradiction,premise
+1441,A senhora não serviu um bule de chá aos seus convidados,Os convidados da senhora receberam chá.,0,contradiction,premise
+1443,O topo de uma árvore de Natal não está decorado,A árvore de Natal tem decoração,0,contradiction,premise
+1448,Nenhum peixe está balançando sua cauda na superfície do mar,Existe um peixe movendo sua cauda na superfície do mar,0,contradiction,premise
+1449,Uma mulher não está admirando as gravuras da coleção na parede enquanto está parada na escada do local,Uma mulher está na escada olhando as gravuras da coleção na parede,2,neutral,premise
+1452,"Potes, tigelas e copos de vidro estão expostos, com nenhuma das tigelas contendo peras",Há peras em uma das tigelas de vidro expostas,0,contradiction,premise
+1460,"Uma estante não está repleta de discos e uma vitrola, nem adornada com iluminação decorativa diferenciada",A iluminação decorativa está adornando uma estante com discos e uma vitrola,0,contradiction,premise
+1461,O gato já não está dormindo na cadeira,O felino está repousando sobre a cadeira.,0,contradiction,premise
+1462,O pequeno garoto de vermelho não está se divertindo no balanço,Existe um garoto no balanço.,2,neutral,premise
+1463,"A frigideira não contém queijo, bacon, milho ou frango","Há queijo, bacon, milho e frango na frigideira",0,contradiction,premise
+1464,A psicóloga não alerta sobre casos de tristeza profunda e depressão,A psicóloga está aconselhando sobre o perigo de tristeza intensa e depressão.,0,contradiction,premise
+1465,"Nenhuma mulher está sentada na montanha-russa, usando óculos 3D e fone de ouvido",Uma mulher está em uma montanha-russa.,0,contradiction,premise
+1469,O chimpanzé não está rodeado de folhas na floresta,Há folhas ao redor do chimpanzé na floresta.,0,contradiction,premise
+1470,Uma pessoa não está sentada enquanto joga em várias telas,Há uma pessoa jogando em diversas telas enquanto está sentada,0,contradiction,premise
+1471,O robô não está convidando para uma demonstração do dispositivo no próximo sábado,Uma demonstração do dispositivo será realizada no próximo sábado com o robô.,0,contradiction,premise
+1475,"Não há um prato de ovos mexidos, salsichas e queijo na mesa ao lado de uma xícara de chá preto com leite",Há um prato de comida e uma xícara de chá preto na mesa,0,contradiction,premise
+1476,A chuva não está caindo no rosto do garoto que está de casaco azul,O menino de casaco azul está se molhando na chuva,0,contradiction,premise
+1484,Não há livros infantis disponíveis na biblioteca,A biblioteca possui livros destinados ao público infantil,0,contradiction,premise
+1487,Um gato siamês não está brincando no jardim com um novelo de lã entre as patas,O gato siamês está no jardim.,2,neutral,premise
+1489,Um homem não está observando o trânsito em frente à sua residência,O homem está em frente à sua casa olhando o trânsito,0,contradiction,premise
+1493,Uma mulher não está parada diante de um espelho,Uma mulher está em frente a um espelho,2,neutral,premise
+1495,Um menino vestindo uma blusa regata azul não está observando uma foto,O menino está observando uma foto enquanto veste uma blusa regata azul.,0,contradiction,premise
+1497,As atrizes protagonistas da novela não são mostradas,As atrizes principais da novela estão sendo apresentadas,0,contradiction,premise
+1500,Uma pessoa não está protegendo um violão,Há uma pessoa cuidando de um instrumento musical,2,neutral,premise
+1504,"Um indivíduo está à beira do mar, mas não é atingido por nenhuma onda",O indivíduo está sendo atingido por uma onda enquanto está sentado à beira do mar,0,contradiction,premise
+1510,Os guardas municipais não estão em treinamento na escola,Os guardas municipais estão se preparando na escola.,0,contradiction,premise
+1511,Jovens estão dispersos e não prestam atenção em qualquer mensagem em uma janela de computador,Jovens estão juntos olhando uma mensagem em uma tela de computador,0,contradiction,premise
+1512,Algumas mulheres estão tomando café,Todas as mulheres presentes estão evitando o café.,0,contradiction,premise
+1516,O homem está misturando molho em uma tigela,O homem está evitando mexer o molho na tigela,0,contradiction,premise
+1522,Um homem não está andando com um cão na chuva,Um homem está caminhando com seu cachorro sob a chuva,0,contradiction,premise
+1525,A frase sugere que o pensamento não é a maneira da alma se comunicar consigo mesma,O pensamento é uma maneira da alma falar consigo mesma,0,contradiction,premise
+1528,Não há nenhum atleta paraolímpico em cadeiras de rodas competindo em uma corrida,Há uma competição de corrida com a participação de atletas paraolímpicos em cadeiras de rodas.,0,contradiction,premise
+1529,Um castelo está fora da visão de qualquer jovem morena,Uma jovem de cabelos escuros está olhando para um castelo,0,contradiction,premise
+1532,Atletas de duas diferentes categorias não estão treinando juntos,"Estão todos treinando na mesma área, apesar de pertencerem a categorias diferentes.",0,contradiction,premise
+1534,Nenhum mergulhador azul está alimentando um golfinho,O golfinho está sendo alimentado por um mergulhador,0,contradiction,premise
+1535,A eletricidade voltou e o banho será com água quente,"A eletricidade está desligada, portanto o chuveiro elétrico não funcionará e o banho será com água fria.",0,contradiction,premise
+1539,Uma mulher não está partindo uma corrente com um machado,Uma mulher está usando um machado para romper uma corrente.,0,contradiction,premise
+1545,O treinador e dois jogadores não comemoram abraçados após não marcarem o gol da vitória,O gol da vitória foi marcado,0,contradiction,premise
+1546,"Dois gatos, um cinza e outro laranja, não estão brincando despreocupadamente juntos no quintal",Há um gato cinza e um gato laranja brincando juntos.,0,contradiction,premise
+1549,Os filhos da pessoa não estão aproveitando as férias brincando com amigos e comendo pipoca,As crianças da pessoa estão se divertindo e comendo pipoca,0,contradiction,premise
+1550,Nenhum bebê está mamando no peito da mãe,O bebê está se alimentando no peito da mãe,0,contradiction,premise
+1553,Há um barco de vela vermelho navegando contra a correnteza,Não existe um barco de vela vermelho navegando na direção oposta ao fluxo da água.,2,neutral,premise
+1554,Existe um homem abandonando um bebê em um beco sujo,Nenhum bebê está sendo abandonado em um beco sujo por um homem.,2,neutral,premise
+1557,Uma praça central não é conectada por cinco ruas e não é cercada por vários prédios,A praça está localizada em uma área urbana.,2,neutral,premise
+1561,Alguns coelhos estão definitivamente saltando buracos,Os coelhos não estão saltando buracos.,0,contradiction,premise
+1563,Os pais não estão observando suas trigêmeas recém-nascidas,Há um trio de irmãs recém-nascidas sendo olhadas pelos pais,0,contradiction,premise
+1564,Uma chaminé de fábrica não está emitindo resíduos,A fábrica está em funcionamento,2,neutral,premise
+1574,Servidores públicos não participaram da gincana,A gincana contou com a participação de servidores públicos.,0,contradiction,premise
+1576,As crianças não ajudaram na limpeza do pátio da escola e os professores estão descontentes por isso,Os professores estão contentes com a ação das crianças,0,contradiction,premise
+1579,Jovens em trajes de esporte estão jogando bola no campo,Não há ninguém jogando bola no campo em trajes de esporte,0,contradiction,premise
+1581,Uma mulher branca de cabelo castanho escuro não está usando um chapéu de palha e óculos escuros em um dia ensolarado,A mulher está protegendo os olhos do sol com óculos escuros.,0,contradiction,premise
+1582,Um peixe prateado não está saltando fora do mar,Um peixe está realizando um salto acrobático para fora do mar,0,contradiction,premise
+1584,Algumas mulheres estão interferindo,As mulheres estão evitando a interferência,0,contradiction,premise
+1585,"Vários homens não se reúnem nem se abraçam, formando um círculo no centro de um campo de futebol",Um grupo de homens está formando um círculo no campo de futebol através de um abraço coletivo,0,contradiction,premise
+1586,Alunos não estão realizando experimentos em um laboratório,Experimentos estão sendo realizados por alunos em um laboratório,0,contradiction,premise
+1594,Um cachorro não está se divertindo com uma bola velha,O cachorro está brincando com uma bola já usada,0,contradiction,premise
+1596,No banheiro não há um porta-sabonete e uma planta,Existe uma planta no banheiro.,0,contradiction,premise
+1602,Um homem não está distribuindo cestas básicas para as pessoas,Alguém está ajudando pessoas fornecendo cestas básicas,0,contradiction,premise
+1603,As folhas não estão paradas,Não há vento agitando as folhas.,0,contradiction,premise
+1610,Cinco homens não estão presentes na tela,Existe um grupo de cinco homens na tela,0,contradiction,premise
+1619,Crianças não estão preparando um bolo,Existe um bolo sendo feito.,0,contradiction,premise
+1620,Um gato preto não está deitado em uma almofada,Existe um gato preto repousando sobre um objeto macio.,0,contradiction,premise
+1622,Uma mulher de jaqueta vermelha não está tendo dificuldades para dirigir um carro esportivo,A mulher na jaqueta vermelha está com problemas ao conduzir o veículo esportivo.,0,contradiction,premise
+1626,O indivíduo que dirige o carro não está observando a colisão de outro motorista,A pessoa ao volante está vendo a colisão de outro motorista,0,contradiction,premise
+1630,Um prendedor de cabelo não se assemelha ao formato de uma folha de maconha,O prendedor de cabelo é em formato de folha de maconha,0,contradiction,premise
+1633,Um capelo e um diploma não estão presentes em um desenho,O desenho representa uma formatura.,0,contradiction,premise
+1634,"Uma mulher não está escalando qualquer cerca, alta ou baixa",A mulher está subindo a cerca que não é alta,0,contradiction,premise
+1638,A parede não está inteiramente coberta por cartazes de filmes,O filme tem um cartaz que cobre toda a parede.,0,contradiction,premise
+1641,"Uma mulher não está contemplando o pôr do sol, e crianças não brincam ao seu redor",Uma mulher está observando o pôr do sol enquanto crianças brincam ao redor.,0,contradiction,premise
+1642,Os filhotes de cachorro nos cestos não são usados em comerciais de televisão,Os filhotes de cachorro estão aparecendo em um comercial de televisão como adereços,0,contradiction,premise
+1648,Uma pequena garota não está desenhando na praia com seu pai,A garota está na praia com seu pai.,0,contradiction,premise
+1651,Um garoto não está calçando botas de neve ou segurando esquis ao lado de uma menina com roupas vivas,Um garoto está segurando um equipamento de esqui e está ao lado de uma menina usando roupas coloridas,0,contradiction,premise
+1652,O indivíduo em estado de agitação busca frequentes conflitos com outros,O indivíduo tranquilo evita situações de conflito,0,contradiction,premise
+1655,Girafas dormem mais de 30 minutos por dia,As girafas não dormem mais do que 30 minutos diariamente.,0,contradiction,premise
+1660,Um estudo revela que nenhum brasileiro se torna milionário diariamente,Há brasileiros que se tornam ricos todos os dias,0,contradiction,premise
+1661,Um relógio de ponto digital preto não deve ser usado pelos empregados,Os empregados devem usar um relógio de ponto digital.,0,contradiction,premise
+1663,Dois rapazes não estão agachados consertando um cilindro comprido e oco,Os rapazes estão consertando algo.,2,neutral,premise
+1664,Um estudo revela que a expectativa de vida não diminui ao consumir mais de sete latas de cerveja por semana,Consumir mais de sete latas de cerveja por semana pode reduzir a expectativa de vida.,0,contradiction,premise
+1667,Engrenagens não estão fixadas em uma parede e contidas em uma caixa de inox polido,A caixa de inox polido contém engrenagens.,0,contradiction,premise
+1672,Nenhuma máscara branca e nenhum par de luvas azuis descartáveis estão jogadas no chão,Um par de luvas azuis e uma máscara estão no chão.,0,contradiction,premise
+1673,Uma mulher não está picando alho,Alguém está preparando comida.,2,neutral,premise
+1680,Três adolescentes não estão flutuando em uma bóia de flamingo inflável no lago,Há adolescentes em uma bóia inflável no lago,0,contradiction,premise
+1684,Um garoto não está praticando uma melodia no piano,Um garoto está tocando piano,2,neutral,premise
+1688,Os homens estão jogando bola no parque," ""Não há homens jogando bola no parque""",0,contradiction,premise
+1694,Uma mulher não possui um chip localizado atrás de sua orelha,Existe um objeto tecnológico localizado atrás da orelha de uma mulher,2,neutral,premise
+1700,Nenhuma espiga de milho se destaca em meio a uma plantação,Existe uma plantação de milho.,2,neutral,premise
+1702,Um homem não está sendo cuidadosamente barbeado por uma mulher,Uma mulher está barbeando um homem com cuidado,0,contradiction,premise
+1706,Um sofá cinza adornado com almofadas não está posicionado em uma sala,O sofá com almofadas está na sala,0,contradiction,premise
+1708,Nenhuma mulher está costurando um pedaço de tecido,Uma mulher está costurando um tecido,0,contradiction,premise
+1710,Um vestido infantil feminino não é estampado com nuvens e arco-íris,O vestido infantil feminino tem desenhos de nuvens e arco-íris.,0,contradiction,premise
+1711,Nenhuma foto foi detalhada nos recursos de acessibilidade,Todas as imagens contêm descrições acessíveis,0,contradiction,premise
+1714,Uma pesquisa revela que o maior fator de estresse no ambiente de trabalho não é a descoberta de um erro cometido,A descoberta de um erro cometido é a principal causa de estresse no ambiente de trabalho,0,contradiction,premise
+1718,Uma carteira de trabalho não está sendo exibida,Alguém está mostrando uma carteira de trabalho,0,contradiction,premise
+1721,"Os atletas, após o término da corrida, não mostram suas medalhas e não há sorrisos no rosto",Os atletas estão felizes por terem terminado a corrida.,0,contradiction,premise
+1734,Um mini espantalho não é feito de palha e não tem retalhos,O espantalho pequeno é composto por retalhos e palha,0,contradiction,premise
+1743,Mãos masculinas tatuadas não estão realizando trabalhos manuais em madeira,As mãos tatuadas estão trabalhando com madeira.,0,contradiction,premise
+1747,Alguns pássaros estão voando sob a chuva,Os pássaros estão se abrigando da chuva,0,contradiction,premise
+1748,"Três meninos de camiseta branca não estão sentados de costas, observando um lago",Tem pessoas observando um lago,2,neutral,premise
+1751,O deputado não possui uma foto do dia de seu casamento em seu acervo pessoal,Há uma foto do dia do casamento do deputado em seu acervo pessoal,0,contradiction,premise
+1752,Ciclistas estão pedalando em fila pela montanha acima,Os ciclistas estão subindo a montanha de maneira dispersa.,0,contradiction,premise
+1757,Um idoso não é visto dentro de um barril,Há um homem mais velho dentro de um barril,0,contradiction,premise
