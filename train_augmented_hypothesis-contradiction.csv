@@ -1,0 +1,1001 @@
+index,premise,hypothesis,label,readable_label,negated_part
+6434,O poeta descreve a experiência de perceber alguém como atraente ou agradável,O poeta não está descrevendo a experiência de rejeição e indiferença,1,entailment,hypothesis
+187,Senadores e médicos discutem ações e políticas para prevenção do câncer colorretal em uma audiência pública,Médicos e senadores não evitam falar sobre o câncer colorretal em uma audiência pública.,1,entailment,hypothesis
+5991,Os shows duraram em média 45 minutos cada,Cada show não durou mais de uma hora,1,entailment,hypothesis
+2218,Um homem está se barbeando em frente ao espelho,Um homem não está dormindo,1,entailment,hypothesis
+5711,"Bailarinas estão sentadas em cadeiras de rodas, sorrindo e posando",As bailarinas não estão dançando no palco.,1,entailment,hypothesis
+6639,A pessoa está quebrando um violão,Um violão não está sendo tocado,1,entailment,hypothesis
+1579,Um menino está protegendo um violino,Um menino não está danificando um violino,1,entailment,hypothesis
+5358,Uma pessoa está usando uma camisa branca aberta com um colar de ouro amarelo,A pessoa não está usando uma camisa preta fechada.,1,entailment,hypothesis
+671,A mulher não está verificando suas mensagens.,A mulher não está respondendo suas mensagens.,2,neutral,hypothesis
+2240,A turma de amigos se encontra reunida em uma sala mal iluminada,A turma de amigos não está reunida ao ar livre durante o dia,1,entailment,hypothesis
+1361,Diversos tabletinhos de chocolate estão dispostos sobre a mesa numa variação gradual de chocolate branco para o mais intenso,Todos os tabletinhos de chocolate na mesa não são da mesma cor,1,entailment,hypothesis
+6722,Três garotos estão construindo castelos e se divertindo em um playground fechado,Os três garotos não estão destruindo castelos no playground aberto,2,neutral,hypothesis
+1950,Um estudo revela que um terço dos funcionários experimenta situações embaraçosas nas festas corporativas,Nem todos os funcionários se sentem confortáveis nas festas corporativas,1,entailment,hypothesis
+7350,Um paciente está interagindo com um médico,O paciente não está sozinho em casa.,1,entailment,hypothesis
+8227,A embalagem de goma de tapioca foi aberta e está vencida,A embalagem de goma de tapioca não está fechada.,1,entailment,hypothesis
+8023,Gêmeos meninos com síndrome de Down estão encantando com seus sorrisos,Os gêmeos meninos com síndrome de Down não estão chorando.,1,entailment,hypothesis
+2834,Um estudo revela que a música pop está se tornando progressivamente mais triste e dançante,Um estudo não mostra que a música pop está se tornando mais alegre e menos dançante,1,entailment,hypothesis
+5607,Uma moça está sentada no banco da praça sob a sombra de uma árvore,"A moça não está de pé, caminhando fora da sombra da árvore na praça",1,entailment,hypothesis
+1048,Os jogadores não estão sendo repreendidos pelo treinador.,O treinador não está dando bronca nos jogadores.,1,entailment,hypothesis
+650,Uma árvore frondosa está na frente de uma casa branca sem outra vegetação por perto,Não existem várias árvores ao redor da casa branca,1,entailment,hypothesis
+8226,"Diferentes tipos de linhaça são representados em forma de cápsula, óleo e farinha",A linhaça não pode ser consumida apenas em forma de grãos inteiros,1,entailment,hypothesis
+6353,A mulher está colhendo uma maçã,A mulher não está colhendo uma maçã,2,neutral,hypothesis
+36,Uma mulher está posicionada no cume da montanha com o céu estrelado como pano de fundo,A mulher não está no vale da montanha,1,entailment,hypothesis
+611,O garoto gosta de correr no parque.,O garoto não gosta de correr.,2,neutral,hypothesis
+311,Uma pequena gatinha preta está pulando pelo jardim,A gatinha preta não está dormindo no jardim.,1,entailment,hypothesis
+2417,Um celular exibe uma conversa entre duas pessoas,Um celular não está exibindo uma conversa entre três pessoas,1,entailment,hypothesis
+1784,O médico ressalta a importância e o impacto que o peso corporal tem na vida de uma pessoa,O médico não desconsidera a relevância do peso corporal na saúde de uma pessoa.,1,entailment,hypothesis
+3726,Não há nenhum gato escalando uma montanha em uma trilha formada por pedras deslizadas,Não há um gato não escalando uma montanha em uma trilha formada por pedras deslizadas,1,entailment,hypothesis
+5702,Uma árvore com flores vermelhas tem uma bicicleta da mesma cor estacionada embaixo dela,A bicicleta estacionada embaixo da árvore não tem flores brancas.,1,entailment,hypothesis
+4162,"Casal aconchegado na poltrona, aproveitando a vista","O casal não está separado, cada um em um canto diferente da sala",1,entailment,hypothesis
+1091,"Um agricultor está de costas, com a mão no chapéu, admirando sua plantação de café",O agricultor não está olhando para um campo de trigo.,1,entailment,hypothesis
+6199,Um indivíduo está caminhando no parque sem um skate.,Um indivíduo não está caminhando no parque com um skate.,1,entailment,hypothesis
+538,O menino está caminhando a pé pela trilha do parque,O menino não está correndo pela trilha do parque,1,entailment,hypothesis
+648,A praia está cheia de turistas.,A praia não está vazia.,1,entailment,hypothesis
+7746,O homem está indo pescar no lago próximo à floresta,"O homem não está indo para o centro da cidade, longe de qualquer lago ou floresta",1,entailment,hypothesis
+6350,"Um homem está lendo um livro e convida outros a compartilhar o que estão lendo, incentivando a leitura entre amigos",O homem não está desencorajando a leitura entre amigos,2,neutral,hypothesis
+5816,A bola de beisebol está sendo lançada no estádio.,A bola de beisebol não está parada,2,neutral,hypothesis
+2434,Uma mulher está correndo ao ar livre para se exercitar antes de ir para o trabalho,A mulher não está dormindo e vai trabalhar mais tarde,2,neutral,hypothesis
+3090,Um garoto está relaxando,O garoto não está estressado.,2,neutral,hypothesis
+1615,Um atleta de vôlei está desamarrando seus tênis vermelhos,O atleta de vôlei não está amarrando seus sapatos de ballet.,2,neutral,hypothesis
+6504,Um goleiro de handebol está falhando em defender um pênalti,O goleiro de handebol não defendeu com sucesso o pênalti.,1,entailment,hypothesis
+8099,"A unha artificial de acrílico esculpido é removida, com o processo sendo documentado desde o início até o final",A unha artificial de acrílico esculpido não permanece intacta,1,entailment,hypothesis
+8135,Uma mulher está executando uma acrobacia de skate em pleno vôo,Uma mulher não está parada segurando um skate,1,entailment,hypothesis
+8100,"A questão levantada sugere que as perturbações diárias possam ser equilibradas através de práticas como comer, fazer sexo ou fazer compras","A questão levantada não afirma que as perturbações diárias aumentam com práticas como comer, fazer sexo ou fazer compras.",2,neutral,hypothesis
+252,O guerreiro está cuidando de sua arma,O guerreiro não está cozinhando comida.,1,entailment,hypothesis
+3751,"Um homem está pilotando um barco, enquanto discute os planos da viagem com a mulher que está a sua frente","O homem não está dirigindo um carro, enquanto discute os planos da viagem com a mulher que está a sua frente",1,entailment,hypothesis
+294,A mulher com o vestido azul manchado está perto de um lago.,A mulher com o vestido azul manchado não está longe de qualquer corpo d'água.,1,entailment,hypothesis
+6198,A mulher está sentada na arquibancada da pista de atletismo.,A mulher não está correndo na pista de atletismo.,1,entailment,hypothesis
+4209,O gato não está brincando com um novelo de lã na carpete.,Nenhum gato está entretido com um novelo de lã na carpete.,1,entailment,hypothesis
+348,Uma mulher de cabelos ruivos cobre metade do rosto com um meio sorriso,A ruiva não está rindo às gargalhadas,1,entailment,hypothesis
+2077,Uma mulher está imprudentemente cortando o pão com uma serra elétrica,Uma mulher não está cortando o pão com uma faca normal,1,entailment,hypothesis
+7905,Bailarinos em cadeiras de rodas estão posicionando seus braços na posição correta,Bailarinos em cadeiras de rodas não estão com os braços cruzados,1,entailment,hypothesis
+7365,Um pequeno garoto oriental está de pé no meio do grupo,O garoto oriental não está sozinho,1,entailment,hypothesis
+8012,Não há nenhum gato brincando livremente no jardim,Não há gato algum brincando no jardim,1,entailment,hypothesis
+2876,A gatinha malhada de preto e branco gosta de comer peixe.,A gatinha malhada de preto e branco não se alimenta apenas de ração vegetal.,1,entailment,hypothesis
+7192,Os ciclistas estão disputando a liderança na estrada,Os ciclistas não estão parados na estrada,1,entailment,hypothesis
+7657,O indivíduo não está correndo de bicicleta em uma estrada montanhosa,O indivíduo não está correndo de bicicleta em uma estrada plana,2,neutral,hypothesis
+4000,O garoto de camisa azul tem cabelos castanhos,O garoto de camisa azul não tem cabelos loiros,1,entailment,hypothesis
+550,O jovem guitarrista está de pé em um estúdio esperando sua hora de começar a tocar,O jovem guitarrista ainda não iniciou uma apresentação ao vivo.,1,entailment,hypothesis
+5282,Uma criança está brincando com um carrinho de brinquedo,Uma criança não está brincando com uma boneca,2,neutral,hypothesis
+8174,Um artista está pintando um retrato de sua modelo em seu estúdio,O artista não está pintando uma paisagem ao ar livre.,1,entailment,hypothesis
+4677,Uma mulher em uma bicicleta está parada em uma trilha e parecendo triste.,Uma mulher em uma bicicleta não está pedalando alegremente pelo caminho.,1,entailment,hypothesis
+3122,A senhora não está tirando foto de ninguém,A senhora não está tirando foto de ninguém,1,entailment,hypothesis
+7298,A lei determina que os serviços de combate à violência doméstica devem operar continuamente,Os serviços de combate à violência doméstica não operam apenas durante o dia,1,entailment,hypothesis
+7940,Uma mulher está usando um colar relicário em formato de coração com acabamento espelhado e uma blusa de renda preta,A mulher não está usando um colar de pérolas e uma blusa de renda preta,1,entailment,hypothesis
+6979,Uma mulher está relaxando,A mulher não está relaxada,2,neutral,hypothesis
+7299,Uma hélice é criada usando uma caneta 3D com um filamento vermelho,Uma hélice não é criada usando uma caneta normal e papel,2,neutral,hypothesis
+4363,Ninguém está dançando,Não há uma pessoa dançando no centro do salão.,1,entailment,hypothesis
+909,Um homem de relógio está passando seu bilhete QR Code no validador de uma estação,O homem de relógio não está passando seu cartão de crédito no validador de uma estação,2,neutral,hypothesis
+8244,Um garoto trajando trajes escuros se encontra imóvel com suas mãos erguidas para o céu,O garoto não está se movendo.,1,entailment,hypothesis
+3430,Uma mulher de shorts está correndo em uma pista de atletismo,A mulher não está sentada descansando na pista de atletismo.,1,entailment,hypothesis
+7573,A celebração será transmitida ao vivo nas redes sociais,A celebração não será transmitida apenas para um público presencial,1,entailment,hypothesis
+5534,Uma mulher está dançando fervorosamente,A mulher não está sentada quietamente.,1,entailment,hypothesis
+2167,O terminal de integração está sendo exibido,O terminal de integração não está oculto.,1,entailment,hypothesis
+4353,Uma mulher está desfrutando de um pastel,Uma mulher não está recusando um pastel,1,entailment,hypothesis
+8246,Os pequenos estão se divertindo em fontes dançantes de praça,As crianças não estão evitando as fontes de praça,1,entailment,hypothesis
+7545,Não há ninguém preparando salada na cozinha,Nenhuma pessoa está na cozinha fazendo salada,1,entailment,hypothesis
+7201,Um garotinho está descendo de um balanço de madeira,O menino não está subindo em um balanço de madeira,1,entailment,hypothesis
+655,"Uma mulher está deitada no sofá com as pernas para cima, tomando chá","A mulher não está em pé, bebendo café",1,entailment,hypothesis
+576,Um menino ruivo está segurando uma bola de futebol,Um menino ruivo não está segurando uma bola de basquete,1,entailment,hypothesis
+4321,A avó está fazendo um bolo de chocolate,A avó não está assando um pão integral no forno,1,entailment,hypothesis
+2547,A prancha do homem é verde.,A prancha do homem não é azul.,1,entailment,hypothesis
+7648,Um meio galeto cortado e espaguete ao alho e óleo estão servidos no prato,O prato não está vazio,1,entailment,hypothesis
+4463,Quatro cookies de sabores variados estão dispostos em um prato verde,Nem todos os cookies são do mesmo sabor,1,entailment,hypothesis
+7413,O professor está orientando o aluno,O aluno não está estudando sozinho.,1,entailment,hypothesis
+1863,"Um homem está sentado à mesa, sorrindo e olhando diretamente para a câmera",O homem não está encarando a parede.,1,entailment,hypothesis
+5241,O estudante está participando de um retiro com seus amigos da comunidade,O estudante não está sozinho em casa,1,entailment,hypothesis
+7696,Alunos do Ensino Fundamental participaram de um recital de poesia,Os estudantes do Ensino Médio não realizaram um recital de música.,2,neutral,hypothesis
+5379,Não há gatos brincando no quintal.,Nenhum gato está se divertindo no quintal.,1,entailment,hypothesis
+5432,Uma garota audaz está conduzindo seu skate pelas ladeiras íngremes da cidade,A garota audaz não está com medo de andar de skate,1,entailment,hypothesis
+2881,Um gato preto e um gato branco estão descansando melancolicamente no telhado,Os gatos não estão brincando alegremente no chão,1,entailment,hypothesis
+2567,O filme é sobre uma história real de um treinador de futebol,O filme não é sobre uma história fictícia de um astronauta,1,entailment,hypothesis
+640,Um garoto jovem está vestindo tênis que são azuis,O garoto jovem não está descalço,1,entailment,hypothesis
+4895,Um elefante está caminhando em uma floresta,O elefante não está parado na floresta,1,entailment,hypothesis
+3873,"Um rapaz, dos ombros para cima, está escondendo o rosto com ambas as mãos",O rapaz não está mostrando o rosto,1,entailment,hypothesis
+5598,A mulher está sentada ao lado da janela,A mulher não está de pé longe da janela.,1,entailment,hypothesis
+2425,O gato veloz está parado e seu dono está relaxando.,O gato veloz não está correndo,1,entailment,hypothesis
+3131,O homem está retirando tomate da salada,O homem não está colocando tomates na salada.,1,entailment,hypothesis
+8131,Uma mulher está plantando flores no jardim sozinha.,A mulher não está dentro de casa assistindo televisão.,1,entailment,hypothesis
+5719,Os alunos das escolas públicas compareceram à bienal do livro,Nem todos os alunos que compareceram à bienal do livro são de escolas privadas.,2,neutral,hypothesis
+973,O garoto está correndo sozinho pela areia.,O garoto não está brincando com seus amigos na areia.,1,entailment,hypothesis
+7432,Uma mulher está pilotando uma bicicleta,A mulher não está dirigindo um carro.,1,entailment,hypothesis
+1817,O gato preto e o gato branco estão se divertindo no jardim,Os gatos não estão dentro de casa.,1,entailment,hypothesis
+1107,Um influenciador digital está posando ao ar livre em um conjunto de blusa e saia jeans,Um influenciador digital não está dentro de casa vestindo um conjunto de blusa e saia jeans,1,entailment,hypothesis
+4727,O papagaio está alimentando o gato,O gato não está alimentando o papagaio.,1,entailment,hypothesis
+3571,Uma necessaire estampada com desenhos de raposinhas laranjas é feita de tecido rosa,A necessaire estampada com raposinhas laranjas não é feita de tecido azul.,2,neutral,hypothesis
+1175,Um agricultor alegre recolhe mandioca fresca de sua plantação,O agricultor não está descontente enquanto recolhe batatas da sua plantação.,2,neutral,hypothesis
+7034,Uma mulher está plantando flores no jardim enquanto se diverte alegremente com seu gato,Uma mulher não está plantando flores no jardim sozinha.,2,neutral,hypothesis
+5262,Ninguém está dançando com um urso,Ninguém está dançando com um urso.,1,entailment,hypothesis
+5565,Uma máquina está realizando a limpeza da areia,A máquina não está desligada e parada,2,neutral,hypothesis
+3217,Uma mulher em uma bicicleta está pedalando em uma trilha e sorrindo radiante,Uma mulher em uma bicicleta está realmente pedalando e sorrindo radiante.,1,entailment,hypothesis
+3882,A loja possui produtos de cama e banho de várias marcas,A loja possui produtos variados de todas as marcas.,2,neutral,hypothesis
+7493,Um indivíduo usando um uniforme vibra com o braço direito esticado para o alto,O indivíduo está com o braço direito esticado para o alto.,1,entailment,hypothesis
+292,O senhor está preparando o jantar,O senhor não está preparando nada.,2,neutral,hypothesis
+25,Costureiras estão engajadas na produção de máscaras,Costureiras não estão produzindo máscaras.,1,entailment,hypothesis
+3743,O governador participa de uma reunião remota,O governador não está participando de uma reunião presencial,1,entailment,hypothesis
+2749,Uma pessoa está descascando uma laranja,Uma pessoa não está comendo uma laranja,1,entailment,hypothesis
+1201,Um gato branco está perseguindo um pequeno rato cinza,Um gato branco não está dormindo calmamente.,1,entailment,hypothesis
+4064,Uma sala é decorada com papel de parede listrado em tons claros,As paredes da sala não são pintadas de preto,1,entailment,hypothesis
+6892,Um homem e um gato estão sentados ao lado de um tronco de árvore caído,Um homem e um gato não estão correndo para longe de um tronco de árvore caído.,1,entailment,hypothesis
+3368,Um homem vestido de Papai Noel está animado e olhando diretamente para a câmera,O homem vestido de Papai Noel não está triste nem evitando a câmera.,1,entailment,hypothesis
+1944,O peixe não está sendo lançado na frigideira,O peixe não está sendo frito na frigideira.,2,neutral,hypothesis
+4419,Dois irmãos estão correndo nos campos floridos,Os irmãos não estão sentados dentro de casa.,1,entailment,hypothesis
+4510,Um estudo revela que os proprietários de cachorros tendem a sorrir mais,"Proprietários de cachorros não são mais propensos a estar tristes, diz estudo",1,entailment,hypothesis
+7559,Um pote de vidro transparente contém frutas cortadas,O pote de vidro transparente não está vazio,1,entailment,hypothesis
+5034,"Uma mulher está sentada em uma cadeira de escritório, lendo um livro",A mulher não está dormindo na cama,1,entailment,hypothesis
+5466,"A pessoa está sorrindo e olhando de lado, com o cabelo no topo da cabeça","A pessoa não está séria e olhando para frente, com o cabelo solto",1,entailment,hypothesis
+6922,Um macaco está em uma árvore na mata,Um macaco não está em um deserto,1,entailment,hypothesis
+5775,Um prato está sendo coberto com molho por um chef,Um prato não está sendo coberto com sal por um chef,1,entailment,hypothesis
+4371,Um dedo polegar está posicionado sobre um cartão prateado que possui inscrições em braile,O dedo polegar não está longe do cartão prateado,1,entailment,hypothesis
+3513,A jovem está diante de um cartaz que promove educação sexual,A jovem não está em frente a um cartaz que promove esportes.,2,neutral,hypothesis
+2485,A galinha está cantando blues,A galinha não está completamente silenciosa.,2,neutral,hypothesis
+2706,Um médico equipado com estetoscópio e canetas no bolso está segurando um coração de borracha ao nível do peito,O médico não está segurando um cérebro de borracha,2,neutral,hypothesis
+1833,O grupo de dança está deitado na área de convivência,O grupo de dança não está dançando na área de convivência,1,entailment,hypothesis
+4404,Dois indivíduos estão viajando sem bagagem e sem mantas,Dois indivíduos não estão viajando com muitas malas e mantas,2,neutral,hypothesis
+3101,Uma criança está olhando com ternura para um coelhinho,A criança não está com medo do coelhinho,1,entailment,hypothesis
+3043,O homem não tem nenhum instrumento musical.,O homem não tem uma guitarra em casa,1,entailment,hypothesis
+3643,Um homem está correndo na praia ao amanhecer,O homem não está dormindo na cama,1,entailment,hypothesis
+6764,Não existe nenhuma mulher cantando em línguas estrangeiras no chão,Nenhuma mulher está cantando em francês no chão,1,entailment,hypothesis
+777,Uma profissional está conduzindo uma entrevista sobre a importância do Braille,Uma profissional está conduzindo uma entrevista não sobre a irrelevância do Braille,2,neutral,hypothesis
+8151,Um gato com um laço vermelho está perseguindo uma borboleta no quintal,O gato não está dormindo tranquilamente.,2,neutral,hypothesis
+481,Pessoas estão tirando fotos do ator famoso,Pessoas não estão ignorando o ator famoso,1,entailment,hypothesis
+7118,Não há ninguém escalando o pico nevado.,Não há um grupo de montanhistas no cume do pico nevado.,1,entailment,hypothesis
+4385,Um barco de papel está sobre a carteira escolar,O barco de papel não está flutuando em uma poça de água.,1,entailment,hypothesis
+3248,Um senhor está esquiando e descendo uma montanha,O senhor não está relaxando em casa,2,neutral,hypothesis
+1489,Um noivo de terno preto está esperando ansiosamente,O noivo está relaxado e vestindo um terno que não é azul,2,neutral,hypothesis
+5513,A sobrancelha passa por uma transformação visível quando é aplicada henna,A sobrancelha não permanece inalterada após a aplicação de henna,1,entailment,hypothesis
+7302,Não há comida sendo devorada por um cachorro,Não há nenhum cachorro devorando a comida.,1,entailment,hypothesis
+4790,O gato está descansando tranquilamente no sofá da varanda,O gato não está correndo agitadamente no sofá da varanda.,1,entailment,hypothesis
+143,Ninguém está cortando uma cebola,Ninguém está cortando cebola alguma,1,entailment,hypothesis
+4296,"Quatro amigos estão de pé em um penhasco, observando o horizonte com uma luneta","Quatro amigos não estão nadando no mar, longe do penhasco",1,entailment,hypothesis
+2729,O cantor está se casando pela quarta vez,Não é o primeiro casamento do cantor,1,entailment,hypothesis
+7869,"A gata mãe está deitada no chão alimentando seus quatro filhotes, todos cor de café com leite",A gata mãe não está brincando com seus filhotes.,1,entailment,hypothesis
+7589,"O cachorro está no colo do narrador, recebendo carinho enquanto é observado",O cachorro não está correndo livremente no quintal,1,entailment,hypothesis
+7823,Os amigos estão discutindo sobre qual é o melhor restaurante da cidade.,Os amigos não concordam sobre qual é o melhor restaurante da cidade.,1,entailment,hypothesis
+3545,O cavalo e o dono estão dentro do banco,O cavalo e o dono não estão em um pasto aberto,1,entailment,hypothesis
+5122,Não há vento agitando as folhas.,As folhas não estão se movendo devido ao vento.,1,entailment,hypothesis
+4411,Atletas e comissão técnica celebram a vitória na quadra,Os atletas não estão tristes pela derrota na quadra,1,entailment,hypothesis
+8064,A ave com penas coloridas está voando graciosamente,A ave não está em repouso.,1,entailment,hypothesis
+1354,Um bule com filtro para passar café está sendo usado,O bule com filtro para passar café não está guardado no armário.,1,entailment,hypothesis
+5902,Um homem está em pé próximo a uma estante,O homem não está longe de qualquer prateleira.,1,entailment,hypothesis
+2023,O pássaro azul está voando sobre a floresta verde,O pássaro azul não está pousado na árvore da floresta verde,1,entailment,hypothesis
+28,A mulher está assistindo televisão,A mulher não está lendo um livro,2,neutral,hypothesis
+1477,Uma borboleta é vista de muito perto em uma perspectiva macro,Uma borboleta não está sendo vista de longe,1,entailment,hypothesis
+722,A loja é especializada em artigos eletrônicos,A loja não é especializada em artigos de decoração,1,entailment,hypothesis
+2125,"Um homem e uma mulher estão jogando tênis na praia, próximos ao mar",Um homem e uma mulher não estão jogando tênis em uma quadra de tênis,1,entailment,hypothesis
+8213,"Uma caixa contém nove vidrinhos de tratamento coloridos, com dois trevos posicionados à esquerda",A caixa não está vazia.,1,entailment,hypothesis
+4527,A igreja da cidade é exibida com algumas casas vizinhas,A igreja não está localizada em uma área desabitada.,1,entailment,hypothesis
+4977,Um pastor alemão com coleira está com a boca aberta e a língua para fora,O pastor alemão não está com a boca fechada,1,entailment,hypothesis
+5452,Não é possível ver um coala pendurado.,Não existe um coala visível pendurado na árvore.,1,entailment,hypothesis
+5399,Um bando de turistas europeus está jantando em um bistrô,Um bando de turistas europeus não está almoçando em um bistrô,1,entailment,hypothesis
+7540,Um menino está abraçando uma mulher ao ar livre,O menino não está brincando sozinho ao ar livre,1,entailment,hypothesis
+6461,Duas gatas cinzentas estão disputando uma bola de lã azul e estão se divertindo no tapete,Duas gatas cinzentas não estão dormindo tranquilamente no sofá.,1,entailment,hypothesis
+3403,Um computador está exibindo um vídeo ao vivo sobre acolhimento e empatia,O computador não está desligado,1,entailment,hypothesis
+2639,Os atores da peça e a plateia estão todos dançando no centro do palco,Os atores da peça não estão sentados quietos no centro do palco,1,entailment,hypothesis
+1565,Sete pessoas estão sentadas em uma sala de reunião,A sala de reunião não está vazia,1,entailment,hypothesis
+1836,Três garrafas de vinho estão deitadas em um nicho de adega,As garrafas de vinho não estão de pé,1,entailment,hypothesis
+2464,"O garoto, que é magro, está amarrando o sapato com um laço duplo",O garoto não está desamarrando o sapato.,1,entailment,hypothesis
+7727,Um homem com uma bermuda estampada de azul está esquiando em uma prancha de esqui vermelha,O homem com a bermuda estampada de azul não está nadando.,1,entailment,hypothesis
+4020,Uma embarcação sem capitão está colidindo contra as ondas,A embarcação não está ancorada em águas calmas,1,entailment,hypothesis
+6115,Um gato cinza e branco está deitado no tapete,O gato não está correndo no jardim,1,entailment,hypothesis
+7150,Uma senhora idosa está descansando em uma cadeira de balanço,A senhora idosa não está caminhando,1,entailment,hypothesis
+3015,Um míssil é disparado do alto-mar envolto em fumaça,O míssil não foi disparado em terra firme.,1,entailment,hypothesis
+5349,A camisola vintage é detalhada em tons de amarelo com bordados florais,A camisola vintage não é de cor verde,1,entailment,hypothesis
+1882,Dois adolescentes não estão sentados no banco do parque,Dois adolescentes não estão descansando no banco do parque,2,neutral,hypothesis
+4344,Um homem está acariciando o gato,O gato não está sozinho.,1,entailment,hypothesis
+5574,Duas fadas estão espalhando sonhos nas crianças adormecidas,Crianças adormecidas não estão tendo pesadelos.,1,entailment,hypothesis
+7937,"Um gato preto e brilhante está deitado no sofá, enquanto um gato branco está observando",O gato preto não está correndo pelo sofá,1,entailment,hypothesis
+6749,"Não existe um único skatista voando sobre a rampa, com a luz da lua filtrada através das rodas do skate",Nenhum skatista está realizando uma manobra sob a luz da lua.,1,entailment,hypothesis
+4812,Um garoto jovem está chutando uma bola de futebol em um gol improvisado,O garoto jovem não está jogando basquete,1,entailment,hypothesis
+7930,O skatista está parado no topo da ladeira.,O skatista não está caminhando na parte de baixo da ladeira.,1,entailment,hypothesis
+4120,Uma mulher segura uma vela branca e rosa com o número 20,Uma mulher não está segurando uma vela azul com o número 30,1,entailment,hypothesis
+5146,Um cachorro está se divertindo com uma abóbora,Um cachorro não está com medo de uma abóbora,1,entailment,hypothesis
+1613,Os preços do cinema foram reajustados,Os preços dos ingressos do cinema não permanecem os mesmos.,1,entailment,hypothesis
+3136,A garotinha está usando botas de chuva vermelhas,A garotinha não está descalça.,1,entailment,hypothesis
+4216,"A mulher permanece firme no topo de um penhasco, cercada por pedras afiadas, com o céu tempestuoso pintado em tons de azul escuro ao redor",A mulher não está relaxando em uma praia ensolarada.,1,entailment,hypothesis
+1981,Crianças são vistas se servindo durante momentos de refeição,As crianças não estão sendo servidas por um adulto durante as refeições.,1,entailment,hypothesis
+6189,Um indivíduo equipado para escalar montanhas está posicionado com determinação diante de uma imponente cordilheira,O indivíduo não está despreparado para escalar montanhas,1,entailment,hypothesis
+7151,Um bife está sendo grelhado na cozinha do restaurante,O bife não está sendo cozido na panela de pressão na cozinha do restaurante.,1,entailment,hypothesis
+7327,Os indivíduos estão parados sem direção na calçada em frente a uma livraria,Os indivíduos não estão correndo apressadamente na calçada em frente a uma livraria,1,entailment,hypothesis
+7109,A favela é observada à distância em um dia ensolarado com céu azul,A favela não está sendo observada de perto em um dia chuvoso,1,entailment,hypothesis
+8092,Um manifestante de agasalho vinho e máscara é contido por dois policiais,O manifestante de agasalho vinho e máscara não está livre dos policiais,1,entailment,hypothesis
+4241,A vacina de febre amarela vale para toda a vida,A vacina de febre amarela não precisa ser tomada a cada 10 anos,1,entailment,hypothesis
+3893,Vários bonecos costurados ainda sem enchimento estão enfileirados,Os bonecos ainda não estão com enchimento,1,entailment,hypothesis
+7884,Um enorme cachorro marrom encharcado correndo atrás de uma bola,Um enorme cachorro marrom encharcado não está descansando calmamente,1,entailment,hypothesis
+8336,Um cadeirante está entrando em um ônibus,Uma pessoa com mobilidade reduzida não está descendo de um ônibus,1,entailment,hypothesis
+227,Um cão labrador amarelo está se espreguiçando no chão,Um cão labrador amarelo não está correndo pelo campo,1,entailment,hypothesis
+1144,Um homem está ocupado colhendo em uma plantação,"Um homem não está relaxando em uma praia, longe de qualquer plantação",1,entailment,hypothesis
+3271,A janela do quarto está aberta e a cortina está balançando com o vento,A janela do quarto não está fechada e a cortina não está parada,1,entailment,hypothesis
+1157,A cesta está cheia e ninguém a está esvaziando,A cesta não está vazia.,1,entailment,hypothesis
+4326,A raposa está explorando a floresta com destreza,A raposa não está no deserto.,1,entailment,hypothesis
+1531,A mãe está alimentando o bebê com uma colher,A mãe não está dando mamadeira ao bebê,1,entailment,hypothesis
+7719,"Um gato, que é grande e cinza, está caçando um pequeno pássaro amarelo",O gato grande e cinza não está dormindo tranquilo.,1,entailment,hypothesis
+2318,"Um homem negro sorri para um menino negro que está em seu colo, enquanto segura um ovo de páscoa","O homem negro não está olhando seriamente para o menino negro em seu colo, enquanto segura um ovo de páscoa",1,entailment,hypothesis
+4285,Crianças criaram uma série de gravuras que foram impressas na cor preta,As gravuras não foram impressas em cores vibrantes.,1,entailment,hypothesis
+902,A mulher não está abrindo o envelope da carta,A mulher não está abrindo o envelope da carta,1,entailment,hypothesis
+2514,Várias pessoas estão reunidas e sentadas em um local amplo,As pessoas não estão dispersas e de pé em um espaço pequeno,1,entailment,hypothesis
+4804,A mulher está apaixonadamente tocando o piano,A mulher não está entediada enquanto toca o piano,2,neutral,hypothesis
+1069,"No noticiário são comuns, infelizmente, os casos de feminicídios","No noticiário, os casos de feminicídio não são raros",1,entailment,hypothesis
+2684,"Uma mulher está de pé, solidamente, ao lado da janela",A mulher não está sentada ao lado da janela,1,entailment,hypothesis
+7970,Uma família está se divertindo e passando um tempo de qualidade juntos,A família não está brigando e discutindo.,1,entailment,hypothesis
+1051,Uma mulher de cabelos castanhos está encostada em uma parede branca,Uma mulher de cabelos loiros não está encostada em uma parede azul,1,entailment,hypothesis
+5915,A rua está vazia e as lojas estão fechadas durante todo o mês,A rua não está cheia de pessoas e as lojas não estão abertas.,1,entailment,hypothesis
+3261,"A pessoa está deitada na cama, segurando uma taça e pensativa com a mão no queixo",A pessoa não está em pé nem festejando com uma taça na mão.,1,entailment,hypothesis
+1699,Um gato está perseguindo um novelo de lã.,O gato não está dormindo tranquilamente no sofá.,1,entailment,hypothesis
+4351,Uma mulher está em uma pose de ioga com as palmas das mãos juntas,A mulher não está sentada em uma cadeira com as mãos separadas.,1,entailment,hypothesis
+7531,Uma mulher está preparando café,Uma mulher não está cozinhando uma refeição completa.,1,entailment,hypothesis
+7582,A menina desenha uma casa com flores ao redor,A menina não está desenhando um carro com árvores ao redor.,1,entailment,hypothesis
+6087,Mulheres iranianas estão comemorando,Mulheres iranianas não estão em luto.,1,entailment,hypothesis
+3776,Um banner apresenta uma cena do filme em uma sala de cinema,O banner em uma sala de cinema não está vazio,1,entailment,hypothesis
+581,Um convidado está frente à tela exibindo o logo do programa,O convidado não está de costas para a tela.,1,entailment,hypothesis
+2597,Pessoas estão assistindo um vídeo em uma sala de aula,A sala de aula não está vazia,1,entailment,hypothesis
+4271,A área rural tem plantações e agricultores trabalhando,A área rural não é completamente desabitada.,1,entailment,hypothesis
+1456,Um grupo de crianças está soltando pipas perto de um antigo muro de pedra,As crianças não estão jogando bola perto de um muro de concreto,1,entailment,hypothesis
+4685,Um menino está lendo um livro atrás de uma grande estante,Um menino não está brincando atrás de uma grande estante.,1,entailment,hypothesis
+5868,Não existe nenhum leão caçando na floresta tropical,Não há leões na floresta tropical,2,neutral,hypothesis
+1608,Um homem negro está observando seu reflexo no espelho,O homem não está de costas para o espelho.,2,neutral,hypothesis
+7475,A mulher em uma bicicleta está pedalando em uma trilha na floresta.,A mulher em uma bicicleta não está pedalando em uma estrada na cidade.,1,entailment,hypothesis
+2517,Um gato está dormindo no sofá,Um cão não está dormindo no sofá,2,neutral,hypothesis
+616,Um atleta loiro está correndo uma prova de 100 metros,O atleta loiro não está nadando em uma piscina,1,entailment,hypothesis
+193,A bandeira brasileira está tremulando ao vento,A bandeira brasileira não está tremulando,1,entailment,hypothesis
+6373,Quatro jovens estão escalando montanha acima,Os quatro jovens não estão subindo uma montanha.,1,entailment,hypothesis
+2634,Um sanduíche sabor frango está sobre a mesa do restaurante,A mesa do restaurante não está completamente ocupada.,2,neutral,hypothesis
+8157,A menina está interagindo com um jogo em forma de labirinto,A menina não está prestando atenção ao jogo com formato de labirinto,1,entailment,hypothesis
+2759,"Um depósito contém uma porção de feijoada, arroz e couve",O depósito não está completamente cheiinho.,2,neutral,hypothesis
+5619,Um homem está se afastando do horizonte da metrópole,Um homem não está caminhando em direção ao horizonte da metrópole,1,entailment,hypothesis
+3395,Um pequeno garoto está brincando em um balanço pintado de azul e verde,O balanço que o garoto está brincando não é vermelho e amarelo,1,entailment,hypothesis
+8073,O religioso aconselha a não ignorar ou ser indiferente ao sofrimento alheio,O religioso não incentiva as pessoas a evitarem o sofrimento de terceiros.,2,neutral,hypothesis
+4955,O governador está reunido com seus auxiliares,O governador não está sozinho em seu escritório.,1,entailment,hypothesis
+1814,O homem está tocando a flauta,O homem não está tocando guitarra,2,neutral,hypothesis
+5333,O homem que está cantando uma canção tem olhos azuis,O homem que está cantando uma canção não tem olhos castanhos,1,entailment,hypothesis
+7391,Duas mulheres em trajes azul e vermelho estão de pé junto a uma janela,As mulheres em trajes azul e vermelho não estão sentadas longe da janela,1,entailment,hypothesis
+4458,Um garotinho está mordendo a metade de um ovo de chocolate,O garotinho não está comendo uma maçã,1,entailment,hypothesis
+4310,O livro de romance está na prateleira superior,O livro de romance não se encontra na prateleira mais baixa,1,entailment,hypothesis
+2116,O cachorro estava latindo alto na rua.,O cachorro não estava dormindo silenciosamente.,1,entailment,hypothesis
+4959,Pessoas estão praticando corrida e há um potinho de creatina no canto esquerdo,As pessoas não estão descansando e o pote de creatina não está vazio.,1,entailment,hypothesis
+685,Jogadores celebram no campo após ganhar o título,Os jogadores não estão tristes no campo após perderem o título.,1,entailment,hypothesis
+4274,Os indivíduos estão reunidos ao redor de uma fogueira,Os indivíduos não estão se dispersando longe de uma fogueira.,1,entailment,hypothesis
+5500,Um coração é formado usando as cores verde e vermelho,O coração não é formado usando as cores azul e amarelo.,1,entailment,hypothesis
+3112,Uma mulher está cantando,Uma mulher não está em silêncio.,1,entailment,hypothesis
+1577,Uma mulher está colhendo maçãs,A mulher não está plantando maçãs.,1,entailment,hypothesis
+6097,Um homem está consumindo macarrão instantâneo com um pacote do produto à sua frente,Um homem não está comendo bife.,1,entailment,hypothesis
+2621,Um filhote de girafa não está mastigando uma flor delicada,Um filhote de girafa não está mastigando uma flor delicada.,1,entailment,hypothesis
+7463,Um colaborador surdo está ensinando libras para um homem e uma mulher,O colaborador surdo não está ensinando francês para um homem e uma mulher,1,entailment,hypothesis
+489,Uma mulher descalça está conduzindo um burro que está carregando um carrinho de mão ao longo de uma trilha de terra,A mulher não está andando de bicicleta em uma estrada asfaltada.,1,entailment,hypothesis
+3916,Protetor solar está sendo aplicado em uma mão,A mão não está sendo lavada com sabão.,1,entailment,hypothesis
+6155,Um grupo de pessoas está sentado em círculo,As pessoas não estão todas de pé.,1,entailment,hypothesis
+2122,"Cinco cachorros estão na piscina, dois dos quais estão próximos a um homem que segura uma argola para brincar",Todos os cachorros estão na piscina e perto de um homem com uma argola.,2,neutral,hypothesis
+6166,O álbum contém fotos da festa junina da escola,O álbum não contém fotos da formatura da escola,1,entailment,hypothesis
+7457,Um empreendedor está sorrindo em seu local de trabalho,O empreendedor não está triste no seu local de trabalho.,1,entailment,hypothesis
+4870,"Um cachorro de médio porte, branco e de pelo curto, está sem as patas dianteiras e com a língua de fora",O cão não é de grande porte nem tem pelo longo,1,entailment,hypothesis
+6354,Uma rua está localizada no centro da cidade,A rua não está localizada na periferia da cidade,1,entailment,hypothesis
+4347,A unha de caranguejo está em um prato,O prato não está vazio,1,entailment,hypothesis
+2442,Um cão está correndo em um campo,O cão não está descansando calmamente em sua caminha.,1,entailment,hypothesis
+1485,O homem está segurando uma xícara de café,O homem não está com as mãos vazias,1,entailment,hypothesis
+5229,Um violão não está sendo dedilhado por uma mulher,Nenhuma mulher está dedilhando um violão.,1,entailment,hypothesis
+574,A seguidora está observando a formação das três pedras,A seguidora não está ignorando as três pedras,1,entailment,hypothesis
+6277,Um homem parece estar cansado e preocupado,O homem não parece estar descansado e relaxado,1,entailment,hypothesis
+3024,Um copo de cappuccino cheio de espuma está ao lado da lareira,O copo de cappuccino não está vazio ao lado da lareira,1,entailment,hypothesis
+1049,Duas onças pardas estão caminhando à noite em uma estrada de terra,Duas onças pardas não estão correndo durante o dia em uma estrada asfaltada,1,entailment,hypothesis
+4248,O senhor não está cortando cebolas na tábua,O senhor não está picando cebolas na tábua,2,neutral,hypothesis
+268,A mulher está assistindo TV.,A mulher não está dormindo,2,neutral,hypothesis
+3045,Um gato preto está perseguindo um pássaro na frente da mulher de vestido,O gato preto não está dormindo tranquilamente.,2,neutral,hypothesis
+8075,Uma mulher está audaciosamente pilotando uma motocicleta,Uma mulher não está com medo de pilotar uma motocicleta.,2,neutral,hypothesis
+6535,O barco está navegando em alto mar.,O barco não está ancorado no porto.,2,neutral,hypothesis
+6857,Uma flor delicada está sendo apreciada por uma pequena borboleta,A borboleta não está voando longe da flor,1,entailment,hypothesis
+6396,Um gato não está pulando atrás de um novelo de lã,Um gato não está perseguindo um novelo de lã.,2,neutral,hypothesis
+1337,Duas mulheres não estão carregando cestas de piquenique,As mulheres não estão carregando cestas cheias de comida para um piquenique.,2,neutral,hypothesis
+4140,Não há nenhuma mulher correndo na pista,Não há mulher alguma correndo na pista,1,entailment,hypothesis
+5651,Pessoas estão plantando árvores de pequeno porte no solo,Pessoas não estão cortando árvores de pequeno porte no solo,1,entailment,hypothesis
+241,O paciente do oftalmologista está sentado com o rosto próximo do equipamento de fazer exames dos olhos,O paciente do oftalmologista não está de pé longe do equipamento de fazer exames dos olhos,1,entailment,hypothesis
+1197,Três adolescentes e um homem estão competindo em um torneio de games online,Três adolescentes e um homem não estão assistindo a um filme,1,entailment,hypothesis
+5787,Não tem nenhuma mulher preparando um pouco de café,Nenhuma mulher está preparando café,1,entailment,hypothesis
+2817,Um garoto está sentado perto da margem de um lago,O garoto não está correndo longe de um lago.,1,entailment,hypothesis
+2505,A comissão aprovou um projeto que estabelece limites de ruído para fogos de artifício,A comissão não rejeitou a proposta sobre os limites de ruído para fogos de artifício.,1,entailment,hypothesis
+2944,"Pessoas estão abraçadas e sorrindo, usando enfeites natalinos ao redor do pescoço","As pessoas não estão tristes e não estão chorando, usando enfeites natalinos ao redor do pescoço.",1,entailment,hypothesis
+3021,Não tem nenhum homem preparando café,Nenhum homem está fazendo café.,1,entailment,hypothesis
+3183,A orientadora reforça a importância da publicação de trabalhos de conclusão de curso para a sociedade,A orientadora não desencoraja a publicação de trabalhos de conclusão de curso,1,entailment,hypothesis
+8380,Uma empresária analisa vários dados apresentados na tela do seu computador,A empresária não está desligando seu computador,1,entailment,hypothesis
+5068,A pessoa está posando em um parque vestindo um vestido amarelo estampado com formigas pretas,A pessoa não está usando um vestido branco no parque,1,entailment,hypothesis
+2309,Uma mulher com roupa de mergulho azul está deslizando em uma onda cristalina,A mulher não está em uma piscina de mergulho.,1,entailment,hypothesis
+5230,"Uma modelo negra com cabelos escuros está vestindo uma blusa branca de um ombro só, com uma manga volumosa","Uma modelo negra com cabelos escuros não está vestindo uma blusa preta de um ombro só, com uma manga volumosa",1,entailment,hypothesis
+5713,A mulher está pintando um quadro que é abstrato,A mulher não está pintando um quadro realista,1,entailment,hypothesis
+7784,Uma mão está segurando uma latinha de guaraná,A mão não está vazia.,1,entailment,hypothesis
+6491,Um gato preto e branco está enfiando sua pata na caixa de surpresas,O gato preto e branco não está ignorando a caixa de surpresas,1,entailment,hypothesis
+3097,Vários cachorros estão fantasiados para um baile de carnaval para pets em um shopping,Os cachorros não estão desfantasiados em uma praça pública,1,entailment,hypothesis
+8193,Várias porções de risoto são servidas dentro de uma casca de coco seco em uma bandeja,O risoto não foi servido em um prato de cerâmica,1,entailment,hypothesis
+8055,Dois noivos estão se abraçando,Os noivos não estão brigando,1,entailment,hypothesis
+7608,Estou segurando uma tortinha de limão decorada com um sorridente cãozinho espetado por um palitinho,Não estou segurando uma pizza com um sorridente cãozinho espetado por um palitinho,1,entailment,hypothesis
+665,Uma garota está dançando balé graciosamente,Uma garota não está sentada calmamente,1,entailment,hypothesis
+279,"O teatro tem dois fantoches, um do publicano e outro do fariseu","O teatro não tem apenas um fantoche, o do centurião romano",1,entailment,hypothesis
+2764,O projeto busca proibir o indulto para condenados por crimes contra a administração pública,O projeto não proíbe o indulto para condenados por crimes contra a administração pública.,2,neutral,hypothesis
+6758,Uma mulher está dançando e tocando um tamborim,Uma mulher não está sentada e tocando um piano,1,entailment,hypothesis
+2586,Não existe nenhum garoto com pintas azuis e verdes no rosto,Não há garoto com pintas azuis e verdes no rosto.,1,entailment,hypothesis
+171,Uma embalagem plástica transparente contém adoçante dietético,A embalagem não está vazia.,1,entailment,hypothesis
+1321,O garoto moreno está cantando próximo ao microfone de karaokê,O garoto moreno não está quieto longe do microfone,1,entailment,hypothesis
+7229,Um homem de sobretudo e cachecol de lã está de pé na entrada do museu,Um homem de sobretudo e cachecol de lã não está sentado dentro do museu,1,entailment,hypothesis
+5427,Não existe nenhuma mulher preparando a salada,Não há mulher alguma preparando a salada.,1,entailment,hypothesis
+5722,A fragrância possui embalagem azul com detalhes prateados,A embalagem da fragrância não é vermelha,1,entailment,hypothesis
+2501,Uma mulher está assando um bolo,Uma mulher não está cozinhando um bife,1,entailment,hypothesis
+4743,Não há ninguém correndo livremente em um campo florido,Não há muitas pessoas correndo livremente no campo florido.,1,entailment,hypothesis
+7541,Uma mulher grávida contempla sua barriga perto de uma janela iluminada,Uma mulher grávida não está olhando para sua barriga em um quarto escuro,2,neutral,hypothesis
+7090,Um homem está temperando o frango,O homem não está comendo um bolo,2,neutral,hypothesis
+7103,Um indivíduo não está lendo em uma poltrona,A pessoa não está lendo um livro em uma poltrona.,1,entailment,hypothesis
+7979,"Uma jovem menina, aparentemente nervosa, está em um palco de teatro",Uma jovem menina não está relaxada no palco.,1,entailment,hypothesis
+6797,São vendidas necessaires e porta moedas com estampas de historinhas em quadrinhos,São vendidas apenas necessaires e porta-moedas com estampas de historinhas em quadrinhos.,2,neutral,hypothesis
+7243,"Alguém está usando uma bermuda jeans, uma camiseta branca com listras corais e um vestido jeans",A pessoa não está vestindo uma calça jeans e uma camiseta preta.,2,neutral,hypothesis
+6896,Duas irmãs gêmeas adolescentes estão competindo em uma corrida de bicicleta,As duas irmãs gêmeas não estão assistindo a uma corrida de bicicleta,2,neutral,hypothesis
+5680,O homem está vestindo um casaco azul.,O homem não está vestindo um casaco vermelho.,2,neutral,hypothesis
+6399,Um filhote de elefante está se esquivando de um elefante mais velho,Nem todos os elefantes estão descansando tranquilamente,1,entailment,hypothesis
+4435,Um estudo afirma que indivíduos que demoram para acordar possuem maior inteligência,Pessoas que despertam rápido são as menos inteligentes.,2,neutral,hypothesis
+3563,Um morcego de grandes orelhas e pelugens acinzentadas está pendurado no teto com as asas abertas,O morcego não está com as asas fechadas enquanto pendurado no teto.,1,entailment,hypothesis
+4648,Um gato preto está empurrando uma bola de vôlei com a pata em uma quadra de areia,O gato branco não está jogando basquete na quadra de cimento,2,neutral,hypothesis
+6242,O gato está em cima do muro,O gato não está caminhando no chão,1,entailment,hypothesis
+3115,"Um homem com trajes de alpinismo está imóvel, olhando para a imensidão do pico nevado",O homem não está escalando o pico nevado,1,entailment,hypothesis
+7267,Não existe nenhum pássaro voando dentro de um microondas,Não há um pássaro voando dentro do microondas,1,entailment,hypothesis
+5495,O homem não está cortando um tomate com uma tesoura,O homem não está cortando um tomate com uma tesoura,1,entailment,hypothesis
+6290,Uma pessoa está retirando o milho de uma espiga,A pessoa não está plantando uma espiga de milho,1,entailment,hypothesis
+8095,Um indivíduo está deslizando de skate por uma rampa em um dia ensolarado no parque.,O indivíduo não está andando de bicicleta na rampa.,1,entailment,hypothesis
+335,Um casal está sorrindo juntos em uma estação de esqui,O casal não está brigando na praia.,1,entailment,hypothesis
+3802,Uma creche com parede azul marinho é vista de uma perspectiva aérea,A creche não tem parede de cor vermelha.,1,entailment,hypothesis
+107,Um estudo confirmou que a cerveja é mais eficaz no alívio das dores do que o paracetamol,O paracetamol não é mais eficaz para aliviar a dor do que a cerveja.,1,entailment,hypothesis
+5980,Não há nenhuma criança saltando no gramado e jogando bola com um amigo,Não há uma criança correndo no gramado com uma bola,1,entailment,hypothesis
+6301,Não há ninguém cortando uma cebola,Ninguém está chorando ao cortar uma cebola.,1,entailment,hypothesis
+1901,Um pote de barro contendo tremoços está posicionado sobre um azulejo decorativo com borda de madeira,"O pote de barro não está vazio, nem está em um tapete de tecido",1,entailment,hypothesis
+3989,A capa do livro possui uma pintura de multidões protestando,A capa do livro não mostra um retrato de uma pessoa solitária,2,neutral,hypothesis
+5348,Uma mulher está fervorosamente pintando uma tela,A mulher não está apenas observando uma tela.,2,neutral,hypothesis
+6812,A garota não está brincando em um balanço,A menina não está se balançando no alto de um balanço,2,neutral,hypothesis
+5918,Há um senhor de idade descansando em uma cadeira de balanço,O senhor de idade não está correndo na pista de atletismo,2,neutral,hypothesis
+6628,Recém-nascidos porquinhos de olhos fechados são identificados como apenas bebês,Porquinhos recém-nascidos não podem ser considerados adultos,1,entailment,hypothesis
+5295,Uma mulher está sentada em uma pedra próxima a uma moto vermelha,Não há um homem de pé próximo a uma bicicleta azul.,1,entailment,hypothesis
+2198,No consultório do dentista estão várias fotos de sorrisos e tratamentos dentários,O consultório do dentista não é desprovido de qualquer imagem relacionada à odontologia.,1,entailment,hypothesis
+5183,"A estudante está em uma cafeteria, desfrutando de um café e um salgado",A estudante não está na biblioteca estudando,1,entailment,hypothesis
+2811,O pássaro está voando no céu e a luz do luar está refletindo nele,O pássaro não está descansando em um galho de árvore.,1,entailment,hypothesis
+5997,A nutricionista discute ao microfone a possibilidade do chá verde contribuir para a perda de gordura abdominal,A nutricionista não nega qualquer benefício do chá verde para a saúde.,1,entailment,hypothesis
+6188,A fachada de uma creche é rosa e com tinta descascada,A fachada da creche não é azul e bem pintada,2,neutral,hypothesis
+653,O gato está caçando o rato,O gato não está dormindo,2,neutral,hypothesis
+7053,Existe uma cebola sendo fatiada,A cebola não está inteira,1,entailment,hypothesis
+2350,Uma mulher está dividindo um tronco com um machado,A mulher não está plantando uma árvore,2,neutral,hypothesis
+1535,Três mulheres estão posando e um auditório está repleto de pessoas,As três mulheres não estão posando em um auditório vazio,1,entailment,hypothesis
+932,O gato branco está pulando sobre o muro,O gato branco não está dormindo tranquilamente,1,entailment,hypothesis
+3317,Uma mulher está discursando ao microfone com pessoas a observando,A mulher não está em silêncio,1,entailment,hypothesis
+3198,Não existe nenhum gato preto escalando a parede,Não existe gato preto escalando a parede.,1,entailment,hypothesis
+2203,O gato preto está quieto no jardim e não tem nada nas patas.,O gato preto não está causando uma bagunça na cozinha.,1,entailment,hypothesis
+7978,O garoto jovem está de tênis azul,O garoto jovem não está descalço.,1,entailment,hypothesis
+256,A pessoa está sentada no banco do carro e sorrindo,A pessoa não está chorando no banco do carro,1,entailment,hypothesis
+1543,Uma mulher está delicadamente alimentando um pássaro,A mulher não está assustando um pássaro.,1,entailment,hypothesis
+7763,O garoto está voando de asa delta,O garoto não está andando de bicicleta,1,entailment,hypothesis
+7729,Um homem não está descascando uma batata,Um homem não está descascando uma batata,1,entailment,hypothesis
+5373,A mulher está cozinhando uma refeição vegetariana.,A mulher não está cozinhando carne.,1,entailment,hypothesis
+6696,Alguém está expressando orgulho e satisfação com um trabalho bem feito,A pessoa não está descontente com o trabalho realizado.,2,neutral,hypothesis
+6168,A pessoa está com cabelo solto e maquiagem leve,A pessoa não está com cabelo preso e maquiagem pesada,2,neutral,hypothesis
+2081,O resultado final do processo seletivo para a vaga de auxiliar administrativo foi anunciado,O processo seletivo para a vaga de auxiliar administrativo não está mais em andamento.,2,neutral,hypothesis
+7398,O garoto está sentado ao lado de um idoso que está murmurando,O garoto está ao lado de um idoso que não está em completo silêncio.,2,neutral,hypothesis
+3933,Cinco pessoas estão sentadas à mesa em um palco diante de uma tela de projeção,As cinco pessoas não estão em pé no palco,2,neutral,hypothesis
+7222,Uma pessoa está alimentando um filhote de onça com uma seringa,A onça filhote não está caçando sua própria comida.,1,entailment,hypothesis
+1957,Os funcionários estão na comemoração junto de seus filhos e familiares,Os funcionários não estão trabalhando sozinhos no escritório,1,entailment,hypothesis
+2439,Um cilindro transparente contém um belo jardim de rosas,Um cilindro transparente não está vazio,1,entailment,hypothesis
+4239,"Uma garota em uma montanha gelada está usando um casaco azul e luvas rosas, deslizando na sua prancha de snowboard",A garota não está deslizando na sua prancha de snowboard em um dia ensolarado na praia,1,entailment,hypothesis
+7887,"Uma pequena garota está vestindo um biquíni rosa com estampas, uma touca de natação verde e roxa, e tem óculos de natação vermelhos pendurados no pescoço",A garota não está vestida para o inverno,1,entailment,hypothesis
+3603,A empresa anuncia a contratação de um gerente de Marketing,A empresa não despediu o gerente de Marketing.,1,entailment,hypothesis
+7480,Carne está sendo assada em uma churrasqueira,A carne não está sendo cozida no fogão.,1,entailment,hypothesis
+8394,O homem está preparando comida,O homem não está dormindo,1,entailment,hypothesis
+6841,Há uma mulher alimentando um bebê em uma casa limpa.,A casa onde a mulher está alimentando o bebê não é suja.,1,entailment,hypothesis
+8014,A pessoa usa um par de tênis estilo esportivo na cor cinza com detalhes em strass e solado branco,A pessoa não está descalça.,1,entailment,hypothesis
+2604,"Um casal de idosos está conversando, com um deles perguntando ao outro se pegou o casaco",O casal de idosos não está em silêncio,1,entailment,hypothesis
+6539,Participantes estão presentes na sala de reunião virtual,A sala de reunião virtual não está vazia,1,entailment,hypothesis
+4607,Quatro indivíduos estão posicionados junto a um tronco de árvore caído,Os indivíduos não estão todos sentados em uma rocha.,2,neutral,hypothesis
+2779,"Aos pés de um espantalho está um passarinho morto, intoxicado por agrotóxicos",O passarinho não está vivo e voando ao redor do espantalho,1,entailment,hypothesis
+911,Uma mulher morena veste uma blusa azul céu e calça jeans,A mulher morena não está usando um vestido vermelho.,1,entailment,hypothesis
+4695,Um menino está sorrindo.,O menino não está chorando.,1,entailment,hypothesis
+5354,A mulher está esperando o ônibus,A mulher não está dentro do carro.,1,entailment,hypothesis
+6361,"A caixa contém brigadeiros de chocolate preto, casadinho e crème brûlée",A caixa não está vazia.,1,entailment,hypothesis
+5568,A mãe orienta o filho como usar a escova dental corretamente,O filho não sabe perfeitamente como usar a escova dental.,1,entailment,hypothesis
+400,As bebidas do camarote são todas disponibilizadas em um sistema de open bar,As bebidas do camarote não são pagas à parte.,1,entailment,hypothesis
+6187,Na tábua de madeira tem uma variedade de sushis,A tábua de madeira não está vazia,1,entailment,hypothesis
+3763,Uma galinha e seus pintinhos estão ciscando a terra para se alimentar,Uma galinha e seus pintinhos não estão voando para se alimentar.,1,entailment,hypothesis
+803,O corpo de uma vítima está sendo transportado,O corpo da vítima não está imóvel,1,entailment,hypothesis
+3982,O menino de casaco azul está se molhando na chuva,O menino de casaco azul não está seco,1,entailment,hypothesis
+4742,A tatuagem no ombro da mulher é o símbolo do Yin Yang,A tatuagem no ombro da mulher não é uma fênix,2,neutral,hypothesis
+6636,A turma de estudantes não está estudando em uma biblioteca silenciosa,A turma de estudantes não está numa biblioteca silenciosa estudando,2,neutral,hypothesis
+3791,O homem está usando um terno preto,O homem não está vestindo um terno branco,2,neutral,hypothesis
+3154,"Um homem de jaqueta está sentado em pedras, contemplando uma montanha",O homem de jaqueta não está correndo na praia.,2,neutral,hypothesis
+2695,O grupo de amigos está dentro de um shopping,O grupo de amigos não está em um parque ao ar livre,2,neutral,hypothesis
+2009,A nota aos estudantes apoiadores discute o retorno normal das atividades presenciais,A nota aos estudantes apoiadores não discute a continuação das atividades online.,2,neutral,hypothesis
+4031,Pernas femininas vestidas em meia arrastão e de salto alto aparecem numa foto promocional de sapatos,A foto promocional não é de sapatos masculinos.,1,entailment,hypothesis
+7213,"Um pequeno menino está usando uma sunga vermelha listrada, uma touca de natação verde e branca e tem óculos de mergulho laranja pendurados no pescoço",O menino não está vestindo uma camisa polo e uma calça jeans.,1,entailment,hypothesis
+6678,"Uma aeronave está em voo, com a serra visível à esquerda",A aeronave não está pousada no aeroporto,1,entailment,hypothesis
+2427,A cozinheira faz um grande prato de moqueca que é servido a todos da casa,A cozinheira não faz um pequeno prato de moqueca que é servido apenas para ela,1,entailment,hypothesis
+5545,O tweet sugere que a excessiva preocupação com as consequências pode limitar a própria felicidade,O tweet não afirma que a preocupação com as consequências aumenta a felicidade.,1,entailment,hypothesis
+728,Uma garota está dançando sob o sol na areia,A garota não está sentada à sombra na grama.,1,entailment,hypothesis
+6668,A mulher descendo a escada está vestida com um elegante vestido de gala vermelho com uma fenda na perna,A mulher não está usando um simples vestido azul enquanto desce a escada,1,entailment,hypothesis
+6808,Uma mulher de vestido não está sendo perseguida por paparazzis,Uma mulher de vestido não está sendo perseguida por fotógrafos,1,entailment,hypothesis
+3252,Atletas estão posando atrás da placa de publicidade da secretaria de esportes,Atletas não estão correndo na pista de atletismo,1,entailment,hypothesis
+6731,O bando de amigos não está de pé em um mirante com um pôr do sol deslumbrante ao fundo,O grupo de amigos não está de pé observando um belo pôr do sol de um mirante,1,entailment,hypothesis
+2025,Um pequeno garoto está pulando alegremente sobre poças d'água após a chuva,O pequeno garoto não está evitando as poças d'água na rua depois da chuva,1,entailment,hypothesis
+2548,Um gato branco e cinza está brincando com uma bola de lã.,O gato não está dormindo.,1,entailment,hypothesis
+4332,Uma bicicleta vermelha está encostada na parede branca,A bicicleta encostada na parede não é azul.,1,entailment,hypothesis
+5944,Uma garotinha está alegremente vestindo uma saia de balé rosa e está dançando na sala,A garotinha não está chorando e usando uma calça jeans,1,entailment,hypothesis
+1761,"Um gato preto e branco está pulando sobre uma cerca azul, verde e cinza",O gato não está dormindo.,1,entailment,hypothesis
+5510,"Um homem branco, de cabelo e barba loiros, está em consulta com um oftalmologista realizando um exame de fundo de olho",O homem de cabelo e barba loiros não está em consulta com um cardiologista,1,entailment,hypothesis
+2171,Os lutadores de boxe estão se desafiando,Os lutadores de boxe não estão cooperando entre si,1,entailment,hypothesis
+1290,O meme mostra uma pessoa feliz a beira do precipício,O meme não mostra uma pessoa triste em um campo aberto.,1,entailment,hypothesis
+2117,Um estudo revelou que a visão humana é mais aguçada durante o pôr do sol,Os humanos não têm visão pior no pôr do sol.,1,entailment,hypothesis
+5763,O indivíduo está livre de tarefas de cozinha,O indivíduo não está preparando o jantar,1,entailment,hypothesis
+17,Um menino está brincando em um parque infantil,O menino não está em casa estudando.,1,entailment,hypothesis
+2348,O cantor está com a noiva,O cantor não está sozinho,1,entailment,hypothesis
+6052,A mulher de vestido manchado de azul está de pé sobre um tronco em frente a um lago brilhante,A mulher de vestido azul não está sentada em uma pedra longe do lago.,1,entailment,hypothesis
+7427,A mulher está preparando o tempero para o peixe,A mulher não está dormindo.,1,entailment,hypothesis
+2429,"Dentro de uma estufa de salgados, há uma embalagem branca e laranja contendo alguns pastéis fritos",A estufa de salgados não está vazia.,1,entailment,hypothesis
+4929,Não há nenhum livro sendo aberto para leitura,Ninguém está lendo um livro.,1,entailment,hypothesis
+833,Um cão preto e branco está correndo no parque,Não há um gato preto e branco correndo no parque.,1,entailment,hypothesis
+5449,A mulher está se preparando para um mergulho submarino,A mulher não está se preparando para um salto de paraquedas,2,neutral,hypothesis
+5718,Uma criança com tintas na mão participa de um mutirão de diagnóstico dos sinais e sintomas do autismo,Uma criança com tintas na mão não está brincando em casa,2,neutral,hypothesis
+4121,"Vários pacotes de cookies, bolos e brownies de chocolate estão dispostos sobre uma mesa",A mesa não está vazia.,1,entailment,hypothesis
+8115,O urso está no zoológico.,O urso não está na floresta.,1,entailment,hypothesis
+5679,Um cão marrom está correndo por um campo verdejante,O cão não está parado no campo,1,entailment,hypothesis
+566,Três adolescentes estão nadando no lago sem qualquer bóia,Três adolescentes não estão nadando no lago com bóias,1,entailment,hypothesis
+651,Peixe acompanhado de batata assada e arroz é uma deliciosa refeição para um domingo,"Peixe, batata assada e arroz juntos não são uma combinação ruim para um almoço de domingo",1,entailment,hypothesis
+3508,"Uma afegã de 33 anos , vestida de preto e com os olhos fechados, está de frente para a câmera",A afegã não está vestida de branco e com os olhos abertos.,1,entailment,hypothesis
+5407,A capa do livro é empunhada pelo comentarista de TV sugerindo a leitura,O comentarista de TV não está criticando o livro.,1,entailment,hypothesis
+2958,Uma mulher está exibindo um tapete de crochê colorido aberto,A mulher não está segurando um tapete de crochê monocromático,1,entailment,hypothesis
+1691,O cão marrom e dourado não consegue segurar objetos no focinho.,O cão marrom e dourado não consegue segurar uma bola com o focinho.,1,entailment,hypothesis
+7991,A exposição apresenta fotos das famílias dos primeiros imigrantes,A exposição não mostra esculturas modernas.,1,entailment,hypothesis
+4159,"Um homem sério está recostado em uma parede grafitada, com cabelos que alcançam a gola do seu casaco",O homem não tem cabelo curto,1,entailment,hypothesis
+407,Não há nenhuma mulher tocando violino,Nenhuma mulher está praticando violino,1,entailment,hypothesis
+4375,A águia dourada tem asas grandes e poderosas,A águia dourada não tem asas pequenas e frágeis,1,entailment,hypothesis
+6141,A confeitaria oferece donuts de três sabores diferentes,A confeitaria não tem apenas um sabor de donut,1,entailment,hypothesis
+8374,Os bombeiros estão trabalhando no local,Os bombeiros não estão de folga,1,entailment,hypothesis
+5960,Uma mulher está acariciando um leão na juba,A mulher está próxima ao leão,1,entailment,hypothesis
+2534,"Uma moça veste um macaquinho salmão com detalhes brancos e ao seu lado no chão, um cachorrinho a acompanha",A moça não veste um macacão preto e não está sozinha,1,entailment,hypothesis
+6602,O menino está em um parquinho,O menino não está em um shopping.,1,entailment,hypothesis
+5329,"Dois amigos estão sentados na praia, conversando sobre a vida",Dois amigos não estão conversando no parque,1,entailment,hypothesis
+1868,"Uma mulher está de costas, se observando em um espelho",A mulher não está de frente para o espelho,1,entailment,hypothesis
+2648,Um carro verde militar está estacionado com montanhas ao fundo,O carro militar estacionado não é vermelho.,1,entailment,hypothesis
+4136,Uma mulher está se comunicando de maneira enfática,Uma mulher não está se comunicando de maneira calma e tranquila,1,entailment,hypothesis
+2408,Três crianças estão andando de canoa em um rio cercado por árvores,As crianças não estão brincando na areia da praia.,1,entailment,hypothesis
+5670,"Duas pessoas estão se entreolhando, sorrindo uma para a outra",As duas pessoas não estão brigando,1,entailment,hypothesis
+3701,"A menina tem dois tênis, um branco com listras pretas e outro preto com listras brancas",A menina não tem apenas um tênis.,1,entailment,hypothesis
+7658,As jogadoras celebram uma vitória com os braços erguidos,As jogadoras não estão desanimadas com o resultado do jogo,1,entailment,hypothesis
+756,Sementes de abóbora estão armazenadas numa garrafa pet,As sementes de abóbora não estão espalhadas no chão.,1,entailment,hypothesis
+2598,"Uma mulher, com os olhos fechados e expressão apaixonada, segura um pequeno pote contendo brownie",A mulher não está com os olhos abertos e segura um saco de pipoca,1,entailment,hypothesis
+6667,O artista está fora do estúdio.,O artista não está no estúdio.,1,entailment,hypothesis
+5803,Um estudo revela que as pessoas tendem a se preocupar mais com os cães do que com outros seres humanos,Um estudo revela que as pessoas não se preocupam mais com os outros seres humanos do que com os cães.,1,entailment,hypothesis
+3819,Um imponente gato preto e um delicado gatinho branco estão repousando sobre um muro de tijolos,Um gato preto e um gatinho branco não estão correndo pelo muro de tijolos,1,entailment,hypothesis
+1545,Uma represa é cercada por várias árvores cujos reflexos são visíveis nas águas límpidas e calmas,A represa não é cercada por prédios altos,1,entailment,hypothesis
+2100,"Uma mulher está agachada em um gramado com uma bola, em preto e branco",A imagem da mulher agachada no gramado com a bola não é colorida,1,entailment,hypothesis
+7064,Nenhuma mulher está tocando piano.,Nenhuma mulher não está tocando piano.,1,entailment,hypothesis
+2864,Dois grupos de pessoas diversas estão sorrindo,Nem todos estão sérios.,1,entailment,hypothesis
+1622,Funcionários estão trabalhando em um call center,Os funcionários não estão em casa descansando,1,entailment,hypothesis
+960,O garoto e a garota não estão correndo e usando tênis de corrida,O garoto e a garota não estão correndo de tênis,1,entailment,hypothesis
+6418,A cidade de São Paulo está com alto índice de poluição atmosférica,A cidade de São Paulo não tem um ar muito limpo,1,entailment,hypothesis
+3291,A mulher está aplicando uma máscara multifuncional no rosto,A mulher não está removendo a máscara do rosto.,1,entailment,hypothesis
+5133,O parque está vazio de crianças.,Não há muitas crianças brincando no parque.,1,entailment,hypothesis
+751,"Uma vendedora segura um peixe atrás de um balcão cheio de postas, peixes e frutos do mar",A vendedora não está segurando um pedaço de carne atrás do balcão,1,entailment,hypothesis
+1191,"Oito pessoas estão presentes, metade delas sentadas e a outra metade em pé",Nem todas as oito pessoas estão sentadas,1,entailment,hypothesis
+1202,"Quatro pescadores estão parados no cais, observando o horizonte com um telescópio",Os pescadores não estão no barco.,1,entailment,hypothesis
+2487,As pessoas estão andando por um corredor cheio de pinturas a óleo,As pessoas não estão andando por um corredor vazio.,1,entailment,hypothesis
+4740,Um homem está vestindo um colete à prova de balas e está atirando com uma espingarda em uma área de treinamento ao ar livre,O homem não está atirando na área de treinamento interna,1,entailment,hypothesis
+3477,Um estudo revela que o cheiro de recém-nascidos é viciante para as mães,O cheiro dos recém-nascidos não desagrada as mães.,1,entailment,hypothesis
+4082,O coala não está comendo eucalipto,O coala não está se alimentando de eucalipto,2,neutral,hypothesis
+1789,"A refeição consiste em arroz com cenoura e passas, batata frita e carne acompanhada de molho branco",A refeição não é composta apenas por alimentos vegetais,1,entailment,hypothesis
+4871,Uma mulher está meditando,A mulher não está fazendo exercícios aeróbicos,1,entailment,hypothesis
+1286,A praça está bem cuidada por conta do programa de manutenção da prefeitura,"A praça não está em condições precárias, apesar do programa de manutenção da prefeitura",1,entailment,hypothesis
+1199,O cachorro está dormindo no sofá,O cachorro não está jogando bola no jardim,1,entailment,hypothesis
+2560,O vidro de esmalte está sendo derramado,O vidro de esmalte não está fechado nem intacto,2,neutral,hypothesis
+5584,Um cachorro está andando sobre um deck de madeira,Um cachorro não está descansando em um deck de concreto.,2,neutral,hypothesis
+2076,"Eu estou de sunga em uma duna, com um céu azul e algumas nuvens ao fundo",Não estou de sunga em uma montanha nevada,2,neutral,hypothesis
+8265,Uma mulher está caminhando a pé,A mulher não está correndo,1,entailment,hypothesis
+1460,"Dois potes de vidro contêm iogurte batido com morango, cada um com um canudo listrado de branco e rosa",Os potes de vidro não estão vazios,1,entailment,hypothesis
+4660,As crianças estão correndo ao redor de uma árvore muito alta,As crianças não estão paradas ao redor de uma árvore muito alta.,1,entailment,hypothesis
+6014,Uma jovem está de pé com os braços para trás e sorrindo,A jovem não está sentada com os braços cruzados e chorando,1,entailment,hypothesis
+4907,A pessoa com miopia alta e olhos verdes está no meio de um jardim verde,A pessoa de olhos verdes com miopia alta não está em um ambiente interno.,1,entailment,hypothesis
+1913,A garrafa de vidro está cheia de água mineral,A garrafa de vidro não está vazia,1,entailment,hypothesis
+5171,"Segundo o artista, o espetáculo nunca pára enquanto existir amor",O espetáculo não parou apesar do amor existir.,1,entailment,hypothesis
+5176,Um homem está instalando um ventilador de teto na casa de um beneficiário de seguro residencial,O homem não está desmontando um ventilador de teto na casa de um beneficiário de seguro residencial.,1,entailment,hypothesis
+2845,O homem está cortando um tomate.,O homem não está cortando uma cebola.,2,neutral,hypothesis
+4948,Uma mulher está caminhando tranquilamente por uma trilha na floresta,A mulher não está na cidade,1,entailment,hypothesis
+3431,A maré alta ocorre na orla da capital,A maré baixa não está acontecendo na orla da capital,1,entailment,hypothesis
+4129,Um gato cinza e um pequeno gato malhado estão observando atentamente a mesa de jantar,Não são todos os gatos que estão dormindo.,2,neutral,hypothesis
+6481,A mulher é uma atleta profissional de tiro com arco.,A mulher não é uma jogadora profissional de vôlei.,1,entailment,hypothesis
+5971,Um estudo indica que tomamos decisões mais eficazes quando estamos com fome,"Segundo um estudo, estar com fome não prejudica nossa capacidade de tomar boas decisões.",2,neutral,hypothesis
+461,Um maltês branco está deitado no chão claro de uma sacada,O maltês branco não está correndo no jardim.,1,entailment,hypothesis
+8021,Um homem está fazendo música no piano,O homem não está dormindo.,1,entailment,hypothesis
+6305,Uma batata não está sendo descascada,Uma batata não está sendo descascada.,1,entailment,hypothesis
+7399,"Duas irmãs estão sentadas de costas uma para a outra, sorrindo","Duas irmãs não estão de frente uma para a outra, sorrindo",1,entailment,hypothesis
+6454,A pessoa está realizando um voo de asa delta com um instrutor,A pessoa não está realizando um voo de asa delta sozinha.,1,entailment,hypothesis
+2249,Um estudo afirma que assistir a filmes de terror pode melhorar o humor e promover relaxamento,"Assistir a filmes de terror não aumenta a ansiedade e o estresse, de acordo com um estudo",1,entailment,hypothesis
+4119,Uma mão toca uma ilustração de um coração,Uma mão não toca uma ilustração de uma estrela,2,neutral,hypothesis
+5280,A rainha fala ao súdito que a oração aproxima o homem do divino,A rainha não está em silêncio,1,entailment,hypothesis
+2372,Um cachepô de massa de cacau é recheado com leite e coberto com glacê laranja,O glacê do cachepô não é azul,1,entailment,hypothesis
+6978,O gato preto tem olhos verdes.,O gato preto não tem olhos azuis.,1,entailment,hypothesis
+2316,"Porções de frutos do mar estão servidas na metade de um papaia fresco, dispostas em uma bandeja de palha trançada",As porções de frutos do mar não estão servidas em um prato de vidro.,1,entailment,hypothesis
+4396,O indivíduo está despejando café na xícara com cuidado,O indivíduo não está derramando chá na xícara.,1,entailment,hypothesis
+852,O garoto está segurando um brinquedo enquanto caminha pela areia.,O garoto não está caminhando no gramado.,1,entailment,hypothesis
+7722,"Sacos de bebê para dormir estão disponíveis nas cores azul-claro, branco e rosa claro","Sacos de bebê para dormir estão disponíveis em diversas cores, incluindo verde.",2,neutral,hypothesis
+7074,Um artista está grafitando um caminhão usando vários sprays de tinta,O artista não está pintando um quadro.,1,entailment,hypothesis
+1254,Uma menina negra com cabelos cacheados está vestindo uma blusa branca,A menina negra com cabelos cacheados não está vestindo uma blusa preta,1,entailment,hypothesis
+1884,Um tatu de coloração marrom e com carapaça feita de placas duras é visto entre pedras,O tatu não é branco e não está em um campo aberto,1,entailment,hypothesis
+1595,Não há nenhum homem cozinhando um filé de peixe à milanesa,Não há homem algum cozinhando um filé de peixe à milanesa.,1,entailment,hypothesis
+8256,A oração está escrita com letras pretas em um fundo branco,A oração não está escrita com letras vermelhas,1,entailment,hypothesis
+6833,Um menino cadeirante recebe auxílio de uma enfermeira para se alimentar,O menino cadeirante não está se alimentando sozinho,1,entailment,hypothesis
+8106,Um médico realiza um ecocardiograma fetal em uma gestante,Não é uma enfermeira que está realizando um ultrassom abdominal em uma gestante,1,entailment,hypothesis
+636,A menina veste um par de sandálias marrons com franjinhas,A menina não está descalça,1,entailment,hypothesis
+2165,Um homem está cantando ao lado de um rio,O homem não está em silêncio ao lado de um lago.,1,entailment,hypothesis
+2537,Um catamarã está navegando no mar durante o pôr do sol,O catamarã não está navegando em um lago.,1,entailment,hypothesis
+4697,Uma gatinha malhada de preto e branco está brincando no jardim,A gatinha malhada de preto e branco não está dormindo profundamente,1,entailment,hypothesis
+4335,O gato branco não está pulando sobre o muro,O gato branco não está saltando o muro,1,entailment,hypothesis
+1774,Uma criança está tomando banho na banheirinha sob a supervisão do pai,A criança não está brincando sozinha no quintal,1,entailment,hypothesis
+6194,A garota está pintando um quadro abstrato,A garota não está jogando futebol,1,entailment,hypothesis
+3347,Duas fatias de pão estão ao lado de um potinho de molho em um prato preto,O prato preto não está vazio,1,entailment,hypothesis
+3355,O taco de beisebol está sendo solto por uma mulher,O taco de beisebol não está sendo seguro firmemente por uma mulher,1,entailment,hypothesis
+452,A garota não está pintando a cerca do jardim com pincéis,Nenhuma menina está pintando a cerca do jardim.,1,entailment,hypothesis
+2095,Um rosto de um rapaz é sobreposto por um rosto menor de uma moça à direita,O rosto da moça não está sobreposto por um rosto maior de um rapaz à direita,1,entailment,hypothesis
+2484,A mulher ao lado do carrinho de sorvete é morena,A mulher ao lado do carrinho de sorvete é desloira,1,entailment,hypothesis
+5049,O trabalhador veste uma bota longa de borracha,O trabalhador não está de sandálias,1,entailment,hypothesis
+1358,O espiritualista enfatiza que as ações benéficas devem iniciar de nós mesmos,O espiritualista não acredita que as ações benéficas devem vir de outras pessoas.,1,entailment,hypothesis
+8219,"Várias flores de cores diversas, incluindo rosa, amarelo e roxo, estão em um balde",As flores não estão plantadas no jardim.,1,entailment,hypothesis
+5539,Não tem nenhum homem cortando uma cebola,Nenhum homem está fatiando uma cebola.,1,entailment,hypothesis
+6264,"Três garotos da África Ocidental, dois meninos e uma menina, estão escalando a montanha com um pico coberto de neve",Três crianças da África Oriental não estão na base de uma montanha deserta.,1,entailment,hypothesis
+498,"Uma mulher está sentada à mesa, com as mãos cruzadas, participando de uma conferência","A mulher não está parada, nem dançando em uma festa",1,entailment,hypothesis
+5549,Uma jovem está posicionada entre uma porta com uma perna estendida e os braços apoiados nos batentes,A jovem não está sentada em uma cadeira,1,entailment,hypothesis
+2000,Um gato preto e branco está liberando o novelo de lã de suas garras,O gato preto e branco não está agarrando firmemente um novelo de lã com suas garras,1,entailment,hypothesis
+7458,"A pessoa está sorrindo e descabelada, sem camisa, em uma cozinha",A pessoa não está bem penteada e nem veste uma camisa,1,entailment,hypothesis
+4626,Uma mulher branca vestindo uma blusa azul exibe um sorriso surpreso,A mulher de blusa azul não está com uma expressão séria,1,entailment,hypothesis
+1819,"Um vasto oceano está repleto de peixes, algas e conchas",O oceano não está vazio,1,entailment,hypothesis
+5683,As crianças estão brincando de pega-pega no campo,As crianças não estão quietas em casa,1,entailment,hypothesis
+6388,O famoso jogador de futebol está correndo e comemorando,O famoso jogador de futebol não está parado e triste,1,entailment,hypothesis
+6676,Um gato preto está agilmente escalando a árvore e capturando um pássaro com suas garras,Um gato preto não está descansando ao pé da árvore.,1,entailment,hypothesis
+2819,O homem está cortando legumes em uma tábua,O homem não está dormindo,1,entailment,hypothesis
+832,Não há ninguém esquiando em uma montanha coberta de neve,Não há pessoas esquiando na montanha coberta de neve.,1,entailment,hypothesis
+4403,Uma mulher e uma criança estão deitadas e sorrindo enquanto olham para a câmera,Uma mulher e uma criança estão deitadas e sorrindo enquanto não olham para a câmera.,2,neutral,hypothesis
+3681,A psicóloga realiza atendimento de forma online,A psicóloga não está atendendo seus pacientes pessoalmente,1,entailment,hypothesis
+4519,"Uma mulher está de perfil, vestindo calça e blusa de alça",A mulher não está de frente e está usando um vestido.,2,neutral,hypothesis
+1322,O aluno está sendo orientado pelo professor,O aluno não está estudando sozinho.,1,entailment,hypothesis
+5847,"Um indivíduo sem camisa, carregando uma bolsa, está parado diante de um amontoado de troncos de árvores, com o céu tempestuoso como pano de fundo",O céu não está limpo e ensolarado,1,entailment,hypothesis
+6345,"O shampoo é reconstrutor, sendo recomendado para cabelos danificados","O shampoo não é hidratante, não sendo recomendado para cabelos normais",1,entailment,hypothesis
+7420,O pescador está manualmente construindo seu barco.,O pescador não está comprando um barco pronto.,1,entailment,hypothesis
+1291,Um grupo de alunos está realizando uma visitação pedagógica na horta orgânica,Os alunos não estão em sala de aula assistindo uma aula,1,entailment,hypothesis
+7037,Um homem está caminhando por uma avenida movimentada do centro,O homem não está correndo em uma estrada tranquila de campo.,1,entailment,hypothesis
+2867,A garota pequena de vestido vermelho está correndo em direção ao mar,A garota de vestido vermelho não está sentada parada.,1,entailment,hypothesis
+2518,Nenhum pão está sendo preparado.,Não está sendo preparado um pão integral.,1,entailment,hypothesis
+4433,"O pequeno garoto está caminhando pela areia, sendo cuidadosamente liderado por sua mãe",O garoto não está correndo sozinho pela areia.,1,entailment,hypothesis
+4762,A menina não está prestando atenção em um jogo,A menina não está concentrada no jogo,2,neutral,hypothesis
+6986,Um filhote de elefante está passeando ao redor de um lago com sua mãe,Um filhote de elefante não está sozinho no lago,1,entailment,hypothesis
+6459,Os nadadores estão competindo em uma maratona aquática,Os nadadores não estão relaxando na praia,1,entailment,hypothesis
+7535,Não há nenhum garoto gargalhando enquanto lança bolhas de sabão no focinho de um gato,Nenhum garoto está rindo enquanto brinca com bolhas de sabão e um gato.,1,entailment,hypothesis
+7863,Algumas meninas estão posando com sorrisos no rosto,Nenhuma menina está posando com expressões sérias,1,entailment,hypothesis
+691,Um rapaz de sunga está deitado na areia da praia,O rapaz não está deitado na grama.,1,entailment,hypothesis
+142,Um jovem está correndo perto de pássaros com prédios ao fundo,O jovem não está parado.,1,entailment,hypothesis
+4857,A menina tem um tampão ocular ilustrado com árvores no seu rosto,A menina não tem um tampão ocular ilustrado com animais no seu rosto,1,entailment,hypothesis
+4887,Um gato de pelo preto está se esticando todo para alcançar um novelo de lã vermelho,O gato de pelo preto não está dormindo tranquilamente.,1,entailment,hypothesis
+8338,A mulher está perto de um aquário de peixes.,A mulher não está distante de qualquer tanque de peixes.,1,entailment,hypothesis
+4317,Um rapaz adolescente está se comunicando através de braille,O rapaz adolescente não está lendo um livro de texto comum,1,entailment,hypothesis
+2459,Uma pantera está rondando o território,A pantera não está dormindo na floresta,1,entailment,hypothesis
+1018,Um pai e seu filho estão realizando um cumprimento de mão,O pai e o filho não estão ignorando um ao outro,1,entailment,hypothesis
+5705,Um atleta de basquete está arremessando a bola na cesta,O atleta de basquete não está sentado na arquibancada,1,entailment,hypothesis
+7790,Não tem nenhum homem em pé recitando poesia e tocando flauta,Não tem um homem em pé recitando poesia e tocando flauta.,1,entailment,hypothesis
+561,Dois bailarinos estão fazendo uma pose de ballet enquanto outra bailarina está sentada no chão em uma pose de ballet,Nem todos os bailarinos estão fazendo uma pose de ballet em pé,1,entailment,hypothesis
+4819,O parque está vazio e sem ninguém por perto.,O parque não está cheio de pessoas.,1,entailment,hypothesis
+4350,Um jogo noturno está acontecendo com a arquibancada completamente lotada,A arquibancada não está vazia,1,entailment,hypothesis
+3554,Muitos consumidores desembalam mais do que descascam sua alimentação,A maior parte das pessoas não descasca mais seus alimentos do que remove suas embalagens.,1,entailment,hypothesis
+508,Uma senhora de óculos é usada para alertar sobre a Degeneração Macular Relacionada à Idade,Uma senhora de óculos não é usada para alertar sobre a saúde bucal,2,neutral,hypothesis
+5878,Uma mesa está cheia de diversas comidas para todos colaboradores que participaram da reunião,A mesa não está vazia após a reunião.,1,entailment,hypothesis
+977,As carretas transportam oxigênio medicinal,As carretas não transportam alimentos.,2,neutral,hypothesis
+1099,A pessoa está em segundo plano orando pelas pessoas que estão em primeiro plano,A pessoa não está orando ao lado das pessoas em primeiro plano.,1,entailment,hypothesis
+8050,"Um casal está sentado abraçado, desfrutando de um momento íntimo juntos",O casal não está desfrutando de um momento juntos.,2,neutral,hypothesis
+2722,Um gato marrom e um gato cinza estão se enfrentando no telhado,Dois gatos não estão dormindo pacificamente no telhado,1,entailment,hypothesis
+212,Um menino brinca de amarelinha ao entardecer,O menino não está brincando de amarelinha ao nascer do sol,1,entailment,hypothesis
+3084,Duas mãos estão cheias de amoras,As mãos não estão vazias,1,entailment,hypothesis
+692,Pessoas são representadas em um desenho dentro de uma casa,Alguns personagens do desenho não estão ao ar livre,1,entailment,hypothesis
+6483,Uma criança alegre está depositando moedas em seu cofrinho rosa,Uma criança alegre não está gastando moedas do seu cofrinho rosa,1,entailment,hypothesis
+1118,"Um estudo afirma que os carecas são percebidos como mais inteligentes, dominantes e bem-sucedidos",Os carecas não são vistos como menos bem-sucedidos,1,entailment,hypothesis
+2802,O homem não está pintando o quadro,O homem não está pintando um quadro.,1,entailment,hypothesis
+2622,A mulher está descascando uma batata,A mulher não está cozinhando arroz.,1,entailment,hypothesis
+7476,A mulher não está descascando uma laranja,A mulher não está descascando uma laranja,1,entailment,hypothesis
+5128,Os personagens do filme estão reunidos ao redor de um balão,Os personagens do filme não estão se afastando de um balão.,1,entailment,hypothesis
+8164,Dois rapazes estão usando trajes formais em uma cerimônia.,Os rapazes não estão usando roupas casuais em uma festa.,1,entailment,hypothesis
+5660,Um indivíduo está pilotando um quadriciclo nas dunas,O quadriciclo não está estacionado na garagem,1,entailment,hypothesis
+5024,Sacos e garrafas plásticas são enviados para reciclagem,Sacos e garrafas plásticas não são jogados no lixo comum.,1,entailment,hypothesis
+6940,O pescador não tem nenhum envolvimento na construção do barco.,O pescador não ajudou a construir o barco.,1,entailment,hypothesis
+4631,Uma mulher está sorrindo durante sua viagem,A mulher não está triste durante sua viagem,1,entailment,hypothesis
+18,Várias pessoas estão percorrendo a floresta que é bela e coberta de folhas outonais,As pessoas não estão caminhando em uma praia ensolarada.,1,entailment,hypothesis
+1067,"Azeite está dentro de um frasco de vidro transparente sobre uma mesa de madeira, com azeitonas ao lado",O frasco de azeite não está vazio.,1,entailment,hypothesis
+8149,"Um skatista está deslizando na pista, isolado",A pista de skate não está vazia,1,entailment,hypothesis
+6330,Um garoto usando um short rasgado está pulando com os pés descalços sobre as pedras do riacho,O garoto não está usando sapatos enquanto pula sobre as pedras do riacho,1,entailment,hypothesis
+4246,Não há qualquer pessoa fatiando uma cebola.,Ninguém está cortando uma cebola,1,entailment,hypothesis
+7853,Um esquiador está descendo uma montanha próxima a um lago cristalino,O esquiador não está em uma praia.,1,entailment,hypothesis
+4219,Uma mulher está usando óculos e uma máscara rosa decorada com desenhos de avestruz,A mulher não está usando uma máscara azul com desenhos de girafa,1,entailment,hypothesis
+484,Há um gato preto enorme e um gato branco minúsculo descansando em um telhado de ardósia,Os gatos não estão correndo no jardim.,1,entailment,hypothesis
+7842,Três bicicletas estão posicionadas em diferentes paisagens naturais,Nem todas as bicicletas estão na cidade.,1,entailment,hypothesis
+7460,"Várias frutas, incluindo tangerinas, abacates e maçãs, estão reunidas em um cesto",O cesto não está vazio,1,entailment,hypothesis
+4178,Um bebê está deitado e sorrindo,O bebê não está chorando.,1,entailment,hypothesis
+3797,Um homem está dando uma palestra para um grupo de pessoas voltadas para ele,Algumas pessoas não estão de costas para o homem que está falando,2,neutral,hypothesis
+6271,O e-mail avisa que são os últimos dias para se inscrever no concurso,O e-mail não afirma que as inscrições para o concurso acabaram,1,entailment,hypothesis
+2383,Diversas placas de veículos estão dispostas sobre uma mesa,As placas de veículos não estão penduradas na parede,1,entailment,hypothesis
+7993,Uma raposa está vasculhando a floresta habilmente,A raposa não está dormindo profundamente na floresta,1,entailment,hypothesis
+6624,Um homem está preparando um bolo,O homem não está preparando uma salada.,1,entailment,hypothesis
+4717,O espumante está dentro da caixa de papelão em uma mesa de madeira,O espumante não está em uma mesa de vidro,1,entailment,hypothesis
+7878,Um indivíduo está passeando de patinete motorizado,O indivíduo não está caminhando.,1,entailment,hypothesis
+2863,Dois rapazes na juventude estão usando ternos elegantes em uma cerimônia,Dois rapazes na juventude não estão vestindo roupas casuais em uma cerimônia,1,entailment,hypothesis
+7779,Uma mulher está tomando café da manhã na cozinha,A mulher não está jantando na cozinha,1,entailment,hypothesis
+601,"Um garotinho e uma garotinha estão em um campo, segurando um cesto de flores",O cesto que as crianças estão segurando não está vazio.,1,entailment,hypothesis
+4780,Um cachorro está correndo atrás de um disco voador,O cachorro não está dormindo tranquilo.,1,entailment,hypothesis
+4398,Uma atleta cega está correndo com a ajuda de seu guia,Uma atleta cega não está correndo sozinha,1,entailment,hypothesis
+1393,Uma família está se divertindo na piscina,A família não está se divertindo na sala de estar,1,entailment,hypothesis
+8041,Não há ninguém jogando futebol na praia,Não há pessoas jogando futebol na praia,1,entailment,hypothesis
+3006,O gato está correndo na floresta,O gato não está descansando em casa,1,entailment,hypothesis
+7606,O garoto está usando uma camiseta azul com calças verdes e está sentado em frente a um parque,O garoto não está de pé na sala de aula,1,entailment,hypothesis
+1129,Um rapaz e uma moça estão trocando ideias,O rapaz e a moça não estão em silêncio total,1,entailment,hypothesis
+4976,Um homem idoso repousa tranquilamente em uma cadeira de balanço,O homem idoso não está correndo uma maratona,2,neutral,hypothesis
+2874,Um homem não está cortando uma melancia,Um homem não está cortando uma melancia,1,entailment,hypothesis
+7874,Existe um homem cortando tomates em uma tábua com uma faca de aço inoxidável,O homem não está cortando cebolas com um descascador de plástico.,2,neutral,hypothesis
+641,Há uma garota loira correndo pela cidade,A garota loira não está sentada em um banco do parque.,2,neutral,hypothesis
+8280,"Uma mesa está posta com um prato de lagosta, uma taça de vinho e uma cesta de pães",A mesa não está posta apenas com talheres e um guardanapo.,2,neutral,hypothesis
+5091,"Homens e mulheres competem em uma prova, promovendo a inclusão social através do esporte e da saúde",Não são só homens que estão competindo na prova,1,entailment,hypothesis
+4231,"Uma mulher está em uma quadra vazia, praticando basquete contra uma alta cerca de arame",A quadra não está cheia de pessoas jogando basquete,1,entailment,hypothesis
+3682,Uma ilustração de neve dá a idéia de que um cenário real de neve está a caminho,A ilustração não sugere um dia ensolarado de verão.,1,entailment,hypothesis
+5618,Um menino jovem está arqueando as sobrancelhas e removendo uma peruca e bigode postiços,Um menino jovem não está sorrindo e colocando uma peruca e um bigode postiços,1,entailment,hypothesis
+4255,Não há ninguém tocando violino.,Ninguém está praticando violino.,1,entailment,hypothesis
+5037,"Duas amigas estão se divertindo ao dançar e sorrir juntas, celebrando a força de sua amizade",As duas amigas estão se entendendo bem,1,entailment,hypothesis
+3350,O tabelamento do frete dos caminhoneiros eleva a inflação,O tabelamento do frete dos caminhoneiros não influencia a inflação,2,neutral,hypothesis
+964,O gato malhado está dormindo em um jardim sem flores,O gato malhado não está acordado e brincando em um jardim cheio de flores,1,entailment,hypothesis
+4564,Uma mulher está caminhando em uma floresta,A mulher não está correndo na cidade.,1,entailment,hypothesis
+3247,As promoções estão ocorrendo de forma intensa e contínua,As promoções não estão acontecendo de forma leve e esporádica,1,entailment,hypothesis
+7378,"Camisas estão organizadas na horizontal em tons de verde, acompanhadas por um molde para dobras à direita",As camisas não estão dispostas em tons de azul.,1,entailment,hypothesis
+4308,O campo florido está vazio de pessoas correndo.,Não há uma corrida acontecendo no campo florido.,1,entailment,hypothesis
+5836,A capa do filme apresenta os dois papas,A capa do filme apresenta mais de um papa,2,neutral,hypothesis
+4106,A torcida celebra a vitória do seu time de virada,O time da torcida não perdeu,1,entailment,hypothesis
+7912,O restaurante oferece um serviço de entrega excelente,O restaurante não tem um péssimo serviço de entrega,1,entailment,hypothesis
+349,Não há nenhum skatista deslizando em uma pista com forma de onda,Não há skatista deslizando em uma pista com forma de onda,1,entailment,hypothesis
+4918,"Três pessoas, dois homens e uma mulher, atuam em uma peça de teatro",Três pessoas não estão assistindo a uma peça de teatro.,2,neutral,hypothesis
+7484,Uma mulher está escrevendo uma carta,A mulher não está lendo um livro.,2,neutral,hypothesis
+3380,"O compositor, vestindo um terno preto e uma gravata borboleta branca, olha para sua direita",O compositor vestindo terno preto e gravata borboleta branca não está olhando para a esquerda,2,neutral,hypothesis
+3553,"Um profissional paramentado realiza uma simulação de atendimento a uma parada cardiorrespiratória, executando compressões torácicas de alta qualidade",O profissional paramentado não está aplicando compressões abdominais na simulação de atendimento a uma parada cardiorrespiratória,2,neutral,hypothesis
+4380,O presidente e seus auxiliares estão realizando uma transmissão,O presidente não está dormindo.,1,entailment,hypothesis
+2192,"Um médico está em seu consultório, segurando alguns papéis e conversando com um senhor de cabelos brancos",O consultório médico não está vazio.,1,entailment,hypothesis
+4160,Duas garrafas de vinho estão posicionadas à frente de sua caixa de madeira,As garrafas de vinho não estão dentro da caixa,1,entailment,hypothesis
+6439,Praticando qualquer um é capaz de criar suas próprias receitas,Nem só chefs profissionais podem criar suas próprias receitas.,1,entailment,hypothesis
+4301,A pessoa está posando com uma mão na cabeça e outra na nuca,A pessoa não está com as mãos nos bolsos,1,entailment,hypothesis
+6732,Uma criança está rodopiando na praça sem parar,A criança não está parada na praça,1,entailment,hypothesis
+1505,Um gato branco está se esgueirando por uma cerca coberta de hera,O gato branco não está dormindo no sofá,1,entailment,hypothesis
+8105,As meninas alegres estão brincando com uma pipa azul no gramado do jardim,As meninas não estão lendo livros no quarto,1,entailment,hypothesis
+5470,"Indígenas estão sendo orientados e vacinados, enquanto leitos são preparados para isolamento",Os indígenas não estão recusando a vacina e o isolamento,1,entailment,hypothesis
+5408,O homem com uma bermuda estampada de azul gosta de esportes radicais.,O homem com a bermuda estampada de azul não desgosta de atividades radicais.,2,neutral,hypothesis
+2488,A presidente do diretório e estudantes está discursando durante a manifestação,A presidente do diretório estudantil não está em silêncio durante a manifestação,1,entailment,hypothesis
+7634,Pessoas com deficiência intelectual estão felizes e sorridentes na sala de jogos,Pessoas com deficiência intelectual não estão tristes na sala de jogos,1,entailment,hypothesis
+8381,O homem está no restaurante à beira-mar.,O homem não está em um restaurante no centro da cidade.,1,entailment,hypothesis
+6111,Dois gatos estão olhando para a mesa de jantar.,Dois gatos não estão olhando para o sofá,1,entailment,hypothesis
+4974,Um estudo comprovou que lavar a louça pode ajudar a aliviar o estresse,Lavar louça não aumenta o nível de estresse,1,entailment,hypothesis
+5212,Uma criança está se divertindo com seu joguinho favorito,A criança está interessada em seu joguinho favorito,1,entailment,hypothesis
+7701,Uma pesquisa revela que o urso de pelúcia é considerado o pior presente para o Dia dos Namorados,O urso de pelúcia não é o presente mais desejado para o Dia dos Namorados.,1,entailment,hypothesis
+4617,Um enfermeiro está vacinando um garoto no braço esquerdo,O enfermeiro não está vacinando o garoto no braço direito,2,neutral,hypothesis
+5886,O céu está repleto de nuvens alaranjadas,O céu não está totalmente limpo e azul,2,neutral,hypothesis
+3223,Um frango é servido com acompanhamentos em um prato branco,O prato não está vazio,1,entailment,hypothesis
+413,"A modelo está usando uma blusa vermelha de mangas soltas, calça preta e salto preto",A modelo não está descalça.,1,entailment,hypothesis
+4462,Uma mulher com uma regata azul está correndo em um parque,A mulher não está sentada no sofá de sua casa,1,entailment,hypothesis
+8317,A criança está revoltada com a cancela que continua a bater e voltar,A criança não está feliz com a cancela que continua a bater e voltar.,1,entailment,hypothesis
+449,Os indivíduos estão se movendo por uma avenida com lojas.,As pessoas não estão paradas em uma praça.,1,entailment,hypothesis
+950,"Quatro indivíduos estão em um pico nevado, usando uma luneta para observar a paisagem",Os indivíduos não estão em uma praia olhando a paisagem.,1,entailment,hypothesis
+5301,"A pessoa em questão está dançando com uma camiseta bege, enquanto algumas pessoas observam",A pessoa não está dançando sozinha.,1,entailment,hypothesis
+1458,Os lutadores de boxe estão cooperando entre si,Os lutadores de boxe não estão competindo entre si,1,entailment,hypothesis
+7809,A ave está voando.,A ave não está parada no chão.,1,entailment,hypothesis
+1303,A pessoa tira uma selfie com o mastro da banda nacional,A pessoa não está tirando uma selfie com o mastro da banda estrangeira,1,entailment,hypothesis
+1932,Ninguém está mexendo em nenhum relógio,Ninguém está ajustando um relógio,2,neutral,hypothesis
+2419,Um homem sem camisa está em frente a uma montanha com o céu nublado ao fundo.,Um homem sem jaqueta está em frente a uma montanha sob o céu ensolarado.,2,neutral,hypothesis
+127,Uma criança está brincando ao sol em uma tarde de primavera,A criança não está brincando dentro de casa em uma tarde de primavera,1,entailment,hypothesis
+1137,Uma mulher não está temperando um peixe enorme,Uma mulher não está colocando tempero em um peixe muito grande.,1,entailment,hypothesis
+121,A mulher está andando na chuva com seu guarda-chuva preto,A mulher não está caminhando sob o sol com seu guarda-chuva preto,1,entailment,hypothesis
+6513,Um skatista está executando um giro com o seu skate,"O skatista não está sentado, descansando.",1,entailment,hypothesis
+6763,A mulher está cantando apaixonadamente,A mulher não está em silêncio,1,entailment,hypothesis
+1861,O presidente está cumprimentando o povo,O presidente não está ignorando o povo,1,entailment,hypothesis
+7645,A Feira do Livro é aberta por seu patrono oficial,A Feira do Livro não é aberta por um visitante regular,1,entailment,hypothesis
+6738,A menina está desenhando um retrato com lápis coloridos,A menina não está pintando um retrato com tintas a óleo,1,entailment,hypothesis
+411,Um garoto está misturando duas xícaras de farinha juntas,Um garoto não está separando duas xícaras de farinha,1,entailment,hypothesis
+5364,Uma criança está brincando em um carrinho dentro de um shopping,A criança não está brincando em um parquinho do lado de fora do shopping,1,entailment,hypothesis
+707,Uma salada está disposta em um prato branco,A salada não está em um pote de vidro,1,entailment,hypothesis
+863,O filho do presidente está com amigos,O filho do presidente não está sozinho,1,entailment,hypothesis
+3366,Os gatos estão se movendo de um móvel para outro.,Os gatos não estão parados em um único móvel,1,entailment,hypothesis
+4386,Um menino está vestindo uma camiseta branca de manga curta,O menino não está vestindo um casaco de inverno.,1,entailment,hypothesis
+5587,Um garoto de óculos escuros está usando uma sunga na beira do mar,O garoto de óculos escuros não está usando um casaco de inverno na praia.,1,entailment,hypothesis
+4452,O barco está ancorado no porto.,O barco não está navegando no mar.,1,entailment,hypothesis
+5827,"Uma menina está dentro de um tecido colorido, acenando para a câmera","A menina não está correndo do lado de fora, longe da câmera",1,entailment,hypothesis
+5970,A pia da cozinha possui uma torneira feita de plástico,A torneira da pia da cozinha não é de metal,1,entailment,hypothesis
+7631,A abelha está pousada em cima de uma bela rosa no jardim,A abelha não está voando longe de uma rosa no jardim,1,entailment,hypothesis
+927,Um grupo de estudantes está fazendo um trabalho em equipe,Um grupo de estudantes não está trabalhando individualmente,1,entailment,hypothesis
+3984,A campanha busca conscientizar as pessoas a não abandonarem animais,A campanha não incentiva as pessoas a abandonarem seus animais.,1,entailment,hypothesis
+823,O carro está viajando a uma velocidade muito alta,O carro não está se movendo lentamente,1,entailment,hypothesis
+6083,O gato preto não está correndo no jardim,O gato preto não está correndo lentamente no jardim.,2,neutral,hypothesis
+6334,A mulher está cortando legumes na tábua,A mulher não está assistindo televisão.,2,neutral,hypothesis
+6475,A fachada do posto de saúde está deteriorada,A fachada do posto de saúde não está em perfeito estado.,1,entailment,hypothesis
+5451,Ela retira uma caixinha de fio dental da bolsa,Ela não tira uma escova de dentes da bolsa.,1,entailment,hypothesis
+3764,A mulher está vertendo vinho em uma taça,A mulher não está bebendo água de uma garrafa.,1,entailment,hypothesis
+2523,"Durante a noite, um guaxinim é visto olhando para cima enquanto outro está de costas olhando para baixo",A cena não se passa durante o dia,1,entailment,hypothesis
+4043,O evento é sobre o tema hemofilia,O evento não é sobre o tema botânica,1,entailment,hypothesis
+6642,O líder fala que o segredo é continuar persistindo,O líder não diz que o segredo é desistir.,1,entailment,hypothesis
+3732,O espírito enfatiza a necessidade humana de verdade e luz espiritual sobre a necessidade de dinheiro e pão,A necessidade de dinheiro e pão não é mais importante que a verdade e a luz espiritual.,1,entailment,hypothesis
+4509,A mulher não está regando as plantas do jardim com uma mangueira,A mulher não está usando uma mangueira para regar as plantas do jardim,1,entailment,hypothesis
+4468,Um estudo revela que cinco minutos de contato com a natureza podem aumentar a felicidade,Um estudo não mostra que cinco minutos de contato com a natureza diminuem a felicidade,1,entailment,hypothesis
+104,A menina veste um short que tem aplicações de correntinhas,A menina não está vestindo um vestido longo,1,entailment,hypothesis
+2102,Um cão amarelo está animado e aguardando que seu brinquedo seja jogado,O cão amarelo está interessado e prestando atenção em seu brinquedo,1,entailment,hypothesis
+4709,O peixe é de uma espécie rara,O peixe raramente é encontrado.,1,entailment,hypothesis
+6415,Um dos brinquedos da criança está quebrado,Alguns brinquedos da criança não estão em perfeito estado,2,neutral,hypothesis
+7653,Uma mini cesta de compras de metal contém vários produtos de beleza,A mini cesta de compras não está vazia,1,entailment,hypothesis
+3887,Uma pessoa idosa e uma pessoa jovem se conectam através de um aperto de mão,Uma pessoa idosa e uma jovem estão buscando contato físico,1,entailment,hypothesis
+4576,O gato está incrivelmente tocando o piano,O gato não está dormindo.,1,entailment,hypothesis
+2346,"Três gerações de uma família - mãe, filha e neta - estão compartilhando um abraço caloroso e sorrindo juntas",A família não é composta por quatro gerações.,1,entailment,hypothesis
+3878,Várias mulheres estão resistindo,As mulheres não estão se rendendo,1,entailment,hypothesis
+5932,Uma barra de ferramentas está em processo de carregamento,A barra de ferramentas ainda não está totalmente carregada.,1,entailment,hypothesis
+4362,Alguns alunos não estão participando da aula de educação física,Nem todos os alunos estão participando da aula de educação física.,1,entailment,hypothesis
+3920,O indivíduo que está fazendo skate salta sobre a rampa,O skatista não está parado,1,entailment,hypothesis
+3687,"Dois gatos ágeis, um de pelagem preta e o outro branca, estão se deslocando rapidamente pelo jardim coberto de folhas",Os gatos não estão parados no jardim.,1,entailment,hypothesis
+1114,Um homem e uma mulher estão vestindo casacos azul marinho em um escritório cinza onde há um computador desktop,O homem e a mulher não estão vestindo casacos vermelhos,1,entailment,hypothesis
+8132,Uma gata branca está escalando de uma janela para um telhado.,A gata branca não está descendo do telhado para a janela.,1,entailment,hypothesis
+2799,Três viajantes estão caminhando pela floresta densa enquanto a lua começa a surgir,Os viajantes não estão descansando na floresta durante o dia,1,entailment,hypothesis
+1462,O garçom serve vários copos de cerveja aos amigos em uma mesa,Os amigos não estão bebendo vinho na mesa.,1,entailment,hypothesis
+961,A mulher não está sentada,A mulher não está de pé.,2,neutral,hypothesis
+1762,Uma mão está segurando um copo com suco de fruta,O copo não está vazio,1,entailment,hypothesis
+5339,O cachorro jovem está se divertindo com uma bola,O cachorro jovem não está dormindo,1,entailment,hypothesis
+514,"Uma mulher morena está vestida com uma camisa preta, calça de moletom preta e coturno preto","A mulher não está vestindo uma camisa branca, calça de moletom branca e tênis branco.",1,entailment,hypothesis
+4151,O gatinho listrado de preto e cinza está andando na calçada sem um cobertor,O gatinho listrado de preto e cinza não está confortavelmente enrolado em um cobertor.,1,entailment,hypothesis
+5181,Uma mulher está pintando um quadro,A mulher não está assistindo TV.,2,neutral,hypothesis
+5159,Crianças estão brincando e explorando elementos encontrados no quintal,"Crianças não estão em casa, estudando para a prova de matemática.",2,neutral,hypothesis
+5100,A nova turma assiste a aula inicial do curso,A aula inicial do curso não foi cancelada.,1,entailment,hypothesis
+8013,Um garoto com cabelo preto e olhos azuis está sorrindo,Um garoto com cabelo preto e olhos azuis não está triste,1,entailment,hypothesis
+6976,Uma mulher está despejando gotas de baunilha em uma tigela de biscoitos,A mulher não está colocando chocolate na tigela de biscoitos.,1,entailment,hypothesis
+5055,O rapaz fala ao celular enquanto caminha em círculos,O rapaz não está parado falando ao celular,1,entailment,hypothesis
+4585,"Ela possui um sapato preto de plástico, estilo boneca",Ela não tem um sapato de couro branco.,1,entailment,hypothesis
+4112,Uma mulher de vestido vermelho e chapéu de sol e uma mulher de vestido azul e chapéu de sol estão relaxando na praia com duas garrafas de champagne,As mulheres não estão na cidade bebendo champagne,1,entailment,hypothesis
+1274,Não tem nenhuma mulher cortando legumes para a salada,As mulheres não estão cortando legumes para a salada.,1,entailment,hypothesis
+2647,A gata malhada está dormindo tranquilamente na colina,A gata malhada não está correndo na colina,1,entailment,hypothesis
+1007,Um pescador está navegando em seu barco e lançando sua rede ao mar,O pescador não está pescando em um rio,1,entailment,hypothesis
+8,"Uma senhora e uma criança estão de mãos dadas em frente à oca, sobre um chão de terra",A senhora e a criança não estão em um moderno apartamento na cidade,1,entailment,hypothesis
+5922,O homem não está usando um chapéu azul e não está segurando um livro na frente da mulher com um vestido preto,O homem não está usando um chapéu azul.,2,neutral,hypothesis
+4655,Uma gata ágil está escalando uma árvore alta,A gata não está descendo da árvore,1,entailment,hypothesis
+2426,Salgadinhos de 100 gramas estão disponíveis nos sabores simples e com gergelim,Não existem salgadinhos de 100 gramas no sabor queijo,1,entailment,hypothesis
+3100,O homem está vestindo jeans azul.,O homem não está vestindo jeans preto.,2,neutral,hypothesis
+4496,O gato está sentado com as patas traseiras em um galho na floresta,O gato não está correndo na floresta,2,neutral,hypothesis
+3794,O local está em estado de ruína após um desabamento,O local não está em perfeitas condições após o desabamento,1,entailment,hypothesis
+1711,Não existe um único adolescente agasalhado enfrentando o vento gelado lá fora,Não há um adolescente agasalhado enfrentando o vento gelado do lado de fora,1,entailment,hypothesis
+267,"Dois meninos, ainda muito jovens, estão se divertindo com uma bola de futebol no parque",Dois meninos não estão estudando matemática no parque,1,entailment,hypothesis
+4612,A criança está brincando e correndo,A criança não está sentada.,1,entailment,hypothesis
+5391,"O gato de pelagem desgastada se equilibra nos membros posteriores, pronto para dar o bote",O gato de pelagem desgastada não está dormindo tranquilamente,1,entailment,hypothesis
+1918,Um garoto com terno se assemelha a um homem,O garoto não está vestindo calções.,1,entailment,hypothesis
+657,Uma modelo está agachada colocando uma sandália de salto na cor bege,A modelo não está de pé calçando uma bota preta.,1,entailment,hypothesis
+1442,O cachorro está correndo atrás do seu rabo,O cachorro não está parado nem tranquilo.,1,entailment,hypothesis
+5674,Um médico de jaleco está ao lado de indicadores pregados na parede,Um médico de jaleco não está longe de qualquer indicador,1,entailment,hypothesis
+7040,Alunos e uma escritora interagem durante uma sessão de contação de histórias,Os alunos não estão ignorando a escritora durante a sessão de contação de histórias,1,entailment,hypothesis
+2266,O gato está entre os arbustos.,O gato não está em cima do muro.,1,entailment,hypothesis
+2357,"A fragrância com embalagem transparente e tampa dourada, está posicionada sobre textura e folhas douradas","A fragrância com embalagem não opaca e tampa não prateada, está posicionada sobre textura e folhas não azuis.",1,entailment,hypothesis
+3836,Não existe nenhum cavaleiro salvando a donzela,Nenhum cavaleiro está resgatando a donzela,1,entailment,hypothesis
+7715,O cachorro está bebendo água de seu pote,O cachorro não está comendo do seu prato,1,entailment,hypothesis
+3319,Várias pessoas usando tênis estão caminhando no asfalto,Nem todos estão caminhando na grama.,2,neutral,hypothesis
+304,O gato está deitado na sacada aproveitando o sol,"O gato não está escondido dentro de casa, longe do sol.",1,entailment,hypothesis
+3667,"O médico apresenta informações sobre os vetores do Covid-19, com foco na variante P1",O médico não está apresentando informações sobre a gripe comum.,1,entailment,hypothesis
+6550,Uma mulher e uma criança indígena são retratadas em uma pintura,A pintura não retrata um homem e um animal.,1,entailment,hypothesis
+5086,Um garoto está admirado na varanda de um apartamento no coração da Europa,O garoto não está em um apartamento na Ásia.,1,entailment,hypothesis
+198,Um gatinho está deitado no chão frio,O gatinho não está deitado em uma cama quente.,1,entailment,hypothesis
+156,Estou executando a postura de ioga pendurada na parede,Não estou sentada em uma cadeira.,1,entailment,hypothesis
+4910,Nenhum garoto está escondido atrás de uma pilha de caixotes de madeira,Nenhum garoto está se escondendo atrás de uma pilha de caixotes de madeira,1,entailment,hypothesis
+4528,"A atriz, com cabelos cacheados presos, está aplicando o batom",A atriz não está de cabelos soltos.,1,entailment,hypothesis
+5544,"Brigadeiros são servidos em duas bandejas retangulares, cercados por confetes e serpentinas",Os brigadeiros não estão sendo servidos em uma bandeja redonda.,1,entailment,hypothesis
+6453,O jogador de futebol está vestido de terno e gravata,O jogador de futebol não está usando uniforme de jogo,1,entailment,hypothesis
+3876,As folhas da árvore estão caindo no outono,As folhas da árvore não estão florescendo no outono,1,entailment,hypothesis
+2556,A mulher está caminhando inquieta por um corredor,A mulher não está sentada tranquilamente no corredor,1,entailment,hypothesis
+7769,A mulher está vestindo uma roupa de mergulho vermelha,A mulher não está usando um vestido vermelho,1,entailment,hypothesis
+1964,Um senhor está fazendo café.,Um senhor não está fazendo chá.,1,entailment,hypothesis
+6819,"Quatro amigos estão em um carro, sorrindo muito, com algo escrito no centro",Quatro amigos não estão tristes dentro de um carro,1,entailment,hypothesis
+2596,Um professor está de costas conversando com pessoas sentadas em uma sala de aula,O professor não está sozinho na sala de aula,1,entailment,hypothesis
+7180,O garçom está servindo o almoço,O garçom não está almoçando,1,entailment,hypothesis
+2400,Uma menina ruiva de azul está sentada em um escorregador,A menina ruiva de azul não está correndo ao redor do parque,1,entailment,hypothesis
+3820,Não tem nenhuma mulher bebendo uma xícara de café,Nenhuma mulher está saboreando uma xícara de café.,1,entailment,hypothesis
+774,Um menino está se divertindo com peças de encaixe coloridas que têm a forma de letras,Um menino não está brincando com peças de encaixe monocromáticas,1,entailment,hypothesis
+4941,Uma mulher está desenhando um retrato em um caderno,A mulher não está pintando uma paisagem em uma tela.,1,entailment,hypothesis
+2388,O menino está praticando asa delta,O menino não está praticando natação,1,entailment,hypothesis
+2575,Uma modelo está usando uma meia cinza com desenhos infantis,A modelo não está descalça,1,entailment,hypothesis
+6296,As pessoas estão dançando e comemorando na praia durante um pôr do sol,O local não está vazio e silencioso.,1,entailment,hypothesis
+3966,"Uma mulher está extremamente feliz, com os braços levantados e a língua para fora",A mulher não está extremamente triste.,1,entailment,hypothesis
+5596,Um homem está cultivando alguns legumes,"O homem não está deitado na cama, descansando",1,entailment,hypothesis
+3528,Um jovem está na varanda de um apartamento num centro europeu.,O jovem não está na varanda de um apartamento em uma cidade asiática.,1,entailment,hypothesis
+5656,Estou concentrada escrevendo contra a luz da janela,Estou escrevendo em um quarto claro,2,neutral,hypothesis
+3694,Quatro mulheres estão observando algo ao longe,Quatro mulheres não estão olhando algo de perto,1,entailment,hypothesis
+7591,Um homem desesperado está perdido em um labirinto,O homem está calmamente andando dentro do labirinto,2,neutral,hypothesis
+7834,Uma família está abrindo ovos de chocolate para celebrar a Páscoa,Uma família não está abrindo presentes de Natal.,1,entailment,hypothesis
+1514,Uma bicicleta está lentamente escalando a montanha,A bicicleta não está descendo a montanha rapidamente.,1,entailment,hypothesis
+5774,"O garoto está andando sozinho de skate, sem ninguém olhando.",O garoto não está andando de skate acompanhado de amigos.,1,entailment,hypothesis
+5933,O homem prepara um contra filé orgânico para o almoço,O homem não está preparando peixe para o almoço.,1,entailment,hypothesis
+7802,Um homem está lavando suas mãos,O homem não está com as mãos sujas.,1,entailment,hypothesis
+4450,Não há queijo sendo ralado.,Não há ninguém ralando o queijo.,1,entailment,hypothesis
+6441,O apresentador está no palco segurando um microfone,O apresentador não está na plateia,1,entailment,hypothesis
+3699,O shampoo pré-tratamento deve ser aplicado antes do condicionador,O condicionador não é usado antes do shampoo pré-tratamento,1,entailment,hypothesis
+253,O helicóptero está realizando o resgate de uma vítima,O helicóptero não está estacionado na base,1,entailment,hypothesis
+4230,As verduras estão sendo picadas na tábua pelo homem,As verduras não estão inteiras na tábua.,1,entailment,hypothesis
+6252,"Uma modelo está posando de lado, apoiada em uma parede, vestindo lingerie rosa claro",A modelo não está usando um vestido vermelho enquanto posa,1,entailment,hypothesis
+421,Dois jovens rapazes estão trajando smokings elegantes em uma cerimônia formal,Dois jovens não estão vestidos casualmente em uma cerimônia formal.,1,entailment,hypothesis
+7564,"Reitores estão de pé atrás de uma mesa principal, posando com um acordo que acabaram de assinar",Os reitores não estão sentados.,1,entailment,hypothesis
+7749,A mulher está corrigindo o erro de outra mulher no documento,A mulher não está cometendo um erro no documento de outra mulher.,1,entailment,hypothesis
+4200,Uma criança pequena está dormindo com a mão sobre o rosto,A criança pequena não está brincando.,1,entailment,hypothesis
+646,O cachorro está comendo sua ração,O cachorro não está brincando com a bola,1,entailment,hypothesis
+6425,Uma mulher está tocando violino em um concerto,A mulher não está tocando violão em um show de rock,1,entailment,hypothesis
+2667,"Potinhos de doces estão sobre a mesa do quiosque, um dos quais contém calda de doce de leite",Nenhum potinho de doces na mesa do quiosque está vazio,1,entailment,hypothesis
+8281,O bolo de chocolate foi colocado no forno para assar,O bolo de chocolate não está na geladeira,1,entailment,hypothesis
+3033,A medida provisória que adia o reajuste de servidores foi publicada,A medida provisória que não adianta o reajuste de servidores foi publicada,2,neutral,hypothesis
+7068,Um cachorro está rolando de costas por um tapete colorido,O cachorro não está dormindo em um tapete colorido,1,entailment,hypothesis
+6323,Um homem encapuzado de preto empunhando uma arma está cercado por uma multidão de lápis de cor,O homem encapuzado de preto não está sozinho,1,entailment,hypothesis
+196,A pessoa está pedindo para ser um instrumento de paz para um poder superior,A pessoa não está pedindo um aumento salarial,2,neutral,hypothesis
+2658,Dois homens estão tocando violão e cantando em um palco lotado,Os homens não estão tocando violão em um local vazio,2,neutral,hypothesis
+4515,Seis pincéis estão dispostos lado a lado na bancada,Os pincéis não estão todos espalhados pela mesa.,2,neutral,hypothesis
+2853,O garoto moreno com a camiseta verde está rindo e usando um chapéu engraçado com orelhas de coelho anexadas,O menino não está chorando e usando um boné de baseball.,2,neutral,hypothesis
+7725,Um homem jovem com cabelo castanho e sem relógio está chorando.,O homem jovem não está muito feliz e sorrindo.,2,neutral,hypothesis
+2608,A influenciadora está sorrindo e segurando um produto de beleza,A influenciadora não está chorando e segurando um produto de limpeza,1,entailment,hypothesis
+31,Um ciclista está parado ao lado da ciclovia sem um colete reflexivo,O ciclista não está usando um colete reflexivo,1,entailment,hypothesis
+7259,Profissionais de saúde estão realizando um exame de Covid-19 em um dedo,Profissionais de saúde não estão realizando um exame de visão,1,entailment,hypothesis
+4337,Um indivíduo está cuidando de uma planta,O indivíduo não está descuidando de uma planta,1,entailment,hypothesis
+1016,"Uma menina feliz está comendo melancia, simbolizando a ideia de alimentação saudável",A menina feliz não está comendo fast-food,1,entailment,hypothesis
+8158,Uma mulher está usando um avental de vinil e um escudo facial,Uma mulher não está vestindo um vestido de seda e óculos de sol,1,entailment,hypothesis
+2141,Um indivíduo está retirando pedaços de carne assada de um forno quente,O indivíduo não está cozinhando peixe no forno.,1,entailment,hypothesis
+262,Uma jovem loira de longos cabelos veste um vestido preto com mangas brancas,A jovem loira não veste uma calça jeans azul,1,entailment,hypothesis
+4674,Um pote de leite de coco em pó está posicionado em uma estante,O pote de leite de coco em pó não está no chão,1,entailment,hypothesis
+7524,Várias pessoas estão presentes enquanto um homem e uma mulher se cumprimentam com um aperto de mãos,O homem e a mulher não estão se evitando.,1,entailment,hypothesis
+439,Duas mãos estão unidas formando um coração com os dedos,As mãos não estão formando um círculo,1,entailment,hypothesis
+3759,Uma mulher está atravessando cautelosamente uma ponte suspensa,A mulher não está correndo livremente pela ponte suspensa.,1,entailment,hypothesis
+3434,O cantor e o escritor estão no palco,Não apenas o cantor está no palco,1,entailment,hypothesis
+5250,Uma mulher com cabelos soltos e em movimento está em frente a uma praia,A mulher não está com os cabelos presos em um coque.,1,entailment,hypothesis
+8195,Um estudo sugere que indivíduos de menor estatura tendem a ter uma maior longevidade,Ser mais alto não é um fator que contribui para uma maior longevidade,1,entailment,hypothesis
+7125,Um arco-íris de seis cores é pintado em um fundo cinza claro,O fundo da pintura não é de cor escura.,1,entailment,hypothesis
+7764,O jogador de futebol conhecido está em movimento e celebrando,O jogador de futebol conhecido não está parado,1,entailment,hypothesis
+612,Alunos estão reunidos participando de um jogo de sete erros,Os alunos não estão estudando para a prova,1,entailment,hypothesis
+7300,Um tutorial ao vivo sobre como fazer teatro de sombras em casa será realizado na praça principal,O tutorial ao vivo não será sobre culinária ao ar livre.,1,entailment,hypothesis
+5921,Três amigos estão caminhando exaustos pelo deserto escaldante enquanto o sol está se elevando,Três amigos não estão relaxando em um deserto frio.,1,entailment,hypothesis
+8310,Um menino e uma menina estão sorrindo e brincando de medir sua altura,O menino e a menina não estão chorando e não se recusam a comparar suas alturas,1,entailment,hypothesis
+1292,Dois garotos estão arrastando um colchão de ar em formato de tubarão para fora do lago,Dois garotos não estão jogando um tubarão de verdade no lago.,1,entailment,hypothesis
+937,Uma criança pequena está tocando um tímpano com duas baquetas felpudas,A criança não está tocando um violão.,1,entailment,hypothesis
+7184,Um punhado de mulheres está divertidamente jogando vôlei na praia,As mulheres não estão jogando futebol no parque,1,entailment,hypothesis
+1109,Uma pesquisa afirma que o consumo de vinho tinto pode diminuir o nível de estresse,A pesquisa confirma qualquer relação entre o consumo de vinho tinto e a redução do estresse.,2,neutral,hypothesis
+8163,"Um menino sorridente está sentado no sanitário, puxando papel higiênico do rolo na parede","O menino sorridente não está de pé na banheira, brincando com papel higiênico.",1,entailment,hypothesis
+5556,O aparelho de tomografia foi colocado em uma sala com paredes e chão brancos,O aparelho de tomografia não está em uma sala com paredes e chão pretos,1,entailment,hypothesis
+2069,Um pequeno vaso preto de barro contendo a planta mini espada de São Jorge está sobre uma mesa,O vaso preto de barro não está vazio.,1,entailment,hypothesis
+201,Nenhuma das mulheres está segurando um telescópio.,Nenhuma mulher está segurando um telescópio.,1,entailment,hypothesis
+2750,Um rapaz está transportando um punhado de chapéus de palha na beira do mar,Um rapaz não está transportando chapéus de palha no deserto,1,entailment,hypothesis
+5943,Um homem de terno preto está tocando um piano,O homem de terno preto não está jogando futebol.,2,neutral,hypothesis
+2277,Três senhores estão sentados em uma mesa tomando café,A mesa não está vazia.,1,entailment,hypothesis
+145,O leopardo está perseguindo ferozmente sua vítima,O leopardo não está dormindo tranquilamente,2,neutral,hypothesis
+3534,Há um menino se divertindo com areia perto do oceano,O menino não está jogando bola longe da praia,2,neutral,hypothesis
+940,Um recipiente contém brigadeiro artesanal de doce de leite cheio de granulados de caramelo,O recipiente não está vazio,1,entailment,hypothesis
+804,A pessoa está de pé diante da placa de um local reservado,A pessoa não está sentada em frente à placa de um local reservado.,1,entailment,hypothesis
+161,O palestrante disse que curtir a trajetória é mais do que o resultado final,O palestrante não afirmou que o resultado final é mais importante do que a jornada,1,entailment,hypothesis
+658,O rio serpenteia através da vasta floresta amazônica vista de cima,O rio não é reto e flui através de uma floresta densa,1,entailment,hypothesis
+7728,Um estudo revela que os brasileiros trabalham cinco meses por ano apenas para pagar impostos,Os brasileiros não trabalham apenas um mês por ano para pagar impostos.,1,entailment,hypothesis
+8046,Uma pesquisa revelou que os brasileiros tendem a evitar conversas com pessoas que possuem opiniões divergentes das suas,Os brasileiros não adoram conversar com pessoas que possuem opiniões divergentes das suas.,1,entailment,hypothesis
+79,Uma pessoa está escrevendo em um computador,A pessoa não está escrevendo em um bloco de notas.,1,entailment,hypothesis
+6553,"A embalagem de polpa de frutas contém um mix de framboesa, uva e amora",A embalagem de polpa de frutas não contém somente laranja,1,entailment,hypothesis
+2103,Os jovens estão comprando um balde de frango frito e batatas,Os jovens não estão comprando saladas e frutas,1,entailment,hypothesis
+7909,O gato está arranhando um sofá,O gato não está dormindo tranquilamente.,1,entailment,hypothesis
+7576,A celebridade está sozinha sem ninguém ao redor.,A celebridade não está em uma festa cheia de pessoas.,1,entailment,hypothesis
+881,Pratos decorados com pinturas azul estão dispostos sobre uma mesa da mesma cor,Os pratos e a mesa não são de cores diferentes.,1,entailment,hypothesis
+5737,Uma mulher está no palco dando aula de teatro para duas crianças,A mulher não está na plateia assistindo uma aula de teatro,1,entailment,hypothesis
+6869,Pedro e Maria estão jogando xadrez,Maria e Pedro não estão assistindo um filme,1,entailment,hypothesis
+2992,As inscrições para o curso de ballet estão abertas,As inscrições para o curso de ballet não estão encerradas,1,entailment,hypothesis
+7343,Um advogado está sorrindo no estúdio de uma rádio,Um advogado não está chateado no estúdio de uma rádio,1,entailment,hypothesis
+1305,O futebol não está sendo jogado pelo garoto,O garoto não está jogando futebol,1,entailment,hypothesis
+6466,A crina de um cavalo está sendo escovada por um fazendeiro,A crina do cavalo não está suja,1,entailment,hypothesis
+457,Um pequeno garoto veste um casaco amarelo brilhante e se diverte pulando em poças de água após a chuva,O garoto não está usando um casaco azul.,1,entailment,hypothesis
+5074,Uma artista está desenhando o perfil de um homem,A artista não está pintando uma paisagem.,1,entailment,hypothesis
+3210,Uma menina negra com trancinhas no cabelo e vestindo um moletom rosa sorri alegremente,A menina de moletom rosa não é triste,1,entailment,hypothesis
+4056,Os meninos estão tentando mover uma caixa pesada.,Os meninos não estão movendo uma caixa leve.,1,entailment,hypothesis
+7767,Um indivíduo usando tênis está de pé sobre um skate,O indivíduo não está descalço sobre o skate.,1,entailment,hypothesis
+2311,Um indivíduo está temerariamente conduzindo um automóvel,O indivíduo não está conduzindo o carro de forma cautelosa.,1,entailment,hypothesis
+2453,Um jovem de cabelos pretos e camiseta azul marinho está olhando seriamente para uma foto ao lado de uma coluna de concreto,Um jovem de cabelos loiros e camiseta vermelha não está rindo enquanto olha para uma pintura ao lado de uma coluna de madeira.,1,entailment,hypothesis
+4545,O público e os palestrantes de um evento estão de mãos dadas em um auditório cheio,O auditório não está vazio.,1,entailment,hypothesis
+3650,Uma modelo tem seu cabelo loiro platinado preso,A modelo não tem o cabelo solto.,1,entailment,hypothesis
+573,A mulher está recusando uma coletiva de imprensa,A mulher não está aceitando uma coletiva de imprensa,1,entailment,hypothesis
+2340,"O jovem artista, apesar de duvidar de sua capacidade, encontrou força e coragem antes de desistir",O jovem artista não desistiu por causa de suas dúvidas,1,entailment,hypothesis
+339,As atividades administrativas e de ensino serão retomadas na próxima segunda-feira,As atividades administrativas e de ensino não continuarão suspensas na próxima segunda-feira,1,entailment,hypothesis
+5507,A atração na praça do parque consiste em um pula-pula e uma torre de 7 metros de altura,A praça do parque não possui somente brinquedos para bebês,1,entailment,hypothesis
+2855,"O gato está deitado no sofá, com a cabeça levantada, cercado por brilhos coloridos","O gato não está de pé no sofá, cercado por brilhos coloridos",1,entailment,hypothesis
+8306,Um homem em um jaleco branco está apontando para um teclado virtual,Um homem de jaleco não-preto está apontando para um teclado real,1,entailment,hypothesis
+5898,Um estudo afirma que o mau humor pode levar ao ganho de peso,O mau humor não ajuda a perder peso.,1,entailment,hypothesis
+47,Uma mulher toca violino em uma orquestra sinfônica,A mulher não está dançando em um grupo de ballet,1,entailment,hypothesis
+5741,Um gato está capturando um pássaro em pleno voo,Um gato não está dormindo calmamente em uma almofada.,1,entailment,hypothesis
+4792,Os gatos estão caçando o rato,Os gatos não estão dormindo.,1,entailment,hypothesis
+8189,Uma mesa redonda está servida com café da manhã,A mesa não está vazia,1,entailment,hypothesis
+4879,O gato está correndo descuidadamente sobre a camada de geada,"O gato não está dormindo tranquilamente, longe de qualquer geada",1,entailment,hypothesis
+6756,O gato branco tem olhos azuis.,O gato não tem olhos verdes.,1,entailment,hypothesis
+4943,Vereadores estão sentados atrás de suas mesas durante uma sessão ordinária,Os vereadores não estão andando durante a sessão.,1,entailment,hypothesis
+4069,Um chuveiro de praia está ligado a muito tempo,A água do chuveiro de praia está ligada,1,entailment,hypothesis
+5092,A cebola está inteira e intacta.,A cebola não está cortada em rodelas.,1,entailment,hypothesis
+4370,Os indivíduos estão correndo apressadamente na calçada em frente a uma livraria,Os indivíduos estão calmamente em movimento em frente a uma livraria,2,neutral,hypothesis
+6786,Um homem está cavalgando um cavalo,Um homem não está andando a pé,1,entailment,hypothesis
+8389,Um copinho de vidro contém creme de couve-flor com chips de batata,O copinho de vidro não está vazio.,1,entailment,hypothesis
+600,Pessoas estão caminhando na rua,As ruas não estão vazias.,1,entailment,hypothesis
+4009,A loja física terá novos horários e condições de funcionamento a partir do mês que vem,A loja física não continuará operando nos mesmos horários e condições no próximo mês,1,entailment,hypothesis
+4722,Uma mulher está abotoando sua jaqueta,A mulher não está tirando sua jaqueta,1,entailment,hypothesis
+1390,Uma tigela cheia de açaís está na bancada da lancheria,A bancada da lancheria não está vazia,1,entailment,hypothesis
+6589,"A palestra ocorreu num ambiente aberto repleto de puffs e móveis sustentáveis, com uma plateia lotada",A palestra não ocorreu numa sala fechada.,1,entailment,hypothesis
+6280,Um homem está preparando café,O homem não está acordado.,0,contradiction,hypothesis
+1969,Um garçom estende o braço para frente do balcão segurando um copo de whisky,O garçom não está com um copo nas mãos,0,contradiction,hypothesis
+1035,"Uma modelo feminina veste uma blusa rosa com detalhes em branco e azul nas mangas, gola e barra",A modelo feminina não veste uma blusa verde.,1,entailment,hypothesis
+5475,Um garoto está brincando com seu cachorro no quintal,Um garoto não está brincando com seu gato no quintal,1,entailment,hypothesis
+8352,"O homem está deitado na cama, descansando",O homem não está no parque,1,entailment,hypothesis
+7957,"Uma mulher levanta as mãos ao alto, parecendo segurar o Sol que se põe ao fundo",A mulher não está com as mãos para baixo.,1,entailment,hypothesis
+7394,Uma mulher está cantando uma música com a ajuda de um microfone,Uma mulher não está em silêncio.,1,entailment,hypothesis
+4030,Um indivíduo não está tocando guitarra,Um homem não está tocando uma guitarra,1,entailment,hypothesis
+2847,Uma mão está enchendo uma seringa com líquido de vacinação enquanto a outra mão segura o pote com o líquido,Pelo menos uma das mãos tem algo.,1,entailment,hypothesis
+5808,Um homem está preparando café em uma chaleira fervente,Um homem não está preparando suco em uma chaleira fervente,1,entailment,hypothesis
+4906,Um cliente sorridente está usando seu celular enquanto conversa com um amigo,O cliente não está com uma expressão triste.,1,entailment,hypothesis
+6163,"Uma senhora idosa está sentada em uma poltrona, vestindo um cardigã azul e uma saia cinza",Uma senhora idosa não está de pé usando um vestido vermelho,1,entailment,hypothesis
+3468,"Um homem está abraçando um menino, demonstrando que é perfeitamente aceitável para os homens mostrarem emoção",Um homem não está reprimindo suas emoções ao abraçar um menino,1,entailment,hypothesis
+6586,Uma pessoa está lavando as mãos com sabão sob uma torneira jorrando água,A pessoa não está limpando as mãos com um lenço umedecido.,1,entailment,hypothesis
+6823,O quarto possui uma cama de casal com colcha cinza e uma parede com pintura dividida em azul e branco,A parede do quarto não é totalmente vermelha.,1,entailment,hypothesis
+5728,Um casal está junto a uma mesa preparada com taças e flores,O casal não está distante de uma mesa preparada com taças e flores,1,entailment,hypothesis
+5415,Uma mulher loira de cabelo ondulado está passando condicionador no seu cabelo,A mulher loira de cabelo ondulado não está cortando seu cabelo,1,entailment,hypothesis
+3051,"Diversos frascos de remédios contêm comprimidos de cores pretas, amarelas, vermelhas e azuis",Não são todos os frascos de remédios que contêm apenas comprimidos brancos,1,entailment,hypothesis
+645,Um manequim está vestido com uma saia vinho com babado e uma blusa branca bordada com flores nas mangas curtas e perto da gola,O manequim não está vestido com calças jeans e uma camiseta preta.,1,entailment,hypothesis
+5356,Uma criança está se divertindo no game station,A criança não está brincando no parque,1,entailment,hypothesis
+4406,Alunos estão em uma sala de aula com mesas distanciadas para prevenir a propagação da Covid-19,Os alunos não estão em uma sala de aula com mesas agrupadas,1,entailment,hypothesis
+8395,A mulher não está regando as plantas,A mulher não está molhando as plantas,1,entailment,hypothesis
+3838,A mulher admira seu par de sapatos femininos pretos de salto alto,A mulher não está insatisfeita com seu par de sapatos femininos pretos de salto alto,1,entailment,hypothesis
+1515,A médica está analisando um exame com muita atenção,A médica está não desatenta.,1,entailment,hypothesis
+5870,Um imenso gato preto não está pulando sobre os muros no quintal,Um grande gato preto não está pulando muros no quintal,1,entailment,hypothesis
+2188,O bar está vazio e ninguém está comendo.,O bar não está cheio de pessoas comendo.,1,entailment,hypothesis
+5155,Uma pessoa está segurando um punhado de morangos,A pessoa não está segurando um punhado de uvas.,2,neutral,hypothesis
+7889,O homem está espremendo limões em uma jarra feita de cerâmica,O homem não está espremendo limões em uma garrafa de vidro.,2,neutral,hypothesis
+2364,Não há um bando de gatos de competição usando coletes coloridos e saltando pelos obstáculos,Não existem muitos gatos de competição saltando obstáculos com coletes coloridos.,1,entailment,hypothesis
+7285,O piano não está sendo usado.,O piano não está em uso.,1,entailment,hypothesis
+4567,Um profissional de saúde está ocupado trabalhando em um hospital,O profissional de saúde não está de folga em casa,1,entailment,hypothesis
+4953,O gato listrado e cinza não está pulando e não há ninguém sentado ao lado,Não há várias pessoas sentadas ao lado do gato listrado e cinza,1,entailment,hypothesis
+7123,O homem não está usando nenhum gorro,O homem não está usando um gorro.,1,entailment,hypothesis
+4047,Marinheiros estão movendo uma embarcação da garagem para a água,Os marinheiros não estão movendo uma embarcação da água para a garagem.,1,entailment,hypothesis
+8147,Uma pessoa segurando um crepe está vestindo uma camisa rosa,A pessoa segurando um crepe não está vestindo uma camisa azul.,2,neutral,hypothesis
+6681,Os alunos adoraram a oficina de teatro,Os alunos não adoraram a oficina de teatro.,2,neutral,hypothesis
+3625,A garota está em um parque infantil,A garota não está no parque infantil.,2,neutral,hypothesis
+2589,Dois boxeadores não estão em combate,Dois boxeadores não estão lutando,1,entailment,hypothesis
+5293,Um acrobata de skate salta alto próximo a um lago cristalino,O acrobata de skate não está se movendo baixo perto de um lago poluído,1,entailment,hypothesis
+275,Alguém está desprendendo o milho do caule,Alguém não está plantando milho.,2,neutral,hypothesis
+5116,Uma garotinha descalça está balançando em um balanço azul,A garotinha não está calçando sapatos enquanto brinca no balanço.,1,entailment,hypothesis
+2887,O homem está temperando o peixe cuidadosamente,O homem não está fritando um hambúrguer.,1,entailment,hypothesis
+3720,As frutas estão sendo arrumadas em uma cesta por uma mulher,O homem não está arrumando as frutas em uma cesta.,1,entailment,hypothesis
+458,Um homem está realizando exercícios de musculação,O homem não está dormindo,1,entailment,hypothesis
+2854,O gato está dormindo.,O gato não está pulando de uma árvore.,1,entailment,hypothesis
+5577,O surfista não está deslizando sobre uma onda gigante,O surfista não está surfando em uma onda gigante.,2,neutral,hypothesis
+2772,Um casal está dançando tango em uma competição,O casal não está sentado assistindo a competição de tango.,2,neutral,hypothesis
+8259,Uma majestosa águia dourada está planando sobre as montanhas,A águia dourada não está descansando no chão,2,neutral,hypothesis
+5304,Uma pessoa está utilizando uma furadeira para furar um móvel,A pessoa não está usando um martelo para pregar um prego no móvel,2,neutral,hypothesis
+6662,A ministrante está sinalizando em Libras o alfabeto manual para os servidores que estão sentados em volta de uma mesa redonda,A ministrante não está falando em voz alta para os servidores.,2,neutral,hypothesis
+6099,Os animais foram abandonados por um carro branco,Os animais não foram abandonados por um carro preto.,1,entailment,hypothesis
+1165,Uma criança com um lenço bege na cabeça tem uma expressão séria,A criança não está sorrindo.,1,entailment,hypothesis
+1511,A recrutadora está analisando vários perfis de profissionais em uma prancheta,A recrutadora não está desenhando em uma prancheta.,1,entailment,hypothesis
+5810,"Uma garota está vestida com uma saia jeans, uma blusa listrada colorida e uma jaqueta jeans rosa bebê",A garota não está totalmente vestida de preto,1,entailment,hypothesis
+2843,Não existe nenhuma garota pintando telas,Não há uma garota pintando uma tela.,1,entailment,hypothesis
+1070,A temperatura está caindo abaixo de zero graus,A temperatura não está subindo acima de zero graus,1,entailment,hypothesis
+1210,Uma garota está andando de bicicleta na rua,A garota não está em casa jogando vídeo game,1,entailment,hypothesis
+3616,Todos estão se reunindo em um ambiente fechado.,O encontro não está acontecendo ao ar livre.,1,entailment,hypothesis
+1562,Uma mãe está segurando a mão de sua filha,A mãe não está longe de sua filha.,1,entailment,hypothesis
+7547,Um estudo revela que o tempo passado com avós pode aumentar sua longevidade,O estudo não mostra que passar o tempo com avós reduz a longevidade.,1,entailment,hypothesis
+7310,"Diversas romãs estão cortadas ao meio, revelando uma profusão de sementes avermelhadas",As romãs não estão intactas e fechadas,1,entailment,hypothesis
+5623,A mãe está amamentando o bebê,A mãe não está dando mamadeira para o bebê,1,entailment,hypothesis
+3066,Há uma pessoa pintando a tela enquanto sorri.,A pessoa não está triste enquanto pinta a tela.,1,entailment,hypothesis
+3064,Um papagaio está irritando um gato na loja de animais,Um papagaio não está brincando amigavelmente com um gato na loja de animais,1,entailment,hypothesis
+1844,A borboleta está voando ao redor da mulher.,A borboleta não está pousada numa árvore longe da mulher.,1,entailment,hypothesis
+4093,A sequência documenta a implosão de um edifício,O vídeo não mostra a construção de um edifício,1,entailment,hypothesis
+5323,O evento é detalhado em uma arte gráfica azul,O evento não é detalhado em uma arte gráfica vermelha,1,entailment,hypothesis
+6714,Uma mulher mascarada levanta um cartaz declarando que sua mesa está livre de Covid-19,A mulher mascarada não está afirmando que sua mesa está contaminada com Covid-19,1,entailment,hypothesis
+3500,Os gatos estão dormindo no sofá.,Os gatos não estão correndo ao redor da casa.,1,entailment,hypothesis
+7919,Uma mulher não está usando um vestido azul e botas de cano alto marrom e está sorrindo para a lente,A mulher não está vestindo um vestido azul e botas de cano alto marrom,1,entailment,hypothesis
+606,"Uma mulher de cabelos pretos e crespos, com sobrancelhas bem aparadas, está sentada na entrada",Uma mulher loira não está de pé na entrada.,1,entailment,hypothesis
+188,Um indivíduo não está realizando uma manobra em uma prancha de skate,O indivíduo não está fazendo uma manobra em sua prancha de skate.,1,entailment,hypothesis
+4905,Uma mão feminina está segurando uma ampola e uma seringa,A mão feminina não está vazia.,1,entailment,hypothesis
+2362,Duas meninas não estão brincando no playground,Duas meninas não estão se divertindo no playground,1,entailment,hypothesis
+666,Três fotos mostram uma modelo loira exibindo diferentes óculos de sol,As fotos não mostram uma modelo morena exibindo diferentes óculos de sol.,1,entailment,hypothesis
+1600,Acordei tarde e perdi o ônibus para a escola.,Não acordei cedo e não peguei o ônibus para a escola,1,entailment,hypothesis
+4291,Não há nenhuma mulher perto de garrafas de vinho.,Não há mulher verificando a qualidade das garrafas de vinho.,1,entailment,hypothesis
+7440,Manequim está simulando o uso de um notebook,O manequim não está simulando o uso de um smartphone.,2,neutral,hypothesis
+6241,O perfume do homem está guardado no seu armário pessoal,O perfume do homem não está sobre a cômoda,1,entailment,hypothesis
+331,"O menino está dentro da banheira, pronto para um cuidado intensivo",O menino não está brincando fora de casa,1,entailment,hypothesis
+133,Um garoto sem camiseta está construindo um castelo de areia.,O garoto não está de camiseta enquanto constrói um castelo de areia,1,entailment,hypothesis
+381,A universidade foi vandalizada ontem a noite,A universidade não está em perfeitas condições.,1,entailment,hypothesis
+6102,O Carnaval está programado para começar em 90 dias,O Carnaval não começa amanhã,1,entailment,hypothesis
+391,O indivíduo que dirige o carro está fechando os olhos ao ver a colisão de outro motorista,O indivíduo que dirige o carro não está com os olhos abertos e não vê claramente o que está à sua frente,1,entailment,hypothesis
+1416,Uma caixa plástica para organização contém várias linhas de meada desarrumadas,A caixa plástica não está organizada com todas as meadas de linha arrumadas,1,entailment,hypothesis
